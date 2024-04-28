@@ -501,9 +501,9 @@ http://171.124.164.136:4022/rtp/226.0.2.36:8200
 
 #EXTINF:-1 ,大连新闻综合
 http://live.cooltv.top/tv/tide.php?id=dlzh
-#EXTINF:-1 ,大连生活综合[720*576]
+#EXTINF:-1 ,大连生活综合
 http://live.cooltv.top/tv/tide.php?id=dlsh
-#EXTINF:-1 ,大连文体综合[720*576]
+#EXTINF:-1 ,大连文体综合
 http://live.cooltv.top/tv/tide.php?id=dlwt
 
 

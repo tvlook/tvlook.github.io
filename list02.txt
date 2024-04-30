@@ -512,11 +512,11 @@ http://wb.jxgztv.com/live/gztv1.m3u8
 
 
 #EXTINF:-1 ,辽宁北方
-http://rt4.orangevip.top:8999/rtp/232.0.0.151:1234
+http://175.161.53.206:4000/rtp/232.0.0.151:1234
 #EXTINF:-1 ,辽宁都市
-http://rt4.orangevip.top:8999/rtp/232.0.0.154:1234
+http://175.161.53.206:4000/rtp/232.0.0.154:1234
 #EXTINF:-1 ,辽宁公共
-http://rt4.orangevip.top:8999/rtp/232.0.0.168:1234
+http://175.161.53.206:4000/rtp/232.0.0.168:1234
 
 
 #EXTINF:-1 ,陕西影视

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",央视1
 http://171.117.121.89:8084/rtp/226.0.2.18:8056
 #EXTINF:-1 ,央视1[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.18:8056
@@ -9,7 +9,7 @@ http://118.81.192.3:8082/rtp/226.0.2.18:8056
 http://118.81.187.173:8083/rtp/226.0.2.18:8056
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",央视2
 http://171.117.121.89:8084/rtp/226.0.2.19:8064
 #EXTINF:-1 ,央视2[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.19:8064
@@ -19,7 +19,7 @@ http://118.81.192.3:8082/rtp/226.0.2.19:8064
 http://118.81.187.173:8083/rtp/226.0.2.19:8064
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",央视3
 http://171.117.121.89:8084/rtp/226.0.2.20:8072
 #EXTINF:-1 ,央视3[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.20:8072
@@ -29,7 +29,7 @@ http://118.81.192.3:8082/rtp/226.0.2.20:8072
 http://118.81.187.173:8083/rtp/226.0.2.20:8072
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",央视4
 http://171.117.121.89:8084/rtp/226.0.2.21:8080
 #EXTINF:-1 ,央视4[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.21:8080
@@ -39,7 +39,7 @@ http://118.81.192.3:8082/rtp/226.0.2.21:8080
 http://118.81.187.173:8083/rtp/226.0.2.21:8080
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",央视5
 http://171.117.121.89:8084/rtp/226.0.2.22:8088
 #EXTINF:-1 ,央视5[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.22:8088
@@ -49,7 +49,7 @@ http://118.81.192.3:8082/rtp/226.0.2.22:8088
 http://118.81.187.173:8083/rtp/226.0.2.22:8088
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",央视6
 http://171.117.121.89:8084/rtp/226.0.2.23:8096
 #EXTINF:-1 ,央视6[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.23:8096
@@ -59,7 +59,7 @@ http://118.81.192.3:8082/rtp/226.0.2.23:8096
 http://118.81.187.173:8083/rtp/226.0.2.23:8096
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",央视7
 http://171.117.121.89:8084/rtp/226.0.2.24:8104
 #EXTINF:-1 ,央视7[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.24:8104
@@ -69,7 +69,7 @@ http://118.81.192.3:8082/rtp/226.0.2.24:8104
 http://118.81.187.173:8083/rtp/226.0.2.24:8104
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",央视8
 http://171.117.121.89:8084/rtp/226.0.2.25:8112
 #EXTINF:-1 ,央视8[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.25:8112
@@ -79,7 +79,7 @@ http://118.81.192.3:8082/rtp/226.0.2.25:8112
 http://118.81.187.173:8083/rtp/226.0.2.25:8112
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",央视9
 http://171.117.121.89:8084/rtp/226.0.2.26:8120
 #EXTINF:-1 ,央视9[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.26:8120
@@ -89,7 +89,7 @@ http://118.81.192.3:8082/rtp/226.0.2.26:8120
 http://118.81.187.173:8083/rtp/226.0.2.26:8120
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",央视10
 http://171.117.121.89:8084/rtp/226.0.2.27:8128
 #EXTINF:-1 ,央视10[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.27:8128
@@ -99,7 +99,7 @@ http://118.81.192.3:8082/rtp/226.0.2.27:8128
 http://118.81.187.173:8083/rtp/226.0.2.27:8128
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",央视11
 http://171.117.121.89:8084/rtp/226.0.2.28:8136
 #EXTINF:-1 ,央视11[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.28:8136
@@ -109,7 +109,7 @@ http://118.81.192.3:8082/rtp/226.0.2.28:8136
 http://118.81.187.173:8083/rtp/226.0.2.28:8136
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",央视12
 http://171.117.121.89:8084/rtp/226.0.2.29:8144
 #EXTINF:-1 ,央视12[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.29:8144
@@ -119,7 +119,7 @@ http://118.81.192.3:8082/rtp/226.0.2.29:8144
 http://118.81.187.173:8083/rtp/226.0.2.29:8144
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",央视13
 http://171.117.121.89:8084/rtp/226.0.2.30:8152
 #EXTINF:-1 ,央视13[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.30:8152
@@ -129,17 +129,17 @@ http://118.81.192.3:8082/rtp/226.0.2.30:8152
 http://118.81.187.173:8083/rtp/226.0.2.30:8152
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",央视14
 http://171.117.121.89:8084/rtp/226.0.2.31:8160
-#EXTINF:-1 ,CCTV14[720*576]
+#EXTINF:-1 ,央视14[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.31:8160
-#EXTINF:-1 ,CCTV14[720*576]
+#EXTINF:-1 ,央视14[720*576]
 http://118.81.192.3:8082/rtp/226.0.2.31:8160
-#EXTINF:-1 ,CCTV14[720*576]
+#EXTINF:-1 ,央视14[720*576]
 http://118.81.187.173:8083/rtp/226.0.2.31:8160
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV15
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",央视15
 http://171.117.121.89:8084/rtp/226.0.2.32:8168
 #EXTINF:-1 ,央视15[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.32:8168
@@ -149,7 +149,7 @@ http://118.81.192.3:8082/rtp/226.0.2.32:8168
 http://118.81.187.173:8083/rtp/226.0.2.32:8168
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",央视16
 http://171.117.121.89:8084/rtp/226.0.2.169:9264
 #EXTINF:-1 ,央视16[1920*1080]
 http://116.179.235.45:8000/rtp/226.0.2.169:9264
@@ -159,7 +159,7 @@ http://118.81.192.3:8082/rtp/226.0.2.169:9264
 http://118.81.187.173:8083/rtp/226.0.2.169:9264
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",央视17
 http://171.117.121.89:8084/rtp/226.0.2.207:9568
 #EXTINF:-1 ,央视17[720*576]
 http://116.179.235.45:8000/rtp/226.0.2.207:9568

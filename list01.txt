@@ -553,10 +553,6 @@ http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 http://wb.jxgztv.com/live/gztv1.m3u8
 #EXTINF:-1 ,江西赣州公共
 http://wb.jxgztv.com/live/gztv2.m3u8
-#EXTINF:-1 ,江苏南京信息
-http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-#EXTINF:-1 ,江苏南京娱乐
-http://live.nbs.cn/channels/njtv/ylxpd/m3u8:500k/live.m3u8
 #EXTINF:-1 ,江苏赣榆综合
 http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
 #EXTINF:-1 ,江苏沛县综合

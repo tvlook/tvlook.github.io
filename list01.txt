@@ -505,10 +505,8 @@ http://live.cooltv.top/tv/tide.php?id=dlzh
 http://live.cooltv.top/tv/tide.php?id=dlsh
 #EXTINF:-1 ,大连文体综合[720*576]
 http://live.cooltv.top/tv/tide.php?id=dlwt
-
-
-#EXTINF:-1 group-title="其他" tvg-logo="https://live.fanmingming.com/tv/赣州综合.png",赣州综合
-http://wb.jxgztv.com/live/gztv1.m3u8
+#EXTINF:-1 ,北京卫视
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
 
 #EXTINF:-1 ,辽宁北方
@@ -517,6 +515,108 @@ http://175.168.46.94:8888/rtp/232.0.0.151:1234
 http://175.168.46.94:8888/rtp/232.0.0.154:1234
 #EXTINF:-1 ,辽宁公共[1920*1080]
 http://175.168.46.94:8888/rtp/232.0.0.168:1234
+#EXTINF:-1 ,山东卫视
+http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+
+
+#EXTINF:-1 ,安徽岳西综合
+http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
+#EXTINF:-1 ,重庆开州综合
+https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
+#EXTINF:-1 ,重庆忠县综合
+https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
+#EXTINF:-1 ,重庆萬州綜合
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 ,福建漳州综合
+http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
+#EXTINF:-1 ,广西南宁综合
+https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+#EXTINF:-1 ,广西南宁公共
+https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+#EXTINF:-1 ,广西隆安综合
+https://hls.nntv.cn/nnlive/LATV_24.m3u8
+#EXTINF:-1 ,河北邯郸公共
+https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+#EXTINF:-1 ,河南汝阳综合
+http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+#EXTINF:-1 ,河南宜阳综合
+http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+#EXTINF:-1 ,河南焦作综合
+http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+#EXTINF:-1 ,河南焦作公共
+http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+#EXTINF:-1 ,河南开封公共
+http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
+#EXTINF:-1 ,吉林延边卫视
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+#EXTINF:-1 ,江西赣州综合
+http://wb.jxgztv.com/live/gztv1.m3u8
+#EXTINF:-1 ,江西赣州公共
+http://wb.jxgztv.com/live/gztv2.m3u8
+#EXTINF:-1 ,江苏南京信息
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,江苏南京娱乐
+http://live.nbs.cn/channels/njtv/ylxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,江苏赣榆综合
+http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
+#EXTINF:-1 ,江苏沛县综合
+http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
+#EXTINF:-1 ,江苏睢宁综合
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
+#EXTINF:-1 ,江苏如东综合
+http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+#EXTINF:-1 ,江苏海安综合
+http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
+#EXTINF:-1 ,江苏泗洪综合
+http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
+#EXTINF:-1 ,江苏沭阳综合
+http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+#EXTINF:-1 ,江苏泗阳综合
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+#EXTINF:-1 ,江苏泗阳资讯
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+#EXTINF:-1 ,江苏扬州综合
+http://cm-wshls.homecdn.com/live/8bb.m3u8
+#EXTINF:-1 ,江苏扬州城市
+http://cm-wshls.homecdn.com/live/8bd.m3u8
+#EXTINF:-1 ,江苏扬州生活
+http://cm-wshls.homecdn.com/live/8bf.m3u8
+#EXTINF:-1 ,江苏扬州邗江
+http://cm-wshls.homecdn.com/live/8c3.m3u8
+#EXTINF:-1 ,江苏高邮综合
+http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+#EXTINF:-1 ,江苏镇江综合
+http://cm-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 ,江苏镇江生活
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 ,山东济宁综合
+http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+#EXTINF:-1 ,山东济宁公共
+http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+#EXTINF:-1 ,山东济宁公共
+http://lives.jnnews.tv/video/s10001-JTV3/index.m3u8
+#EXTINF:-1 ,山东威海综合
+http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
+#EXTINF:-1 ,四川广安综合
+http://live1.gatv.com.cn:85/live/XWZH.m3u8
+#EXTINF:-1 ,四川广安公共
+http://live1.gatv.com.cn:85/live/GGPD.m3u8
+#EXTINF:-1 ,四川眉山综合
+https://live1.scmstv.cn/gqpd/playlist.m3u8?_upt=cba876901707373626
+#EXTINF:-1 ,四川眉山公共
+https://live1.scmstv.cn/ggpd/playlist.m3u8?_upt=a080e9731707373632
+#EXTINF:-1 ,四川巴中综合
+http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
+#EXTINF:-1 ,四川巴中文旅
+http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
+#EXTINF:-1 ,云南德宏公共
+https://ali-play.lezhibo.com/lezhibo/e6a8b2ecf53b4ea4b0aef1e91d20cd51.m3u8
+#EXTINF:-1 ,浙江绍兴综合
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1 ,浙江绍兴公共
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 ,浙江绍兴影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
 
 #EXTINF:-1 ,山西影视[1920*1080]

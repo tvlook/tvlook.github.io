@@ -1249,126 +1249,6 @@ http://123.245.4.22:6688/udp/239.33.4.226:22260
 http://123.245.64.53:4040/udp/239.33.4.226:22260
 
 
-#EXTINF:-1 ,爱情喜剧
-http://39.134.65.82:80/wh7f454c46tw972760835_-1057010575/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 ,超级电视剧
-http://39.135.133.156:80/wh7f454c46tw1360290221_-837479301/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 ,家庭剧场
-http://39.134.65.3:80/wh7f454c46tw1479032835_1793140886/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 ,超级电影
-http://39.134.65.3:80/wh7f454c46tw995071704_-1873696206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-
-
-#EXTINF:-1 ,超级综艺
-http://39.134.65.4:80/wh7f454c46tw1127286212_-1581107953/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 ,潮妈辣妹
-http://39.134.65.70:80/wh7f454c46tw1933284823_1929264018/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 ,大庆新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
-#EXTINF:-1 ,大兴安岭新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
-
-
-#EXTINF:-1 ,电影1
-http://39.134.65.6:80/wh7f454c46tw1108113188_-1233049823/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 ,电影2
-http://39.134.65.76:80/wh7f454c46tw1545072136_-343039146/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 ,东北热剧
-http://39.134.65.74:80/wh7f454c46tw1823569370_952931068/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,动作电影
-http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-
-
-#EXTINF:-1 ,古装剧场
-http://39.134.65.73:80/wh7f454c46tw1189323424_1519965141/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 ,哈尔滨生活
-http://39.135.133.178:80/wh7f454c46tw315765558_70509551/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-#EXTINF:-1 ,哈尔滨新闻综合
-http://39.135.133.138:80/wh7f454c46tw379803503_-75976646/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-#EXTINF:-1 ,哈尔滨影视
-http://39.135.133.140:80/wh7f454c46tw161152093_783547154/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
-
-
-#EXTINF:-1 ,黑龙江都市
-http://39.134.65.106/wh7f454c46tw1524768213_390798268/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 ,黑龙江都市高清
-http://39.135.133.159:80/wh7f454c46tw3749075192_-492600088/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 ,黑龙江新闻法制
-http://39.135.133.176:80/wh7f454c46tw60273630_-453148893/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 ,黑龙江新闻法制高清
-http://39.135.133.162:80/wh7f454c46tw3781411430_747088853/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-
-
-#EXTINF:-1 ,黑龙江农业科教
-http://39.135.133.160:80/wh7f454c46tw1814144227_-1914744450/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 ,黑龙江农业科教高清
-http://39.135.133.178:80/wh7f454c46tw3902095912_-1111434555/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 ,黑龙江文体
-http://39.135.133.149:80/wh7f454c46tw713295186_-2053817813/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 ,黑龙江文体高清
-http://39.135.133.139:80/wh7f454c46tw3713856273_330557606/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-
-
-#EXTINF:-1 ,黑龙江影视
-http://39.135.133.163:80/wh7f454c46tw708721695_1396015417/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 ,黑龙江影视高清
-http://39.135.133.160:80/wh7f454c46tw3679100859_2084673206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 ,黑莓电影
-http://39.135.133.138:80/wh7f454c46tw876799806_-1237032719/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 ,欢乐剧场
-http://39.135.135.28:80/wh7f454c46tw1906354268_1748047542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-
-
-#EXTINF:-1 ,鸡西安全生活
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
-#EXTINF:-1 ,鸡西新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
-#EXTINF:-1 ,佳木斯新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-#EXTINF:-1 ,金牌综艺
-http://39.135.135.24:80/wh7f454c46tw1624655335_1622057483/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-
-
-#EXTINF:-1 ,惊悚悬疑
-http://39.134.65.89:80/wh7f454c46tw1025099337_-139314205/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,精品大剧
-http://39.134.65.73:80/wh7f454c46tw620684259_1207662296/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,精品纪录
-http://39.134.65.74:80/wh7f454c46tw696975095_-577841645/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 ,精品综艺
-http://39.135.133.174:80/wh7f454c46tw1900559758_-1815720645/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-
-
-#EXTINF:-1 ,广安文旅乡村
-http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
-#EXTINF:-1 ,海安新闻综合
-http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
-#EXTINF:-1 ,柳河综艺
-http://stream5.jlntv.cn/lh/sd/live.m3u8
-#EXTINF:-1 ,平泉影视
-https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-
-
-#EXTINF:-1 ,齐齐哈尔经济法治
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
-#EXTINF:-1 ,齐齐哈尔新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
-#EXTINF:-1 ,双鸭山新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
-#EXTINF:-1 ,伊春新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
-
-
-#EXTINF:-1 ,农业致富
-http://39.134.65.76:80/wh7f454c46tw1761336088_834673900/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 ,衢州龙游生活HD
-https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-#EXTINF:-1 ,绍兴公共频道
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 ,绍兴文化影视
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-
-
 #EXTINF:-1 ,安徽岳西综合
 http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
 #EXTINF:-1 ,重庆开州综合
@@ -1486,4 +1366,124 @@ http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 #EXTINF:-1 ,浙江绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 ,浙江绍兴影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+
+
+#EXTINF:-1 ,爱情喜剧
+http://39.134.65.82:80/wh7f454c46tw972760835_-1057010575/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 ,超级电视剧
+http://39.135.133.156:80/wh7f454c46tw1360290221_-837479301/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 ,家庭剧场
+http://39.134.65.3:80/wh7f454c46tw1479032835_1793140886/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 ,超级电影
+http://39.134.65.3:80/wh7f454c46tw995071704_-1873696206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+
+
+#EXTINF:-1 ,超级综艺
+http://39.134.65.4:80/wh7f454c46tw1127286212_-1581107953/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 ,潮妈辣妹
+http://39.134.65.70:80/wh7f454c46tw1933284823_1929264018/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 ,大庆新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
+#EXTINF:-1 ,大兴安岭新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
+
+
+#EXTINF:-1 ,电影1
+http://39.134.65.6:80/wh7f454c46tw1108113188_-1233049823/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 ,电影2
+http://39.134.65.76:80/wh7f454c46tw1545072136_-343039146/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 ,东北热剧
+http://39.134.65.74:80/wh7f454c46tw1823569370_952931068/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 ,动作电影
+http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+
+
+#EXTINF:-1 ,古装剧场
+http://39.134.65.73:80/wh7f454c46tw1189323424_1519965141/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 ,哈尔滨生活
+http://39.135.133.178:80/wh7f454c46tw315765558_70509551/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+#EXTINF:-1 ,哈尔滨新闻综合
+http://39.135.133.138:80/wh7f454c46tw379803503_-75976646/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+#EXTINF:-1 ,哈尔滨影视
+http://39.135.133.140:80/wh7f454c46tw161152093_783547154/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
+
+
+#EXTINF:-1 ,黑龙江都市
+http://39.134.65.106/wh7f454c46tw1524768213_390798268/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 ,黑龙江都市高清
+http://39.135.133.159:80/wh7f454c46tw3749075192_-492600088/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 ,黑龙江新闻法制
+http://39.135.133.176:80/wh7f454c46tw60273630_-453148893/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 ,黑龙江新闻法制高清
+http://39.135.133.162:80/wh7f454c46tw3781411430_747088853/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+
+
+#EXTINF:-1 ,黑龙江农业科教
+http://39.135.133.160:80/wh7f454c46tw1814144227_-1914744450/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 ,黑龙江农业科教高清
+http://39.135.133.178:80/wh7f454c46tw3902095912_-1111434555/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 ,黑龙江文体
+http://39.135.133.149:80/wh7f454c46tw713295186_-2053817813/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+#EXTINF:-1 ,黑龙江文体高清
+http://39.135.133.139:80/wh7f454c46tw3713856273_330557606/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+
+
+#EXTINF:-1 ,黑龙江影视
+http://39.135.133.163:80/wh7f454c46tw708721695_1396015417/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 ,黑龙江影视高清
+http://39.135.133.160:80/wh7f454c46tw3679100859_2084673206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 ,黑莓电影
+http://39.135.133.138:80/wh7f454c46tw876799806_-1237032719/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 ,欢乐剧场
+http://39.135.135.28:80/wh7f454c46tw1906354268_1748047542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+
+
+#EXTINF:-1 ,鸡西安全生活
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
+#EXTINF:-1 ,鸡西新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
+#EXTINF:-1 ,佳木斯新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+#EXTINF:-1 ,金牌综艺
+http://39.135.135.24:80/wh7f454c46tw1624655335_1622057483/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+
+
+#EXTINF:-1 ,惊悚悬疑
+http://39.134.65.89:80/wh7f454c46tw1025099337_-139314205/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 ,精品大剧
+http://39.134.65.73:80/wh7f454c46tw620684259_1207662296/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 ,精品纪录
+http://39.134.65.74:80/wh7f454c46tw696975095_-577841645/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 ,精品综艺
+http://39.135.133.174:80/wh7f454c46tw1900559758_-1815720645/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+
+
+#EXTINF:-1 ,广安文旅乡村
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1 ,海安新闻综合
+http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
+#EXTINF:-1 ,柳河综艺
+http://stream5.jlntv.cn/lh/sd/live.m3u8
+#EXTINF:-1 ,平泉影视
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+
+
+#EXTINF:-1 ,齐齐哈尔经济法治
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
+#EXTINF:-1 ,齐齐哈尔新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
+#EXTINF:-1 ,双鸭山新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
+#EXTINF:-1 ,伊春新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
+
+
+#EXTINF:-1 ,农业致富
+http://39.134.65.76:80/wh7f454c46tw1761336088_834673900/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 ,衢州龙游生活HD
+https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1 ,绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 ,绍兴文化影视
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8

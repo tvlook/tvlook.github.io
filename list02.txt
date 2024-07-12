@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,大连新闻综合
-http://live.cooltv.top/tv/tide.php?id=dlzh
-#EXTINF:-1 ,大连生活综合
-http://live.cooltv.top/tv/tide.php?id=dlsh
-#EXTINF:-1 ,大连文体综合
-http://live.cooltv.top/tv/tide.php?id=dlwt
-#EXTINF:-1 ,赣州综合
-http://wb.jxgztv.com/live/gztv1.m3u8
-
-
 #EXTINF:-1 ,辽宁卫视
 http://113.236.11.13:8888/rtp/232.0.0.126:1234
 #EXTINF:-1 ,辽宁卫视

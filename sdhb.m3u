@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
-http://27.223.142.195:4001/udp/239.253.254.77:8000
+http://119.165.103.146:4001/udp/239.253.254.77:8000
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
 http://112.226.103.48:4000/udp/239.253.254.77:8000
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
@@ -8,17 +8,17 @@ http://123.235.208.181:4000/udp/239.253.254.77:8000
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
 http://119.166.50.114:4000/udp/239.253.254.77:8000
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
-http://www.tszhgjj.cn:7000/rtp/239.253.92.83:8012
+http://www.qfly9236.cn:8888/rtp/239.253.92.83:8012
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
 http://110.240.67.246:4022/rtp/239.253.92.83:8012
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
 http://121.29.166.221:23456/rtp/239.253.92.83:8012
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
-http://101.17.19.139:6666/rtp/239.253.92.83:8012
+http://121.25.25.220:8686/rtp/239.253.92.83:8012
 
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
-http://27.223.142.195:4001/udp/239.253.254.232:8000
+http://119.165.103.146:4001/udp/239.253.254.232:8000
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
 http://112.226.103.48:4000/udp/239.253.254.232:8000
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
@@ -26,17 +26,17 @@ http://123.235.208.181:4000/udp/239.253.254.232:8000
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
 http://119.166.50.114:4000/udp/239.253.254.232:8000
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
-http://www.tszhgjj.cn:7000/rtp/239.253.92.190:6065
+http://www.qfly9236.cn:8888/rtp/239.253.92.190:6065
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
 http://110.240.67.246:4022/rtp/239.253.92.190:6065
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
 http://121.29.166.221:23456/rtp/239.253.92.190:6065
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
-http://101.17.19.139:6666/rtp/239.253.92.190:6065
+http://121.25.25.220:8686/rtp/239.253.92.190:6065
 
 
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
-http://27.223.142.195:4001/udp/239.253.254.191:8000
+http://119.165.103.146:4001/udp/239.253.254.191:8000
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
 http://112.226.103.48:4000/udp/239.253.254.191:8000
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
@@ -44,17 +44,17 @@ http://123.235.208.181:4000/udp/239.253.254.191:8000
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
 http://119.166.50.114:4000/udp/239.253.254.191:8000
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
-http://www.tszhgjj.cn:7000/rtp/239.253.92.191:6057
+http://www.qfly9236.cn:8888/rtp/239.253.92.191:6057
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
 http://110.240.67.246:4022/rtp/239.253.92.191:6057
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
 http://121.29.166.221:23456/rtp/239.253.92.191:6057
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV-3 综艺
-http://101.17.19.139:6666/rtp/239.253.92.191:6057
+http://121.25.25.220:8686/rtp/239.253.92.191:6057
 
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
-http://27.223.142.195:4001/udp/239.253.254.111:8000
+http://119.165.103.146:4001/udp/239.253.254.111:8000
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
 http://112.226.103.48:4000/udp/239.253.254.111:8000
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
@@ -62,17 +62,17 @@ http://123.235.208.181:4000/udp/239.253.254.111:8000
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
 http://119.166.50.114:4000/udp/239.253.254.111:8000
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
-http://www.tszhgjj.cn:7000/rtp/239.253.92.251:6141
+http://www.qfly9236.cn:8888/rtp/239.253.92.251:6141
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
 http://110.240.67.246:4022/rtp/239.253.92.251:6141
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
 http://121.29.166.221:23456/rtp/239.253.92.251:6141
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际
-http://101.17.19.139:6666/rtp/239.253.92.251:6141
+http://121.25.25.220:8686/rtp/239.253.92.251:6141
 
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
-http://27.223.142.195:4001/udp/239.253.254.192:8000
+http://119.165.103.146:4001/udp/239.253.254.192:8000
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
 http://112.226.103.48:4000/udp/239.253.254.192:8000
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
@@ -80,17 +80,17 @@ http://123.235.208.181:4000/udp/239.253.254.192:8000
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
 http://119.166.50.114:4000/udp/239.253.254.192:8000
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
-http://www.tszhgjj.cn:7000/rtp/239.253.92.181:6046
+http://www.qfly9236.cn:8888/rtp/239.253.92.181:6046
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
 http://110.240.67.246:4022/rtp/239.253.92.181:6046
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
 http://121.29.166.221:23456/rtp/239.253.92.181:6046
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV-5 体育
-http://101.17.19.139:6666/rtp/239.253.92.181:6046
+http://121.25.25.220:8686/rtp/239.253.92.181:6046
 
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
-http://27.223.142.195:4001/udp/239.253.254.193:8000
+http://119.165.103.146:4001/udp/239.253.254.193:8000
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
 http://112.226.103.48:4000/udp/239.253.254.193:8000
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
@@ -98,17 +98,17 @@ http://123.235.208.181:4000/udp/239.253.254.193:8000
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
 http://119.166.50.114:4000/udp/239.253.254.193:8000
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
-http://www.tszhgjj.cn:7000/rtp/239.253.92.193:6058
+http://www.qfly9236.cn:8888/rtp/239.253.92.193:6058
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
 http://110.240.67.246:4022/rtp/239.253.92.193:6058
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
 http://121.29.166.221:23456/rtp/239.253.92.193:6058
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
-http://101.17.19.139:6666/rtp/239.253.92.193:6058
+http://121.25.25.220:8686/rtp/239.253.92.193:6058
 
 
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
-http://27.223.142.195:4001/udp/239.253.254.233:8000
+http://119.165.103.146:4001/udp/239.253.254.233:8000
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
 http://112.226.103.48:4000/udp/239.253.254.233:8000
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
@@ -116,17 +116,17 @@ http://123.235.208.181:4000/udp/239.253.254.233:8000
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
 http://119.166.50.114:4000/udp/239.253.254.233:8000
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
-http://www.tszhgjj.cn:7000/rtp/239.253.92.194:6059
+http://www.qfly9236.cn:8888/rtp/239.253.92.194:6059
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
 http://110.240.67.246:4022/rtp/239.253.92.194:6059
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
 http://121.29.166.221:23456/rtp/239.253.92.194:6059
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道",CCTV-7 国防军事
-http://101.17.19.139:6666/rtp/239.253.92.194:6059
+http://121.25.25.220:8686/rtp/239.253.92.194:6059
 
 
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
-http://27.223.142.195:4001/udp/239.253.254.194:8000
+http://119.165.103.146:4001/udp/239.253.254.194:8000
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
 http://112.226.103.48:4000/udp/239.253.254.194:8000
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
@@ -134,17 +134,17 @@ http://123.235.208.181:4000/udp/239.253.254.194:8000
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
 http://119.166.50.114:4000/udp/239.253.254.194:8000
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
-http://www.tszhgjj.cn:7000/rtp/239.253.92.195:6060
+http://www.qfly9236.cn:8888/rtp/239.253.92.195:6060
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
 http://110.240.67.246:4022/rtp/239.253.92.195:6060
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
 http://121.29.166.221:23456/rtp/239.253.92.195:6060
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV-8 电视剧
-http://101.17.19.139:6666/rtp/239.253.92.195:6060
+http://121.25.25.220:8686/rtp/239.253.92.195:6060
 
 
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
-http://27.223.142.195:4001/udp/239.253.254.79:8000
+http://119.165.103.146:4001/udp/239.253.254.79:8000
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
 http://112.226.103.48:4000/udp/239.253.254.79:8000
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
@@ -152,17 +152,17 @@ http://123.235.208.181:4000/udp/239.253.254.79:8000
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
 http://119.166.50.114:4000/udp/239.253.254.79:8000
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
-http://www.tszhgjj.cn:7000/rtp/239.253.92.107:6020
+http://www.qfly9236.cn:8888/rtp/239.253.92.107:6020
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
 http://110.240.67.246:4022/rtp/239.253.92.107:6020
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
 http://121.29.166.221:23456/rtp/239.253.92.107:6020
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTV-9 纪录
-http://101.17.19.139:6666/rtp/239.253.92.107:6020
+http://121.25.25.220:8686/rtp/239.253.92.107:6020
 
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
-http://27.223.142.195:4001/udp/239.253.254.234:8000
+http://119.165.103.146:4001/udp/239.253.254.234:8000
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
 http://112.226.103.48:4000/udp/239.253.254.234:8000
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
@@ -170,17 +170,17 @@ http://123.235.208.181:4000/udp/239.253.254.234:8000
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
 http://119.166.50.114:4000/udp/239.253.254.234:8000
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
-http://www.tszhgjj.cn:7000/rtp/239.253.92.196:6061
+http://www.qfly9236.cn:8888/rtp/239.253.92.196:6061
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
 http://110.240.67.246:4022/rtp/239.253.92.196:6061
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
 http://121.29.166.221:23456/rtp/239.253.92.196:6061
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV-10 科教
-http://101.17.19.139:6666/rtp/239.253.92.196:6061
+http://121.25.25.220:8686/rtp/239.253.92.196:6061
 
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
-http://27.223.142.195:4001/udp/239.253.254.169:8000
+http://119.165.103.146:4001/udp/239.253.254.169:8000
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
 http://112.226.103.48:4000/udp/239.253.254.169:8000
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
@@ -188,17 +188,17 @@ http://123.235.208.181:4000/udp/239.253.254.169:8000
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
 http://119.166.50.114:4000/udp/239.253.254.169:8000
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
-http://www.tszhgjj.cn:7000/rtp/239.253.93.153:6321
+http://www.qfly9236.cn:8888/rtp/239.253.93.153:6321
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
 http://110.240.67.246:4022/rtp/239.253.93.153:6321
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
 http://121.29.166.221:23456/rtp/239.253.93.153:6321
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道",CCTV-11 戏曲
-http://101.17.19.139:6666/rtp/239.253.93.153:6321
+http://121.25.25.220:8686/rtp/239.253.93.153:6321
 
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
-http://27.223.142.195:4001/udp/239.253.254.235:8000
+http://119.165.103.146:4001/udp/239.253.254.235:8000
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
 http://112.226.103.48:4000/udp/239.253.254.235:8000
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
@@ -206,17 +206,17 @@ http://123.235.208.181:4000/udp/239.253.254.235:8000
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
 http://119.166.50.114:4000/udp/239.253.254.235:8000
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
-http://www.tszhgjj.cn:7000/rtp/239.253.92.197:6062
+http://www.qfly9236.cn:8888/rtp/239.253.92.197:6062
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
 http://110.240.67.246:4022/rtp/239.253.92.197:6062
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
 http://121.29.166.221:23456/rtp/239.253.92.197:6062
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV-12 社会与法
-http://101.17.19.139:6666/rtp/239.253.92.197:6062
+http://121.25.25.220:8686/rtp/239.253.92.197:6062
 
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
-http://27.223.142.195:4001/udp/239.253.254.175:8000
+http://119.165.103.146:4001/udp/239.253.254.175:8000
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
 http://112.226.103.48:4000/udp/239.253.254.175:8000
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
@@ -224,17 +224,17 @@ http://123.235.208.181:4000/udp/239.253.254.175:8000
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
 http://119.166.50.114:4000/udp/239.253.254.175:8000
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
-http://www.tszhgjj.cn:7000/rtp/239.253.92.13:8008
+http://www.qfly9236.cn:8888/rtp/239.253.92.13:8008
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
 http://110.240.67.246:4022/rtp/239.253.92.13:8008
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
 http://121.29.166.221:23456/rtp/239.253.92.13:8008
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
-http://101.17.19.139:6666/rtp/239.253.92.13:8008
+http://121.25.25.220:8686/rtp/239.253.92.13:8008
 
 
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
-http://27.223.142.195:4001/udp/239.253.254.236:8000
+http://119.165.103.146:4001/udp/239.253.254.236:8000
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
 http://112.226.103.48:4000/udp/239.253.254.236:8000
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
@@ -242,17 +242,17 @@ http://123.235.208.181:4000/udp/239.253.254.236:8000
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
 http://119.166.50.114:4000/udp/239.253.254.236:8000
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
-http://www.tszhgjj.cn:7000/rtp/239.253.92.198:6063
+http://www.qfly9236.cn:8888/rtp/239.253.92.198:6063
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
 http://110.240.67.246:4022/rtp/239.253.92.198:6063
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
 http://121.29.166.221:23456/rtp/239.253.92.198:6063
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
-http://101.17.19.139:6666/rtp/239.253.92.198:6063
+http://121.25.25.220:8686/rtp/239.253.92.198:6063
 
 
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
-http://27.223.142.195:4001/udp/239.253.254.170:8000
+http://119.165.103.146:4001/udp/239.253.254.170:8000
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
 http://112.226.103.48:4000/udp/239.253.254.170:8000
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
@@ -260,17 +260,17 @@ http://123.235.208.181:4000/udp/239.253.254.170:8000
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
 http://119.166.50.114:4000/udp/239.253.254.170:8000
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
-http://www.tszhgjj.cn:7000/rtp/239.253.93.154:6322
+http://www.qfly9236.cn:8888/rtp/239.253.93.154:6322
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
 http://110.240.67.246:4022/rtp/239.253.93.154:6322
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
 http://121.29.166.221:23456/rtp/239.253.93.154:6322
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
-http://101.17.19.139:6666/rtp/239.253.93.154:6322
+http://121.25.25.220:8686/rtp/239.253.93.154:6322
 
 
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV-17 农业农村
-http://27.223.142.195:4001/udp/239.253.254.168:8000
+http://119.165.103.146:4001/udp/239.253.254.168:8000
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV-17 农业农村
 http://112.226.103.48:4000/udp/239.253.254.168:8000
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV-17 农业农村
@@ -278,17 +278,17 @@ http://123.235.208.181:4000/udp/239.253.254.168:8000
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV-17 农业农村
 http://119.166.50.114:4000/udp/239.253.254.168:8000
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV-17 农业农村
-http://www.tszhgjj.cn:7000/rtp/239.253.93.150:6318
+http://www.qfly9236.cn:8888/rtp/239.253.93.150:6318
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV-17 农业农村
 http://110.240.67.246:4022/rtp/239.253.93.150:6318
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV-17 农业农村
 http://121.29.166.221:23456/rtp/239.253.93.150:6318
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV-17 农业农村
-http://101.17.19.139:6666/rtp/239.253.93.150:6318
+http://121.25.25.220:8686/rtp/239.253.93.150:6318
 
 
 #EXTINF:-1 tvg-id="anhuiTV" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://27.223.142.195:4001/udp/239.253.254.87:8000
+http://119.165.103.146:4001/udp/239.253.254.87:8000
 #EXTINF:-1 tvg-id="anhuiTV" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
 http://112.226.103.48:4000/udp/239.253.254.87:8000
 #EXTINF:-1 tvg-id="anhuiTV" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
@@ -296,17 +296,17 @@ http://123.235.208.181:4000/udp/239.253.254.87:8000
 #EXTINF:-1 tvg-id="anhuiTV" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
 http://119.166.50.114:4000/udp/239.253.254.87:8000
 #EXTINF:-1 tvg-id="anhuiTV" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.209:6566
+http://www.qfly9236.cn:8888/rtp/239.253.92.209:6566
 #EXTINF:-1 tvg-id="anhuiTV" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
 http://110.240.67.246:4022/rtp/239.253.92.209:6566
 #EXTINF:-1 tvg-id="anhuiTV" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
 http://121.29.166.221:23456/rtp/239.253.92.209:6566
 #EXTINF:-1 tvg-id="anhuiTV" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://101.17.19.139:6666/rtp/239.253.92.209:6566
+http://121.25.25.220:8686/rtp/239.253.92.209:6566
 
 
 #EXTINF:-1 tvg-id="beijingTV" tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://27.223.142.195:4001/udp/239.253.254.85:8000
+http://119.165.103.146:4001/udp/239.253.254.85:8000
 #EXTINF:-1 tvg-id="beijingTV" tvg-name="北京卫视" group-title="卫视频道",北京卫视
 http://112.226.103.48:4000/udp/239.253.254.85:8000
 #EXTINF:-1 tvg-id="beijingTV" tvg-name="北京卫视" group-title="卫视频道",北京卫视
@@ -314,13 +314,13 @@ http://123.235.208.181:4000/udp/239.253.254.85:8000
 #EXTINF:-1 tvg-id="beijingTV" tvg-name="北京卫视" group-title="卫视频道",北京卫视
 http://119.166.50.114:4000/udp/239.253.254.85:8000
 #EXTINF:-1 tvg-id="beijingTV" tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.87:8014
+http://www.qfly9236.cn:8888/rtp/239.253.92.87:8014
 #EXTINF:-1 tvg-id="beijingTV" tvg-name="北京卫视" group-title="卫视频道",北京卫视
 http://110.240.67.246:4022/rtp/239.253.92.87:8014
 #EXTINF:-1 tvg-id="beijingTV" tvg-name="北京卫视" group-title="卫视频道",北京卫视
 http://121.29.166.221:23456/rtp/239.253.92.87:8014
 #EXTINF:-1 tvg-id="beijingTV" tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://101.17.19.139:6666/rtp/239.253.92.87:8014
+http://121.25.25.220:8686/rtp/239.253.92.87:8014
 
 
 #EXTINF:-1 tvg-id="bingtuanTV" tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
@@ -332,17 +332,17 @@ http://101.17.19.139:6666/rtp/239.253.92.87:8014
 #EXTINF:-1 tvg-id="bingtuanTV" tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
 
 #EXTINF:-1 tvg-id="bingtuanTV" tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.93.176:6344
+http://www.qfly9236.cn:8888/rtp/239.253.93.176:6344
 #EXTINF:-1 tvg-id="bingtuanTV" tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
 http://110.240.67.246:4022/rtp/239.253.93.176:6344
 #EXTINF:-1 tvg-id="bingtuanTV" tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
 http://121.29.166.221:23456/rtp/239.253.93.176:6344
 #EXTINF:-1 tvg-id="bingtuanTV" tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
-http://101.17.19.139:6666/rtp/239.253.93.176:6344
+http://121.25.25.220:8686/rtp/239.253.93.176:6344
 
 
 #EXTINF:-1 tvg-id="chongqingTV" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://27.223.142.195:4001/udp/239.253.254.38:8000
+http://119.165.103.146:4001/udp/239.253.254.38:8000
 #EXTINF:-1 tvg-id="chongqingTV" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://112.226.103.48:4000/udp/239.253.254.38:8000
 #EXTINF:-1 tvg-id="chongqingTV" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
@@ -350,17 +350,17 @@ http://123.235.208.181:4000/udp/239.253.254.38:8000
 #EXTINF:-1 tvg-id="chongqingTV" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://119.166.50.114:4000/udp/239.253.254.38:8000
 #EXTINF:-1 tvg-id="chongqingTV" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.10:6053
+http://www.qfly9236.cn:8888/rtp/239.253.92.10:6053
 #EXTINF:-1 tvg-id="chongqingTV" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://110.240.67.246:4022/rtp/239.253.92.10:6053
 #EXTINF:-1 tvg-id="chongqingTV" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://121.29.166.221:23456/rtp/239.253.92.10:6053
 #EXTINF:-1 tvg-id="chongqingTV" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://101.17.19.139:6666/rtp/239.253.92.10:6053
+http://121.25.25.220:8686/rtp/239.253.92.10:6053
 
 
 #EXTINF:-1 tvg-id="dongfangTV" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://27.223.142.195:4001/udp/239.253.254.86:8000
+http://119.165.103.146:4001/udp/239.253.254.86:8000
 #EXTINF:-1 tvg-id="dongfangTV" tvg-name="东方卫视" group-title="卫视频道",东方卫视
 http://112.226.103.48:4000/udp/239.253.254.86:8000
 #EXTINF:-1 tvg-id="dongfangTV" tvg-name="东方卫视" group-title="卫视频道",东方卫视
@@ -368,17 +368,17 @@ http://123.235.208.181:4000/udp/239.253.254.86:8000
 #EXTINF:-1 tvg-id="dongfangTV" tvg-name="东方卫视" group-title="卫视频道",东方卫视
 http://119.166.50.114:4000/udp/239.253.254.86:8000
 #EXTINF:-1 tvg-id="dongfangTV" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.89:8019
+http://www.qfly9236.cn:8888/rtp/239.253.92.89:8019
 #EXTINF:-1 tvg-id="dongfangTV" tvg-name="东方卫视" group-title="卫视频道",东方卫视
 http://110.240.67.246:4022/rtp/239.253.92.89:8019
 #EXTINF:-1 tvg-id="dongfangTV" tvg-name="东方卫视" group-title="卫视频道",东方卫视
 http://121.29.166.221:23456/rtp/239.253.92.89:8019
 #EXTINF:-1 tvg-id="dongfangTV" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://101.17.19.139:6666/rtp/239.253.92.89:8019
+http://121.25.25.220:8686/rtp/239.253.92.89:8019
 
 
 #EXTINF:-1 tvg-id="dongnanTV" tvg-name="东南卫视" group-title="卫视频道",东南卫视
-http://27.223.142.195:4001/udp/239.253.254.105:8000
+http://119.165.103.146:4001/udp/239.253.254.105:8000
 #EXTINF:-1 tvg-id="dongnanTV" tvg-name="东南卫视" group-title="卫视频道",东南卫视
 http://112.226.103.48:4000/udp/239.253.254.105:8000
 #EXTINF:-1 tvg-id="dongnanTV" tvg-name="东南卫视" group-title="卫视频道",东南卫视
@@ -386,17 +386,17 @@ http://123.235.208.181:4000/udp/239.253.254.105:8000
 #EXTINF:-1 tvg-id="dongnanTV" tvg-name="东南卫视" group-title="卫视频道",东南卫视
 http://119.166.50.114:4000/udp/239.253.254.105:8000
 #EXTINF:-1 tvg-id="dongnanTV" tvg-name="东南卫视" group-title="卫视频道",东南卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.201:6146
+http://www.qfly9236.cn:8888/rtp/239.253.92.201:6146
 #EXTINF:-1 tvg-id="dongnanTV" tvg-name="东南卫视" group-title="卫视频道",东南卫视
 http://110.240.67.246:4022/rtp/239.253.92.201:6146
 #EXTINF:-1 tvg-id="dongnanTV" tvg-name="东南卫视" group-title="卫视频道",东南卫视
 http://121.29.166.221:23456/rtp/239.253.92.201:6146
 #EXTINF:-1 tvg-id="dongnanTV" tvg-name="东南卫视" group-title="卫视频道",东南卫视
-http://101.17.19.139:6666/rtp/239.253.92.201:6146
+http://121.25.25.220:8686/rtp/239.253.92.201:6146
 
 
 #EXTINF:-1 tvg-id="gansuTV" tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
-http://27.223.142.195:4001/udp/239.253.254.74:8000
+http://119.165.103.146:4001/udp/239.253.254.74:8000
 #EXTINF:-1 tvg-id="gansuTV" tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
 http://112.226.103.48:4000/udp/239.253.254.74:8000
 #EXTINF:-1 tvg-id="gansuTV" tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
@@ -414,7 +414,7 @@ http://119.166.50.114:4000/udp/239.253.254.74:8000
 
 
 #EXTINF:-1 tvg-id="guangdongTV" tvg-name="广东卫视" group-title="卫视频道",广东卫视
-http://27.223.142.195:4001/udp/239.253.254.90:8000
+http://119.165.103.146:4001/udp/239.253.254.90:8000
 #EXTINF:-1 tvg-id="guangdongTV" tvg-name="广东卫视" group-title="卫视频道",广东卫视
 http://112.226.103.48:4000/udp/239.253.254.90:8000
 #EXTINF:-1 tvg-id="guangdongTV" tvg-name="广东卫视" group-title="卫视频道",广东卫视
@@ -422,17 +422,17 @@ http://123.235.208.181:4000/udp/239.253.254.90:8000
 #EXTINF:-1 tvg-id="guangdongTV" tvg-name="广东卫视" group-title="卫视频道",广东卫视
 http://119.166.50.114:4000/udp/239.253.254.90:8000
 #EXTINF:-1 tvg-id="guangdongTV" tvg-name="广东卫视" group-title="卫视频道",广东卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.206:8108
+http://www.qfly9236.cn:8888/rtp/239.253.92.206:8108
 #EXTINF:-1 tvg-id="guangdongTV" tvg-name="广东卫视" group-title="卫视频道",广东卫视
 http://110.240.67.246:4022/rtp/239.253.92.206:8108
 #EXTINF:-1 tvg-id="guangdongTV" tvg-name="广东卫视" group-title="卫视频道",广东卫视
 http://121.29.166.221:23456/rtp/239.253.92.206:8108
 #EXTINF:-1 tvg-id="guangdongTV" tvg-name="广东卫视" group-title="卫视频道",广东卫视
-http://101.17.19.139:6666/rtp/239.253.92.206:8108
+http://121.25.25.220:8686/rtp/239.253.92.206:8108
 
 
 #EXTINF:-1 tvg-id="guangxiTV" tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://27.223.142.195:4001/udp/239.253.254.197:8000
+http://119.165.103.146:4001/udp/239.253.254.197:8000
 #EXTINF:-1 tvg-id="guangxiTV" tvg-name="广西卫视" group-title="卫视频道",广西卫视
 http://112.226.103.48:4000/udp/239.253.254.197:8000
 #EXTINF:-1 tvg-id="guangxiTV" tvg-name="广西卫视" group-title="卫视频道",广西卫视
@@ -440,17 +440,17 @@ http://123.235.208.181:4000/udp/239.253.254.197:8000
 #EXTINF:-1 tvg-id="guangxiTV" tvg-name="广西卫视" group-title="卫视频道",广西卫视
 http://119.166.50.114:4000/udp/239.253.254.197:8000
 #EXTINF:-1 tvg-id="guangxiTV" tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.76:8043
+http://www.qfly9236.cn:8888/rtp/239.253.92.76:8043
 #EXTINF:-1 tvg-id="guangxiTV" tvg-name="广西卫视" group-title="卫视频道",广西卫视
 http://110.240.67.246:4022/rtp/239.253.92.76:8043
 #EXTINF:-1 tvg-id="guangxiTV" tvg-name="广西卫视" group-title="卫视频道",广西卫视
 http://121.29.166.221:23456/rtp/239.253.92.76:8043
 #EXTINF:-1 tvg-id="guangxiTV" tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://101.17.19.139:6666/rtp/239.253.92.76:8043
+http://121.25.25.220:8686/rtp/239.253.92.76:8043
 
 
 #EXTINF:-1 tvg-id="guizhouTV" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
-http://27.223.142.195:4001/udp/239.253.254.113:8000
+http://119.165.103.146:4001/udp/239.253.254.113:8000
 #EXTINF:-1 tvg-id="guizhouTV" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
 http://112.226.103.48:4000/udp/239.253.254.113:8000
 #EXTINF:-1 tvg-id="guizhouTV" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
@@ -458,17 +458,17 @@ http://123.235.208.181:4000/udp/239.253.254.113:8000
 #EXTINF:-1 tvg-id="guizhouTV" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
 http://119.166.50.114:4000/udp/239.253.254.113:8000
 #EXTINF:-1 tvg-id="guizhouTV" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.105:6055
+http://www.qfly9236.cn:8888/rtp/239.253.92.105:6055
 #EXTINF:-1 tvg-id="guizhouTV" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
 http://110.240.67.246:4022/rtp/239.253.92.105:6055
 #EXTINF:-1 tvg-id="guizhouTV" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
 http://121.29.166.221:23456/rtp/239.253.92.105:6055
 #EXTINF:-1 tvg-id="guizhouTV" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
-http://101.17.19.139:6666/rtp/239.253.92.105:6055
+http://121.25.25.220:8686/rtp/239.253.92.105:6055
 
 
 #EXTINF:-1 tvg-id="hainanTV" tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://27.223.142.195:4001/udp/239.253.254.179:8000
+http://119.165.103.146:4001/udp/239.253.254.179:8000
 #EXTINF:-1 tvg-id="hainanTV" tvg-name="海南卫视" group-title="卫视频道",海南卫视
 http://112.226.103.48:4000/udp/239.253.254.179:8000
 #EXTINF:-1 tvg-id="hainanTV" tvg-name="海南卫视" group-title="卫视频道",海南卫视
@@ -476,17 +476,17 @@ http://123.235.208.181:4000/udp/239.253.254.179:8000
 #EXTINF:-1 tvg-id="hainanTV" tvg-name="海南卫视" group-title="卫视频道",海南卫视
 http://119.166.50.114:4000/udp/239.253.254.179:8000
 #EXTINF:-1 tvg-id="hainanTV" tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.93.155:6323
+http://www.qfly9236.cn:8888/rtp/239.253.93.155:6323
 #EXTINF:-1 tvg-id="hainanTV" tvg-name="海南卫视" group-title="卫视频道",海南卫视
 http://110.240.67.246:4022/rtp/239.253.93.155:6323
 #EXTINF:-1 tvg-id="hainanTV" tvg-name="海南卫视" group-title="卫视频道",海南卫视
 http://121.29.166.221:23456/rtp/239.253.93.155:6323
 #EXTINF:-1 tvg-id="hainanTV" tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://101.17.19.139:6666/rtp/239.253.93.155:6323
+http://121.25.25.220:8686/rtp/239.253.93.155:6323
 
 
 #EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://27.223.142.195:4001/udp/239.253.254.112:8000
+http://119.165.103.146:4001/udp/239.253.254.112:8000
 #EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道",河北卫视
 http://112.226.103.48:4000/udp/239.253.254.112:8000
 #EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道",河北卫视
@@ -494,17 +494,17 @@ http://123.235.208.181:4000/udp/239.253.254.112:8000
 #EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道",河北卫视
 http://119.166.50.114:4000/udp/239.253.254.112:8000
 #EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.154:6011
+http://www.qfly9236.cn:8888/rtp/239.253.92.154:6011
 #EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道",河北卫视
 http://110.240.67.246:4022/rtp/239.253.92.154:6011
 #EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道",河北卫视
 http://121.29.166.221:23456/rtp/239.253.92.154:6011
 #EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://101.17.19.139:6666/rtp/239.253.92.154:6011
+http://121.25.25.220:8686/rtp/239.253.92.154:6011
 
 
 #EXTINF:-1 tvg-id="henanTV" tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://27.223.142.195:4001/udp/239.253.254.190:8000
+http://119.165.103.146:4001/udp/239.253.254.190:8000
 #EXTINF:-1 tvg-id="henanTV" tvg-name="河南卫视" group-title="卫视频道",河南卫视
 http://112.226.103.48:4000/udp/239.253.254.190:8000
 #EXTINF:-1 tvg-id="henanTV" tvg-name="河南卫视" group-title="卫视频道",河南卫视
@@ -512,17 +512,17 @@ http://123.235.208.181:4000/udp/239.253.254.190:8000
 #EXTINF:-1 tvg-id="henanTV" tvg-name="河南卫视" group-title="卫视频道",河南卫视
 http://119.166.50.114:4000/udp/239.253.254.190:8000
 #EXTINF:-1 tvg-id="henanTV" tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.137:6144
+http://www.qfly9236.cn:8888/rtp/239.253.92.137:6144
 #EXTINF:-1 tvg-id="henanTV" tvg-name="河南卫视" group-title="卫视频道",河南卫视
 http://110.240.67.246:4022/rtp/239.253.92.137:6144
 #EXTINF:-1 tvg-id="henanTV" tvg-name="河南卫视" group-title="卫视频道",河南卫视
 http://121.29.166.221:23456/rtp/239.253.92.137:6144
 #EXTINF:-1 tvg-id="henanTV" tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://101.17.19.139:6666/rtp/239.253.92.137:6144
+http://121.25.25.220:8686/rtp/239.253.92.137:6144
 
 
 #EXTINF:-1 tvg-id="heilongjiangTV" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://27.223.142.195:4001/udp/239.253.254.93:8000
+http://119.165.103.146:4001/udp/239.253.254.93:8000
 #EXTINF:-1 tvg-id="heilongjiangTV" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
 http://112.226.103.48:4000/udp/239.253.254.93:8000
 #EXTINF:-1 tvg-id="heilongjiangTV" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
@@ -530,17 +530,17 @@ http://123.235.208.181:4000/udp/239.253.254.93:8000
 #EXTINF:-1 tvg-id="heilongjiangTV" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
 http://119.166.50.114:4000/udp/239.253.254.93:8000
 #EXTINF:-1 tvg-id="heilongjiangTV" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.85:8016
+http://www.qfly9236.cn:8888/rtp/239.253.92.85:8016
 #EXTINF:-1 tvg-id="heilongjiangTV" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
 http://110.240.67.246:4022/rtp/239.253.92.85:8016
 #EXTINF:-1 tvg-id="heilongjiangTV" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
 http://121.29.166.221:23456/rtp/239.253.92.85:8016
 #EXTINF:-1 tvg-id="heilongjiangTV" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://101.17.19.139:6666/rtp/239.253.92.85:8016
+http://121.25.25.220:8686/rtp/239.253.92.85:8016
 
 
 #EXTINF:-1 tvg-id="hubeiTV" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://27.223.142.195:4001/udp/239.253.254.88:8000
+http://119.165.103.146:4001/udp/239.253.254.88:8000
 #EXTINF:-1 tvg-id="hubeiTV" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
 http://112.226.103.48:4000/udp/239.253.254.88:8000
 #EXTINF:-1 tvg-id="hubeiTV" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
@@ -548,17 +548,17 @@ http://123.235.208.181:4000/udp/239.253.254.88:8000
 #EXTINF:-1 tvg-id="hubeiTV" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
 http://119.166.50.114:4000/udp/239.253.254.88:8000
 #EXTINF:-1 tvg-id="hubeiTV" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.210:6567
+http://www.qfly9236.cn:8888/rtp/239.253.92.210:6567
 #EXTINF:-1 tvg-id="hubeiTV" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
 http://110.240.67.246:4022/rtp/239.253.92.210:6567
 #EXTINF:-1 tvg-id="hubeiTV" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
 http://121.29.166.221:23456/rtp/239.253.92.210:6567
 #EXTINF:-1 tvg-id="hubeiTV" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://101.17.19.139:6666/rtp/239.253.92.210:6567
+http://121.25.25.220:8686/rtp/239.253.92.210:6567
 
 
 #EXTINF:-1 tvg-id="hunanTV" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://27.223.142.195:4001/udp/239.253.254.82:8000
+http://119.165.103.146:4001/udp/239.253.254.82:8000
 #EXTINF:-1 tvg-id="hunanTV" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
 http://112.226.103.48:4000/udp/239.253.254.82:8000
 #EXTINF:-1 tvg-id="hunanTV" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
@@ -566,17 +566,17 @@ http://123.235.208.181:4000/udp/239.253.254.82:8000
 #EXTINF:-1 tvg-id="hunanTV" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
 http://119.166.50.114:4000/udp/239.253.254.82:8000
 #EXTINF:-1 tvg-id="hunanTV" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.84:8015
+http://www.qfly9236.cn:8888/rtp/239.253.92.84:8015
 #EXTINF:-1 tvg-id="hunanTV" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
 http://110.240.67.246:4022/rtp/239.253.92.84:8015
 #EXTINF:-1 tvg-id="hunanTV" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
 http://121.29.166.221:23456/rtp/239.253.92.84:8015
 #EXTINF:-1 tvg-id="hunanTV" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://101.17.19.139:6666/rtp/239.253.92.84:8015
+http://121.25.25.220:8686/rtp/239.253.92.84:8015
 
 
 #EXTINF:-1 tvg-id="jilinTV" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://27.223.142.195:4001/udp/239.253.254.173:8000
+http://119.165.103.146:4001/udp/239.253.254.173:8000
 #EXTINF:-1 tvg-id="jilinTV" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
 http://112.226.103.48:4000/udp/239.253.254.173:8000
 #EXTINF:-1 tvg-id="jilinTV" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
@@ -584,17 +584,17 @@ http://123.235.208.181:4000/udp/239.253.254.173:8000
 #EXTINF:-1 tvg-id="jilinTV" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
 http://119.166.50.114:4000/udp/239.253.254.173:8000
 #EXTINF:-1 tvg-id="jilinTV" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.202:6147
+http://www.qfly9236.cn:8888/rtp/239.253.92.202:6147
 #EXTINF:-1 tvg-id="jilinTV" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
 http://110.240.67.246:4022/rtp/239.253.92.202:6147
 #EXTINF:-1 tvg-id="jilinTV" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
 http://121.29.166.221:23456/rtp/239.253.92.202:6147
 #EXTINF:-1 tvg-id="jilinTV" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://101.17.19.139:6666/rtp/239.253.92.202:6147
+http://121.25.25.220:8686/rtp/239.253.92.202:6147
 
 
 #EXTINF:-1 tvg-id="jiangsuTV" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://27.223.142.195:4001/udp/239.253.254.83:8000
+http://119.165.103.146:4001/udp/239.253.254.83:8000
 #EXTINF:-1 tvg-id="jiangsuTV" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
 http://112.226.103.48:4000/udp/239.253.254.83:8000
 #EXTINF:-1 tvg-id="jiangsuTV" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
@@ -602,17 +602,17 @@ http://123.235.208.181:4000/udp/239.253.254.83:8000
 #EXTINF:-1 tvg-id="jiangsuTV" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
 http://119.166.50.114:4000/udp/239.253.254.83:8000
 #EXTINF:-1 tvg-id="jiangsuTV" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.88:8018
+http://www.qfly9236.cn:8888/rtp/239.253.92.88:8018
 #EXTINF:-1 tvg-id="jiangsuTV" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
 http://110.240.67.246:4022/rtp/239.253.92.88:8018
 #EXTINF:-1 tvg-id="jiangsuTV" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
 http://121.29.166.221:23456/rtp/239.253.92.88:8018
 #EXTINF:-1 tvg-id="jiangsuTV" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://101.17.19.139:6666/rtp/239.253.92.88:8018
+http://121.25.25.220:8686/rtp/239.253.92.88:8018
 
 
 #EXTINF:-1 tvg-id="jiangxiTV" tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://27.223.142.195:4001/udp/239.253.254.47:8000
+http://119.165.103.146:4001/udp/239.253.254.47:8000
 #EXTINF:-1 tvg-id="jiangxiTV" tvg-name="江西卫视" group-title="卫视频道",江西卫视
 http://112.226.103.48:4000/udp/239.253.254.47:8000
 #EXTINF:-1 tvg-id="jiangxiTV" tvg-name="江西卫视" group-title="卫视频道",江西卫视
@@ -620,17 +620,17 @@ http://123.235.208.181:4000/udp/239.253.254.47:8000
 #EXTINF:-1 tvg-id="jiangxiTV" tvg-name="江西卫视" group-title="卫视频道",江西卫视
 http://119.166.50.114:4000/udp/239.253.254.47:8000
 #EXTINF:-1 tvg-id="jiangxiTV" tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.19:6145
+http://www.qfly9236.cn:8888/rtp/239.253.92.19:6145
 #EXTINF:-1 tvg-id="jiangxiTV" tvg-name="江西卫视" group-title="卫视频道",江西卫视
 http://110.240.67.246:4022/rtp/239.253.92.19:6145
 #EXTINF:-1 tvg-id="jiangxiTV" tvg-name="江西卫视" group-title="卫视频道",江西卫视
 http://121.29.166.221:23456/rtp/239.253.92.19:6145
 #EXTINF:-1 tvg-id="jiangxiTV" tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://101.17.19.139:6666/rtp/239.253.92.19:6145
+http://121.25.25.220:8686/rtp/239.253.92.19:6145
 
 
 #EXTINF:-1 tvg-id="liaoningTV" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://27.223.142.195:4001/udp/239.253.254.92:8000
+http://119.165.103.146:4001/udp/239.253.254.92:8000
 #EXTINF:-1 tvg-id="liaoningTV" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
 http://112.226.103.48:4000/udp/239.253.254.92:8000
 #EXTINF:-1 tvg-id="liaoningTV" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
@@ -638,17 +638,17 @@ http://123.235.208.181:4000/udp/239.253.254.92:8000
 #EXTINF:-1 tvg-id="liaoningTV" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
 http://119.166.50.114:4000/udp/239.253.254.92:8000
 #EXTINF:-1 tvg-id="liaoningTV" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.115:6056
+http://www.qfly9236.cn:8888/rtp/239.253.92.115:6056
 #EXTINF:-1 tvg-id="liaoningTV" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
 http://110.240.67.246:4022/rtp/239.253.92.115:6056
 #EXTINF:-1 tvg-id="liaoningTV" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
 http://121.29.166.221:23456/rtp/239.253.92.115:6056
 #EXTINF:-1 tvg-id="liaoningTV" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://101.17.19.139:6666/rtp/239.253.92.115:6056
+http://121.25.25.220:8686/rtp/239.253.92.115:6056
 
 
 #EXTINF:-1 tvg-id="qinghaiTV" tvg-name="青海卫视" group-title="卫视频道",青海卫视
-http://27.223.142.195:4001/udp/239.253.254.195:8000
+http://119.165.103.146:4001/udp/239.253.254.195:8000
 #EXTINF:-1 tvg-id="qinghaiTV" tvg-name="青海卫视" group-title="卫视频道",青海卫视
 http://112.226.103.48:4000/udp/239.253.254.195:8000
 #EXTINF:-1 tvg-id="qinghaiTV" tvg-name="青海卫视" group-title="卫视频道",青海卫视
@@ -666,7 +666,7 @@ http://119.166.50.114:4000/udp/239.253.254.195:8000
 
 
 #EXTINF:-1 tvg-id="shandongTV" tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://27.223.142.195:4001/udp/239.253.254.78:8000
+http://119.165.103.146:4001/udp/239.253.254.78:8000
 #EXTINF:-1 tvg-id="shandongTV" tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://112.226.103.48:4000/udp/239.253.254.78:8000
 #EXTINF:-1 tvg-id="shandongTV" tvg-name="山东卫视" group-title="卫视频道",山东卫视
@@ -674,17 +674,17 @@ http://123.235.208.181:4000/udp/239.253.254.78:8000
 #EXTINF:-1 tvg-id="shandongTV" tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://119.166.50.114:4000/udp/239.253.254.78:8000
 #EXTINF:-1 tvg-id="shandongTV" tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.207:8109
+http://www.qfly9236.cn:8888/rtp/239.253.92.207:8109
 #EXTINF:-1 tvg-id="shandongTV" tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://110.240.67.246:4022/rtp/239.253.92.207:8109
 #EXTINF:-1 tvg-id="shandongTV" tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://121.29.166.221:23456/rtp/239.253.92.207:8109
 #EXTINF:-1 tvg-id="shandongTV" tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://101.17.19.139:6666/rtp/239.253.92.207:8109
+http://121.25.25.220:8686/rtp/239.253.92.207:8109
 
 
 #EXTINF:-1 tvg-id="shenzhenTV" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://27.223.142.195:4001/udp/239.253.254.91:8000
+http://119.165.103.146:4001/udp/239.253.254.91:8000
 #EXTINF:-1 tvg-id="shenzhenTV" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
 http://112.226.103.48:4000/udp/239.253.254.91:8000
 #EXTINF:-1 tvg-id="shenzhenTV" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
@@ -692,17 +692,17 @@ http://123.235.208.181:4000/udp/239.253.254.91:8000
 #EXTINF:-1 tvg-id="shenzhenTV" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
 http://119.166.50.114:4000/udp/239.253.254.91:8000
 #EXTINF:-1 tvg-id="shenzhenTV" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.86:8017
+http://www.qfly9236.cn:8888/rtp/239.253.92.86:8017
 #EXTINF:-1 tvg-id="shenzhenTV" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
 http://110.240.67.246:4022/rtp/239.253.92.86:8017
 #EXTINF:-1 tvg-id="shenzhenTV" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
 http://121.29.166.221:23456/rtp/239.253.92.86:8017
 #EXTINF:-1 tvg-id="shenzhenTV" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://101.17.19.139:6666/rtp/239.253.92.86:8017
+http://121.25.25.220:8686/rtp/239.253.92.86:8017
 
 
 #EXTINF:-1 tvg-id="sichuanTV" tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://27.223.142.195:4001/udp/239.253.254.180:8000
+http://119.165.103.146:4001/udp/239.253.254.180:8000
 #EXTINF:-1 tvg-id="sichuanTV" tvg-name="四川卫视" group-title="卫视频道",四川卫视
 http://112.226.103.48:4000/udp/239.253.254.180:8000
 #EXTINF:-1 tvg-id="sichuanTV" tvg-name="四川卫视" group-title="卫视频道",四川卫视
@@ -710,17 +710,17 @@ http://123.235.208.181:4000/udp/239.253.254.180:8000
 #EXTINF:-1 tvg-id="sichuanTV" tvg-name="四川卫视" group-title="卫视频道",四川卫视
 http://119.166.50.114:4000/udp/239.253.254.180:8000
 #EXTINF:-1 tvg-id="sichuanTV" tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.16:6043
+http://www.qfly9236.cn:8888/rtp/239.253.92.16:6043
 #EXTINF:-1 tvg-id="sichuanTV" tvg-name="四川卫视" group-title="卫视频道",四川卫视
 http://110.240.67.246:4022/rtp/239.253.92.16:6043
 #EXTINF:-1 tvg-id="sichuanTV" tvg-name="四川卫视" group-title="卫视频道",四川卫视
 http://121.29.166.221:23456/rtp/239.253.92.16:6043
 #EXTINF:-1 tvg-id="sichuanTV" tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://101.17.19.139:6666/rtp/239.253.92.16:6043
+http://121.25.25.220:8686/rtp/239.253.92.16:6043
 
 
 #EXTINF:-1 tvg-id="tianjinTV" tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://27.223.142.195:4001/udp/239.253.254.89:8000
+http://119.165.103.146:4001/udp/239.253.254.89:8000
 #EXTINF:-1 tvg-id="tianjinTV" tvg-name="天津卫视" group-title="卫视频道",天津卫视
 http://112.226.103.48:4000/udp/239.253.254.89:8000
 #EXTINF:-1 tvg-id="tianjinTV" tvg-name="天津卫视" group-title="卫视频道",天津卫视
@@ -728,17 +728,17 @@ http://123.235.208.181:4000/udp/239.253.254.89:8000
 #EXTINF:-1 tvg-id="tianjinTV" tvg-name="天津卫视" group-title="卫视频道",天津卫视
 http://119.166.50.114:4000/udp/239.253.254.89:8000
 #EXTINF:-1 tvg-id="tianjinTV" tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.91:8021
+http://www.qfly9236.cn:8888/rtp/239.253.92.91:8021
 #EXTINF:-1 tvg-id="tianjinTV" tvg-name="天津卫视" group-title="卫视频道",天津卫视
 http://110.240.67.246:4022/rtp/239.253.92.91:8021
 #EXTINF:-1 tvg-id="tianjinTV" tvg-name="天津卫视" group-title="卫视频道",天津卫视
 http://121.29.166.221:23456/rtp/239.253.92.91:8021
 #EXTINF:-1 tvg-id="tianjinTV" tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://101.17.19.139:6666/rtp/239.253.92.91:8021
+http://121.25.25.220:8686/rtp/239.253.92.91:8021
 
 
 #EXTINF:-1 tvg-id="yunnanTV" tvg-name="云南卫视" group-title="卫视频道",云南卫视
-http://27.223.142.195:4001/udp/239.253.254.196:8000
+http://119.165.103.146:4001/udp/239.253.254.196:8000
 #EXTINF:-1 tvg-id="yunnanTV" tvg-name="云南卫视" group-title="卫视频道",云南卫视
 http://112.226.103.48:4000/udp/239.253.254.196:8000
 #EXTINF:-1 tvg-id="yunnanTV" tvg-name="云南卫视" group-title="卫视频道",云南卫视
@@ -756,7 +756,7 @@ http://119.166.50.114:4000/udp/239.253.254.196:8000
 
 
 #EXTINF:-1 tvg-id="zhejiangTV" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://27.223.142.195:4001/udp/239.253.254.84:8000
+http://119.165.103.146:4001/udp/239.253.254.84:8000
 #EXTINF:-1 tvg-id="zhejiangTV" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
 http://112.226.103.48:4000/udp/239.253.254.84:8000
 #EXTINF:-1 tvg-id="zhejiangTV" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
@@ -764,10 +764,10 @@ http://123.235.208.181:4000/udp/239.253.254.84:8000
 #EXTINF:-1 tvg-id="zhejiangTV" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
 http://119.166.50.114:4000/udp/239.253.254.84:8000
 #EXTINF:-1 tvg-id="zhejiangTV" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://www.tszhgjj.cn:7000/rtp/239.253.92.90:8020
+http://www.qfly9236.cn:8888/rtp/239.253.92.90:8020
 #EXTINF:-1 tvg-id="zhejiangTV" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
 http://110.240.67.246:4022/rtp/239.253.92.90:8020
 #EXTINF:-1 tvg-id="zhejiangTV" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
 http://121.29.166.221:23456/rtp/239.253.92.90:8020
 #EXTINF:-1 tvg-id="zhejiangTV" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://101.17.19.139:6666/rtp/239.253.92.90:8020
+http://121.25.25.220:8686/rtp/239.253.92.90:8020

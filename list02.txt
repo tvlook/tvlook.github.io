@@ -1,240 +1,309 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.96:8550
+#EXTINF:-1 ,CCTV1
+http://yuzhe.ltd:5555/udp/239.94.0.1:5140
+#EXTINF:-1 ,CCTV1
+http://yuzhe.ltd:5555/udp/239.94.2.34:5140
+#EXTINF:-1 ,CCTV1
+http://yuzhe.ltd:5555/udp/239.94.1.18:5140
+#EXTINF:-1 ,CCTV1
+http://yuzhe.ltd:5555/udp/239.94.1.151:5140
+#EXTINF:-1 ,CCTV1
+http://yuzhe.ltd:5555/udp/239.94.0.31:5140
+#EXTINF:-1 ,CCTV1
+http://yuzhe.ltd:5555/udp/239.94.2.69:5140
 #EXTINF:-1 ,CCTV1SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.3:7992
-#EXTINF:-1 ,CCTV2HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.102:10250
+http://yuzhe.ltd:5555/udp/239.94.2.146:5140
+#EXTINF:-1 ,CCTV2
+http://yuzhe.ltd:5555/udp/239.94.2.70:5140
+#EXTINF:-1 ,CCTV2
+http://yuzhe.ltd:5555/udp/239.94.0.2:5140
+#EXTINF:-1 ,CCTV2
+http://yuzhe.ltd:5555/udp/239.94.2.35:5140
 #EXTINF:-1 ,CCTV2SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.154:8998
-#EXTINF:-1 ,CCTV3HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.122:10370
-#EXTINF:-1 ,CCTV4HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.138:10466
+http://yuzhe.ltd:5555/udp/239.94.2.147:5140
+#EXTINF:-1 ,CCTV3
+http://yuzhe.ltd:5555/udp/239.94.0.32:5140
+#EXTINF:-1 ,CCTV3
+http://yuzhe.ltd:5555/udp/239.94.0.3:5140
+#EXTINF:-1 ,CCTV3SD
+http://yuzhe.ltd:5555/udp/239.94.2.148:5140
+#EXTINF:-1 ,CCTV4
+http://yuzhe.ltd:5555/udp/239.94.0.4:5140
 #EXTINF:-1 ,CCTV4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.111:10304
+http://yuzhe.ltd:5555/udp/239.94.0.20:5140
+#EXTINF:-1 ,CCTV4KSD
+http://yuzhe.ltd:5555/udp/239.94.2.163:5140
 #EXTINF:-1 ,CCTV4SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.155:9004
-#EXTINF:-1 ,CCTV4美洲HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.232:11034
-#EXTINF:-1 ,CCTV4欧洲HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.231:11028
-#EXTINF:-1 ,CCTV5+HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.234:9484
+http://yuzhe.ltd:5555/udp/239.94.2.149:5140
+#EXTINF:-1 ,CCTV5
+http://yuzhe.ltd:5555/udp/239.94.0.33:5140
+#EXTINF:-1 ,CCTV5
+http://yuzhe.ltd:5555/udp/239.94.2.30:5140
+#EXTINF:-1 ,CCTV5
+http://yuzhe.ltd:5555/udp/239.94.0.5:5140
+#EXTINF:-1 ,CCTV5+
+http://yuzhe.ltd:5555/udp/239.94.0.19:5140
+#EXTINF:-1 ,CCTV5+
+http://yuzhe.ltd:5555/udp/239.94.0.23:5140
 #EXTINF:-1 ,CCTV5+SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.99:8568
-#EXTINF:-1 ,CCTV5HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.123:10376
-#EXTINF:-1 ,CCTV6HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.124:10382
-#EXTINF:-1 ,CCTV7HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.103:10256
+http://yuzhe.ltd:5555/udp/239.94.2.162:5140
+#EXTINF:-1 ,CCTV5SD
+http://yuzhe.ltd:5555/udp/239.94.2.150:5140
+#EXTINF:-1 ,CCTV6
+http://yuzhe.ltd:5555/udp/239.94.0.6:5140
+#EXTINF:-1 ,CCTV6
+http://yuzhe.ltd:5555/udp/239.94.2.33:5140
+#EXTINF:-1 ,CCTV6
+http://yuzhe.ltd:5555/udp/239.94.0.34:5140
+#EXTINF:-1 ,CCTV6SD
+http://yuzhe.ltd:5555/udp/239.94.2.151:5140
+#EXTINF:-1 ,CCTV7
+http://yuzhe.ltd:5555/udp/239.94.0.7:5140
 #EXTINF:-1 ,CCTV7SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.156:9130
-#EXTINF:-1 ,CCTV8HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.125:10388
-#EXTINF:-1 ,CCTV9HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.104:10262
+http://yuzhe.ltd:5555/udp/239.94.2.152:5140
+#EXTINF:-1 ,CCTV8
+http://yuzhe.ltd:5555/udp/239.94.0.8:5140
+#EXTINF:-1 ,CCTV8
+http://yuzhe.ltd:5555/udp/239.94.0.35:5140
+#EXTINF:-1 ,CCTV8
+http://yuzhe.ltd:5555/udp/239.94.2.29:5140
+#EXTINF:-1 ,CCTV8SD
+http://yuzhe.ltd:5555/udp/239.94.2.153:5140
+#EXTINF:-1 ,CCTV9
+http://yuzhe.ltd:5555/udp/239.94.2.32:5140
+#EXTINF:-1 ,CCTV9
+http://yuzhe.ltd:5555/udp/239.94.0.9:5140
 #EXTINF:-1 ,CCTV9SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.157:9016
-#EXTINF:-1 ,CCTV10HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.105:10268
+http://yuzhe.ltd:5555/udp/239.94.2.154:5140
+#EXTINF:-1 ,CCTV10
+http://yuzhe.ltd:5555/udp/239.94.0.10:5140
+#EXTINF:-1 ,CCTV10
+http://yuzhe.ltd:5555/udp/239.94.2.31:5140
 #EXTINF:-1 ,CCTV10SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.158:9022
-#EXTINF:-1 ,CCTV11HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.154:10560
+http://yuzhe.ltd:5555/udp/239.94.2.155:5140
+#EXTINF:-1 ,CCTV11
+http://yuzhe.ltd:5555/udp/239.94.0.11:5140
+#EXTINF:-1 ,CCTV11
+http://yuzhe.ltd:5555/udp/239.94.0.36:5140
 #EXTINF:-1 ,CCTV11SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.159:9028
-#EXTINF:-1 ,CCTV11SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.9:8028
-#EXTINF:-1 ,CCTV12HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.106:10274
+http://yuzhe.ltd:5555/udp/239.94.2.156:5140
+#EXTINF:-1 ,CCTV12
+http://yuzhe.ltd:5555/udp/239.94.0.12:5140
 #EXTINF:-1 ,CCTV12SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.160:9034
-#EXTINF:-1 ,CCTV13HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.161:9040
+http://yuzhe.ltd:5555/udp/239.94.2.157:5140
+#EXTINF:-1 ,CCTV13
+http://yuzhe.ltd:5555/udp/239.94.0.13:5140
+#EXTINF:-1 ,CCTV13
+http://yuzhe.ltd:5555/udp/239.94.0.37:5140
 #EXTINF:-1 ,CCTV13SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.11:8040
-#EXTINF:-1 ,CCTV14HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.107:10280
+http://yuzhe.ltd:5555/udp/239.94.2.158:5140
+#EXTINF:-1 ,CCTV14
+http://yuzhe.ltd:5555/udp/239.94.0.14:5140
 #EXTINF:-1 ,CCTV14SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.162:9046
-#EXTINF:-1 ,CCTV15HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.155:10566
+http://yuzhe.ltd:5555/udp/239.94.2.159:5140
+#EXTINF:-1 ,CCTV15
+http://yuzhe.ltd:5555/udp/239.94.0.15:5140
+#EXTINF:-1 ,CCTV15
+http://yuzhe.ltd:5555/udp/239.94.0.38:5140
 #EXTINF:-1 ,CCTV15SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.13:8052
-#EXTINF:-1 ,CCTV16 4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.12:9712
-#EXTINF:-1 ,CCTV16 4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.249:11136
-#EXTINF:-1 ,CCTV16HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.247:11124
-#EXTINF:-1 ,CCTV17HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.152:10548
+http://yuzhe.ltd:5555/udp/239.94.2.160:5140
+#EXTINF:-1 ,CCTV17
+http://yuzhe.ltd:5555/udp/239.94.0.39:5140
+#EXTINF:-1 ,CCTV17
+http://yuzhe.ltd:5555/udp/239.94.0.17:5140
 #EXTINF:-1 ,CCTV17SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.153:10554
-#EXTINF:-1 ,安徽卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.70:10060
+http://yuzhe.ltd:5555/udp/239.94.2.161:5140
+#EXTINF:-1 ,安多卫视SD
+http://yuzhe.ltd:5555/udp/239.94.0.110:5140
+#EXTINF:-1 ,安多卫视SD
+http://yuzhe.ltd:5555/udp/239.94.2.216:5140
+#EXTINF:-1 ,安徽卫视
+http://yuzhe.ltd:5555/udp/239.94.0.85:5140
 #EXTINF:-1 ,安徽卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.20:8094
+http://yuzhe.ltd:5555/udp/239.94.2.191:5140
+#EXTINF:-1 ,北京卫视
+http://yuzhe.ltd:5555/udp/239.94.0.65:5140
 #EXTINF:-1 ,北京卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.22:11286
-#EXTINF:-1 ,北京卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.141:8920
+http://yuzhe.ltd:5555/udp/239.94.0.111:5140
+#EXTINF:-1 ,北京卫视4K
+http://yuzhe.ltd:5555/udp/239.94.0.112:5140
 #EXTINF:-1 ,北京卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.16:8070
-#EXTINF:-1 ,兵团卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.32:11346
-#EXTINF:-1 ,兵团卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.48:8262
-#EXTINF:-1 ,重庆卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.149:10530
+http://yuzhe.ltd:5555/udp/239.94.2.171:5140
+#EXTINF:-1 ,兵团卫视
+http://yuzhe.ltd:5555/udp/239.94.0.102:5140
+#EXTINF:-1 ,重庆卫视
+http://yuzhe.ltd:5555/udp/239.94.0.82:5140
 #EXTINF:-1 ,重庆卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.25:8124
+http://yuzhe.ltd:5555/udp/239.94.2.188:5140
+#EXTINF:-1 ,东方卫视
+http://yuzhe.ltd:5555/udp/239.94.0.64:5140
 #EXTINF:-1 ,东方卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.37:11376
-#EXTINF:-1 ,东方卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.142:8926
+http://yuzhe.ltd:5555/udp/239.94.0.119:5140
 #EXTINF:-1 ,东方卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.2:7986
-#EXTINF:-1 ,东南卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.108:10286
+http://yuzhe.ltd:5555/udp/239.94.2.170:5140
+#EXTINF:-1 ,东南卫视
+http://yuzhe.ltd:5555/udp/239.94.0.80:5140
 #EXTINF:-1 ,东南卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.26:8130
-#EXTINF:-1 ,甘肃卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.23:11292
+http://yuzhe.ltd:5555/udp/239.94.2.186:5140
+#EXTINF:-1 ,凤凰卫视
+http://yuzhe.ltd:5555/udp/239.94.2.51:5140
+#EXTINF:-1 ,凤凰卫视
+http://yuzhe.ltd:5555/udp/239.94.2.52:5140
+#EXTINF:-1 ,甘肃卫视
+http://yuzhe.ltd:5555/udp/239.94.0.99:5140
 #EXTINF:-1 ,甘肃卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.187:9202
+http://yuzhe.ltd:5555/udp/239.94.2.205:5140
+#EXTINF:-1 ,广东卫视
+http://yuzhe.ltd:5555/udp/239.94.0.67:5140
 #EXTINF:-1 ,广东卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.27:11316
-#EXTINF:-1 ,广东卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.140:8914
+http://yuzhe.ltd:5555/udp/239.94.0.114:5140
 #EXTINF:-1 ,广东卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.22:8106
-#EXTINF:-1 ,广西卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.191:10788
+http://yuzhe.ltd:5555/udp/239.94.2.173:5140
+#EXTINF:-1 ,广西卫视
+http://yuzhe.ltd:5555/udp/239.94.0.89:5140
 #EXTINF:-1 ,广西卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.23:8112
-#EXTINF:-1 ,贵州卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.150:10536
+http://yuzhe.ltd:5555/udp/239.94.2.195:5140
+#EXTINF:-1 ,贵州卫视
+http://yuzhe.ltd:5555/udp/239.94.0.83:5140
 #EXTINF:-1 ,贵州卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.31:8160
-#EXTINF:-1 ,河北卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.113:9616
-#EXTINF:-1 ,河北卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.157:10578
+http://yuzhe.ltd:5555/udp/239.94.2.189:5140
+#EXTINF:-1 ,河北卫视
+http://yuzhe.ltd:5555/udp/239.94.0.86:5140
 #EXTINF:-1 ,河北卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.185:9190
-#EXTINF:-1 ,河南卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.168:10644
+http://yuzhe.ltd:5555/udp/239.94.2.192:5140
+#EXTINF:-1 ,河南卫视
+http://yuzhe.ltd:5555/udp/239.94.0.88:5140
 #EXTINF:-1 ,河南卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.28:8142
-#EXTINF:-1 ,黑龙江卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.138:8902
+http://yuzhe.ltd:5555/udp/239.94.2.194:5140
+#EXTINF:-1 ,黑龙江卫视
+http://yuzhe.ltd:5555/udp/239.94.0.81:5140
 #EXTINF:-1 ,黑龙江卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.92:8526
-#EXTINF:-1 ,湖北卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.115:8664
+http://yuzhe.ltd:5555/udp/239.94.2.187:5140
+#EXTINF:-1 ,湖北卫视
+http://yuzhe.ltd:5555/udp/239.94.0.84:5140
 #EXTINF:-1 ,湖北卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.1:7980
+http://yuzhe.ltd:5555/udp/239.94.2.190:5140
+#EXTINF:-1 ,湖南卫视
+http://yuzhe.ltd:5555/udp/239.94.0.61:5140
 #EXTINF:-1 ,湖南卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.13:9718
-#EXTINF:-1 ,湖南卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.27:9802
-#EXTINF:-1 ,湖南卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.34:11358
-#EXTINF:-1 ,湖南卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.139:8908
+http://yuzhe.ltd:5555/udp/239.94.0.116:5140
 #EXTINF:-1 ,湖南卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.15:8064
-#EXTINF:-1 ,吉林卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.212:10914
+http://yuzhe.ltd:5555/udp/239.94.2.167:5140
+#EXTINF:-1 ,吉林卫视
+http://yuzhe.ltd:5555/udp/239.94.0.91:5140
 #EXTINF:-1 ,吉林卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.91:8520
+http://yuzhe.ltd:5555/udp/239.94.2.197:5140
+#EXTINF:-1 ,江苏卫视
+http://yuzhe.ltd:5555/udp/239.94.0.62:5140
 #EXTINF:-1 ,江苏卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.24:9784
-#EXTINF:-1 ,江苏卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.36:11370
-#EXTINF:-1 ,江苏卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.144:8938
+http://yuzhe.ltd:5555/udp/239.94.0.117:5140
 #EXTINF:-1 ,江苏卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.17:8076
-#EXTINF:-1 ,江西卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.126:10394
+http://yuzhe.ltd:5555/udp/239.94.2.168:5140
+#EXTINF:-1 ,江西卫视
+http://yuzhe.ltd:5555/udp/239.94.0.79:5140
 #EXTINF:-1 ,江西卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.27:8136
-#EXTINF:-1 ,辽宁卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.71:10066
+http://yuzhe.ltd:5555/udp/239.94.2.185:5140
+#EXTINF:-1 ,九画面卫视1
+http://yuzhe.ltd:5555/udp/239.94.2.133:5140
+#EXTINF:-1 ,九画面卫视1
+http://yuzhe.ltd:5555/udp/239.94.2.132:5140
+#EXTINF:-1 ,九画面卫视2
+http://yuzhe.ltd:5555/udp/239.94.2.134:5140
+#EXTINF:-1 ,九画面卫视2
+http://yuzhe.ltd:5555/udp/239.94.2.135:5140
+#EXTINF:-1 ,九画面卫视3
+http://yuzhe.ltd:5555/udp/239.94.2.136:5140
+#EXTINF:-1 ,九画面卫视3
+http://yuzhe.ltd:5555/udp/239.94.2.137:5140
+#EXTINF:-1 ,九画面卫视4
+http://yuzhe.ltd:5555/udp/239.94.2.141:5140
+#EXTINF:-1 ,九画面卫视4
+http://yuzhe.ltd:5555/udp/239.94.2.139:5140
+#EXTINF:-1 ,九画面卫视5
+http://yuzhe.ltd:5555/udp/239.94.2.140:5140
+#EXTINF:-1 ,康巴卫视
+http://yuzhe.ltd:5555/udp/239.94.0.78:5140
+#EXTINF:-1 ,康巴卫视SD
+http://yuzhe.ltd:5555/udp/239.94.2.184:5140
+#EXTINF:-1 ,辽宁卫视
+http://yuzhe.ltd:5555/udp/239.94.0.101:5140
 #EXTINF:-1 ,辽宁卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.19:8088
-#EXTINF:-1 ,旅游卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.151:10542
+http://yuzhe.ltd:5555/udp/239.94.2.207:5140
 #EXTINF:-1 ,旅游卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.24:8118
+http://yuzhe.ltd:5555/udp/239.94.0.100:5140
+#EXTINF:-1 ,旅游卫视SD
+http://yuzhe.ltd:5555/udp/239.94.2.206:5140
 #EXTINF:-1 ,内蒙古卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.41:8220
-#EXTINF:-1 ,宁夏卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.33:11352
-#EXTINF:-1 ,宁夏卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.97:8556
-#EXTINF:-1 ,青海卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.24:11298
+http://yuzhe.ltd:5555/udp/239.94.0.94:5140
+#EXTINF:-1 ,内蒙古卫视SD
+http://yuzhe.ltd:5555/udp/239.94.2.200:5140
+#EXTINF:-1 ,宁夏卫视
+http://yuzhe.ltd:5555/udp/239.94.0.96:5140
 #EXTINF:-1 ,青海卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.95:8544
+http://yuzhe.ltd:5555/udp/239.94.0.95:5140
+#EXTINF:-1 ,青海卫视SD
+http://yuzhe.ltd:5555/udp/239.94.2.201:5140
 #EXTINF:-1 ,三沙卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.171:10662
+http://yuzhe.ltd:5555/udp/239.94.0.105:5140
+#EXTINF:-1 ,三沙卫视SD
+http://yuzhe.ltd:5555/udp/239.94.2.211:5140
 #EXTINF:-1 ,厦门卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.127:10400
+http://yuzhe.ltd:5555/udp/239.94.0.104:5140
+#EXTINF:-1 ,厦门卫视SD
+http://yuzhe.ltd:5555/udp/239.94.2.210:5140
 #EXTINF:-1 ,山东教育卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.228:11010
+http://yuzhe.ltd:5555/udp/239.94.0.106:5140
+#EXTINF:-1 ,山东教育卫视SD
+http://yuzhe.ltd:5555/udp/239.94.2.212:5140
+#EXTINF:-1 ,山东卫视
+http://yuzhe.ltd:5555/udp/239.94.0.69:5140
 #EXTINF:-1 ,山东卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.26:9796
-#EXTINF:-1 ,山东卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.38:11382
-#EXTINF:-1 ,山东卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.69:10054
+http://yuzhe.ltd:5555/udp/239.94.0.120:5140
 #EXTINF:-1 ,山东卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.21:8100
+http://yuzhe.ltd:5555/udp/239.94.2.175:5140
 #EXTINF:-1 ,山西卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.93:8532
+http://yuzhe.ltd:5555/udp/239.94.0.93:5140
+#EXTINF:-1 ,山西卫视SD
+http://yuzhe.ltd:5555/udp/239.94.2.199:5140
+#EXTINF:-1 ,陕西卫视
+http://yuzhe.ltd:5555/udp/239.94.0.92:5140
 #EXTINF:-1 ,陕西卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.186:9196
+http://yuzhe.ltd:5555/udp/239.94.2.198:5140
+#EXTINF:-1 ,深圳卫视
+http://yuzhe.ltd:5555/udp/239.94.0.66:5140
 #EXTINF:-1 ,深圳卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.28:11322
-#EXTINF:-1 ,深圳卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.137:8896
+http://yuzhe.ltd:5555/udp/239.94.0.113:5140
 #EXTINF:-1 ,深圳卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.34:8178
+http://yuzhe.ltd:5555/udp/239.94.2.172:5140
+#EXTINF:-1 ,四川卫视
+http://yuzhe.ltd:5555/udp/239.94.0.60:5140
+#EXTINF:-1 ,四川卫视
+http://yuzhe.ltd:5555/udp/239.94.0.59:5140
 #EXTINF:-1 ,四川卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.39:11388
-#EXTINF:-1 ,四川卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.28:9808
-#EXTINF:-1 ,四川卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.169:10650
+http://yuzhe.ltd:5555/udp/239.94.0.115:5140
 #EXTINF:-1 ,四川卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.90:8514
-#EXTINF:-1 ,天津卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.68:10048
+http://yuzhe.ltd:5555/udp/239.94.2.165:5140
+#EXTINF:-1 ,天津卫视
+http://yuzhe.ltd:5555/udp/239.94.0.68:5140
 #EXTINF:-1 ,天津卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.29:8148
-#EXTINF:-1 ,西藏卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.31:11340
-#EXTINF:-1 ,西藏卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.35:8184
-#EXTINF:-1 ,新疆卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.30:11334
-#EXTINF:-1 ,新疆卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.47:8256
-#EXTINF:-1 ,云南卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.25:11304
+http://yuzhe.ltd:5555/udp/239.94.2.174:5140
+#EXTINF:-1 ,西藏卫视
+http://yuzhe.ltd:5555/udp/239.94.0.97:5140
+#EXTINF:-1 ,新疆卫视
+http://yuzhe.ltd:5555/udp/239.94.0.98:5140
+#EXTINF:-1 ,星空卫视SD
+http://yuzhe.ltd:5555/udp/239.94.2.54:5140
+#EXTINF:-1 ,延边卫视SD
+http://yuzhe.ltd:5555/udp/239.94.0.107:5140
+#EXTINF:-1 ,延边卫视SD
+http://yuzhe.ltd:5555/udp/239.94.2.213:5140
+#EXTINF:-1 ,云南卫视
+http://yuzhe.ltd:5555/udp/239.94.0.90:5140
 #EXTINF:-1 ,云南卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.30:8154
+http://yuzhe.ltd:5555/udp/239.94.2.196:5140
+#EXTINF:-1 ,浙江卫视
+http://yuzhe.ltd:5555/udp/239.94.0.63:5140
 #EXTINF:-1 ,浙江卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.2.35:11364
-#EXTINF:-1 ,浙江卫视4K
-http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.25:9790
-#EXTINF:-1 ,浙江卫视HD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.143:8932
+http://yuzhe.ltd:5555/udp/239.94.0.118:5140
 #EXTINF:-1 ,浙江卫视SD
-http://xu3791vg3503.vicp.fun:8808/rtp/239.254.96.18:8082
-
+http://yuzhe.ltd:5555/udp/239.94.2.169:5140

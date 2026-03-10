@@ -1,100 +1,101 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道" ,CCTV-1 综合
-http://8.148.86.54:3300/608807420
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" ,CCTV-2 财经
-http://8.148.86.54:3300/631780532
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道" ,CCTV-3 综艺
-http://8.148.86.54:3300/624878271
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道" ,CCTV-4 中文国际
-http://8.148.86.54:3300/631780421
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道" ,CCTV-5 体育
-http://8.148.86.54:3300/641886683
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5plus" group-title="央视频道" ,CCTV-5+ 体育赛事
-http://8.148.86.54:3300/641886773
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道" ,CCTV-6 电影
-http://8.148.86.54:3300/624878396
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道" ,CCTV-7 国防军事
-http://8.148.86.54:3300/673168121
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道" ,CCTV-8 电视剧
-http://8.148.86.54:3300/624878356
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道" ,CCTV-9 纪录
-http://8.148.86.54:3300/673168140
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道" ,CCTV-10 科教
-http://8.148.86.54:3300/624878405
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道" ,CCTV-11 戏曲
-http://8.148.86.54:3300/667987558
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道" ,CCTV-12 社会与法
-http://8.148.86.54:3300/673168185
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道" ,CCTV-13 新闻
-http://8.148.86.54:3300/608807423
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道" ,CCTV-14 少儿
-http://8.148.86.54:3300/624878440
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道" ,CCTV-15 音乐
-http://8.148.86.54:3300/673168223
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道" ,CCTV-17 农业农村
-http://8.148.86.54:3300/673168256
-#EXTINF:-1 tvg-id="anhuiTV" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视
-
-#EXTINF:-1 tvg-id="beijingTV" tvg-name="北京卫视" group-title="卫视频道" ,北京卫视
-http://8.148.86.54:3300/630287636
-#EXTINF:-1 tvg-id="bingtuanTV" tvg-name="兵团卫视" group-title="卫视频道" ,兵团卫视
-http://8.148.86.54:3300/956923145
-#EXTINF:-1 tvg-id="chongqingTV" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视
-http://8.148.86.54:3300/738910914
-#EXTINF:-1 tvg-id="dongfangTV" tvg-name="东方卫视" group-title="卫视频道" ,东方卫视
-http://8.148.86.54:3300/651632648
-#EXTINF:-1 tvg-id="dongnanTV" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视
-
-#EXTINF:-1 tvg-id="gansuTV" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视
-
-#EXTINF:-1 tvg-id="guangdongTV" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视
-http://8.148.86.54:3300/608831231
-#EXTINF:-1 tvg-id="guangxiTV" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视
-
-#EXTINF:-1 tvg-id="guizhouTV" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视
-
-#EXTINF:-1 tvg-id="hainanTV" tvg-name="海南卫视" group-title="卫视频道" ,海南卫视
-http://8.148.86.54:3300/947472502
-#EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视
-http://8.148.86.54:3300/962042070
-#EXTINF:-1 tvg-id="henanTV" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视
-http://8.148.86.54:3300/790187291
-#EXTINF:-1 tvg-id="heilongjiangTV" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视
-
-#EXTINF:-1 tvg-id="hubeiTV" tvg-name="湖北卫视" group-title="卫视频道" ,湖北卫视
-http://8.148.86.54:3300/947472496
-#EXTINF:-1 tvg-id="hunanTV" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视
-
-#EXTINF:-1 tvg-id="jilinTV" tvg-name="吉林卫视" group-title="卫视频道" ,吉林卫视
-http://8.148.86.54:3300/947472500
-#EXTINF:-1 tvg-id="jiangsuTV" tvg-name="江苏卫视" group-title="卫视频道" ,江苏卫视
-http://8.148.86.54:3300/623899368
-#EXTINF:-1 tvg-id="jiangxiTV" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视
-http://8.148.86.54:3300/783847495
-#EXTINF:-1 tvg-id="liaoningTV" tvg-name="辽宁卫视" group-title="卫视频道" ,辽宁卫视
-http://8.148.86.54:3300/630291707
-#EXTINF:-1 tvg-id="neimengguTV" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视
-
-#EXTINF:-1 tvg-id="ningxiaTV" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视
-http://8.148.86.54:3300/738910535
-#EXTINF:-1 tvg-id="qinghaiTV" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视
-http://8.148.86.54:3300/947472506
-#EXTINF:-1 tvg-id="shandongTV" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视
-
-#EXTINF:-1 tvg-id="shanxiTV" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视
-
-#EXTINF:-1 tvg-id="shaanxiTV" tvg-name="陕西卫视" group-title="卫视频道" ,陕西卫视
-http://8.148.86.54:3300/738910838
-#EXTINF:-1 tvg-id="shenzhenTV" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视
-
-#EXTINF:-1 tvg-id="sichuanTV" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视
-
-#EXTINF:-1 tvg-id="tianjinTV" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视
-
-#EXTINF:-1 tvg-id="xizangTV" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视
-
-#EXTINF:-1 tvg-id="xinjiangTV" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视
-
-#EXTINF:-1 tvg-id="yunnanTV" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视
-
-#EXTINF:-1 tvg-id="zhejiangTV" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视
+#EXTINF:-1 ,CCTV1
+http://113.58.214.104:65432/rtp/239.254.96.82:7640
+#EXTINF:-1 ,CCTV2
+http://113.58.214.104:65432/rtp/239.254.96.2:7000
+#EXTINF:-1 ,CCTV3
+http://113.58.214.104:65432/rtp/239.254.96.67:7520
+#EXTINF:-1 ,CCTV4
+http://113.58.214.104:65432/rtp/239.254.96.4:7016
+#EXTINF:-1 ,CCTV5
+http://113.58.214.104:65432/rtp/239.254.96.66:7512
+#EXTINF:-1 ,CCTV6
+http://113.58.214.104:65432/rtp/239.254.96.63:7488
+#EXTINF:-1 ,CCTV7
+http://113.58.214.104:65432/rtp/239.254.96.125:7104
+#EXTINF:-1 ,CCTV8
+http://113.58.214.104:65432/rtp/239.254.96.62:7480
+#EXTINF:-1 ,CCTV9
+http://113.58.214.104:65432/rtp/239.254.96.9:7056
+#EXTINF:-1 ,CCTV10
+http://113.58.214.104:65432/rtp/239.254.96.10:7064
+#EXTINF:-1 ,CCTV11
+http://113.58.214.104:65432/rtp/239.254.96.11:7072
+#EXTINF:-1 ,CCTV12
+http://113.58.214.104:65432/rtp/239.254.96.12:7080
+#EXTINF:-1 ,CCTV13
+http://113.58.214.104:65432/rtp/239.254.96.13:7264
+#EXTINF:-1 ,CCTV14
+http://113.58.214.104:65432/rtp/239.254.96.14:7236
+#EXTINF:-1 ,CCTV15
+http://113.58.214.104:65432/rtp/239.254.96.15:7104
+#EXTINF:-1 ,CCTV16
+http://113.58.214.104:65432/rtp/239.254.96.170:8206
+#EXTINF:-1 ,CCTV17
+http://113.58.214.104:65432/rtp/239.254.96.57:8204
+#EXTINF:-1 ,安徽卫视
+http://113.58.214.104:65432/rtp/239.254.96.28:7208
+#EXTINF:-1 ,北京卫视
+http://113.58.214.104:65432/rtp/239.254.96.29:7216
+#EXTINF:-1 ,重庆卫视
+http://113.58.214.104:65432/rtp/239.254.96.42:7320
+#EXTINF:-1 ,东方卫视
+http://113.58.214.104:65432/rtp/239.254.96.41:7312
+#EXTINF:-1 ,东南卫视
+http://113.58.214.104:65432/rtp/239.254.96.43:7328
+#EXTINF:-1 ,甘肃卫视
+http://113.58.214.104:65432/rtp/239.254.96.55:7424
+#EXTINF:-1 ,广东卫视
+http://113.58.214.104:65432/rtp/239.254.96.45:7344
+#EXTINF:-1 ,广西卫视
+http://113.58.214.104:65432/rtp/239.254.96.46:7352
+#EXTINF:-1 ,贵州卫视
+http://113.58.214.104:65432/rtp/239.254.96.38:7288
+#EXTINF:-1 ,厦门卫视
+http://113.58.214.104:65432/rtp/239.254.96.152:8122
+#EXTINF:-1 ,河北卫视
+http://113.58.214.104:65432/rtp/239.254.96.44:7336
+#EXTINF:-1 ,河南卫视
+http://113.58.214.104:65432/rtp/239.254.96.34:7256
+#EXTINF:-1 ,黑龙江卫视
+http://113.58.214.104:65432/rtp/239.254.96.35:7264
+#EXTINF:-1 ,湖北卫视
+http://113.58.214.104:65432/rtp/239.254.96.40:7304
+#EXTINF:-1 ,湖南卫视
+http://113.58.214.104:65432/rtp/239.254.96.25:7184
+#EXTINF:-1 ,吉林卫视
+http://113.58.214.104:65432/rtp/239.254.96.47:7360
+#EXTINF:-1 ,江苏卫视
+http://113.58.214.104:65432/rtp/239.254.96.27:7200
+#EXTINF:-1 ,江西卫视
+http://113.58.214.104:65432/rtp/239.254.96.61:7472
+#EXTINF:-1 ,辽宁卫视
+http://113.58.214.104:65432/rtp/239.254.96.31:7232
+#EXTINF:-1 ,内蒙古卫视
+http://113.58.214.104:65432/rtp/239.254.96.50:7384
+#EXTINF:-1 ,宁夏卫视
+http://113.58.214.104:65432/rtp/239.254.96.52:7400
+#EXTINF:-1 ,青海卫视
+http://113.58.214.104:65432/rtp/239.254.96.51:7392
+#EXTINF:-1 ,三沙卫视
+http://113.58.214.104:65432/rtp/239.254.96.184:7158
+#EXTINF:-1 ,山东卫视
+http://113.58.214.104:65432/rtp/239.254.96.32:7240
+#EXTINF:-1 ,山西卫视
+http://113.58.214.104:65432/rtp/239.254.96.49:7376
+#EXTINF:-1 ,陕西卫视
+http://113.58.214.104:65432/rtp/239.254.96.48:7368
+#EXTINF:-1 ,深圳卫视
+http://113.58.214.104:65432/rtp/239.254.96.39:7296
+#EXTINF:-1 ,四川卫视
+http://113.58.214.104:65432/rtp/239.254.96.36:7272
+#EXTINF:-1 ,天津卫视
+http://113.58.214.104:65432/rtp/239.254.96.30:7224
+#EXTINF:-1 ,西藏卫视
+http://113.58.214.104:65432/rtp/239.254.96.53:7408
+#EXTINF:-1 ,新疆卫视
+http://113.58.214.104:65432/rtp/239.254.96.54:7416
+#EXTINF:-1 ,云南卫视
+http://113.58.214.104:65432/rtp/239.254.96.33:7248
+#EXTINF:-1 ,浙江卫视
+http://113.58.214.104:65432/rtp/239.254.96.26:7284

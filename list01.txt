@@ -1,101 +1,123 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
-http://113.58.214.104:65432/rtp/239.254.96.82:7640
-#EXTINF:-1 ,CCTV2
-http://113.58.214.104:65432/rtp/239.254.96.2:7000
-#EXTINF:-1 ,CCTV3
-http://113.58.214.104:65432/rtp/239.254.96.67:7520
-#EXTINF:-1 ,CCTV4
-http://113.58.214.104:65432/rtp/239.254.96.4:7016
-#EXTINF:-1 ,CCTV5
-http://113.58.214.104:65432/rtp/239.254.96.66:7512
-#EXTINF:-1 ,CCTV6
-http://113.58.214.104:65432/rtp/239.254.96.63:7488
-#EXTINF:-1 ,CCTV7
-http://113.58.214.104:65432/rtp/239.254.96.125:7104
-#EXTINF:-1 ,CCTV8
-http://113.58.214.104:65432/rtp/239.254.96.62:7480
-#EXTINF:-1 ,CCTV9
-http://113.58.214.104:65432/rtp/239.254.96.9:7056
-#EXTINF:-1 ,CCTV10
-http://113.58.214.104:65432/rtp/239.254.96.10:7064
-#EXTINF:-1 ,CCTV11
-http://113.58.214.104:65432/rtp/239.254.96.11:7072
-#EXTINF:-1 ,CCTV12
-http://113.58.214.104:65432/rtp/239.254.96.12:7080
-#EXTINF:-1 ,CCTV13
-http://113.58.214.104:65432/rtp/239.254.96.13:7264
-#EXTINF:-1 ,CCTV14
-http://113.58.214.104:65432/rtp/239.254.96.14:7236
-#EXTINF:-1 ,CCTV15
-http://113.58.214.104:65432/rtp/239.254.96.15:7104
-#EXTINF:-1 ,CCTV16
-http://113.58.214.104:65432/rtp/239.254.96.170:8206
-#EXTINF:-1 ,CCTV17
-http://113.58.214.104:65432/rtp/239.254.96.57:8204
+#EXTINF:-1 ,CCTV-1综合
+http://8.138.7.223/tv/migu666.php?id=cctv1
+#EXTINF:-1 ,CCTV-2财经
+http://8.138.7.223/tv/migu666.php?id=cctv2
+#EXTINF:-1 ,CCTV-3综艺
+http://8.138.7.223/tv/migu666.php?id=cctv3
+#EXTINF:-1 ,CCTV-4美洲
+http://8.138.7.223/tv/migu666.php?id=cctv4o
+#EXTINF:-1 ,CCTV-4欧洲
+http://8.138.7.223/tv/migu666.php?id=cctv4m
+#EXTINF:-1 ,CCTV-4中文国际
+http://8.138.7.223/tv/migu666.php?id=cctv4
+#EXTINF:-1 ,CCTV-5+体育赛事
+http://8.138.7.223/tv/migu666.php?id=cctv5p
+#EXTINF:-1 ,CCTV-5体育
+http://8.138.7.223/tv/migu666.php?id=cctv5
+#EXTINF:-1 ,CCTV-6电影
+http://8.138.7.223/tv/migu666.php?id=cctv6
+#EXTINF:-1 ,CCTV-7国防军事
+http://8.138.7.223/tv/migu666.php?id=cctv7
+#EXTINF:-1 ,CCTV-8电视剧
+http://8.138.7.223/tv/migu666.php?id=cctv8
+#EXTINF:-1 ,CCTV-9纪录
+http://8.138.7.223/tv/migu666.php?id=cctv9
+#EXTINF:-1 ,CCTV-10科教
+http://8.138.7.223/tv/migu666.php?id=cctv10
+#EXTINF:-1 ,CCTV-11戏曲
+http://8.138.7.223/tv/migu666.php?id=cctv11
+#EXTINF:-1 ,CCTV-12社会与法
+http://8.138.7.223/tv/migu666.php?id=cctv12
+#EXTINF:-1 ,CCTV-13新闻
+http://8.138.7.223/tv/migu666.php?id=cctv13
+#EXTINF:-1 ,CCTV-14少儿
+http://8.138.7.223/tv/migu666.php?id=cctv14
+#EXTINF:-1 ,CCTV-15音乐
+http://8.138.7.223/tv/migu666.php?id=cctv15
+#EXTINF:-1 ,CCTV-17农业农村
+http://8.138.7.223/tv/migu666.php?id=cctv17
+
 #EXTINF:-1 ,安徽卫视
-http://113.58.214.104:65432/rtp/239.254.96.28:7208
+
 #EXTINF:-1 ,北京卫视
-http://113.58.214.104:65432/rtp/239.254.96.29:7216
+
+#EXTINF:-1 ,兵团卫视
+
+#EXTINF:-1 ,大湾区卫视
+http://8.138.7.223/tv/migu666.php?id=dwqws
 #EXTINF:-1 ,重庆卫视
-http://113.58.214.104:65432/rtp/239.254.96.42:7320
+http://8.138.7.223/tv/migu666.php?id=cqws
 #EXTINF:-1 ,东方卫视
-http://113.58.214.104:65432/rtp/239.254.96.41:7312
+http://8.138.7.223/tv/migu666.php?id=dfws
 #EXTINF:-1 ,东南卫视
-http://113.58.214.104:65432/rtp/239.254.96.43:7328
+
 #EXTINF:-1 ,甘肃卫视
-http://113.58.214.104:65432/rtp/239.254.96.55:7424
+
 #EXTINF:-1 ,广东卫视
-http://113.58.214.104:65432/rtp/239.254.96.45:7344
+http://8.138.7.223/tv/migu666.php?id=gdws
 #EXTINF:-1 ,广西卫视
-http://113.58.214.104:65432/rtp/239.254.96.46:7352
+
 #EXTINF:-1 ,贵州卫视
-http://113.58.214.104:65432/rtp/239.254.96.38:7288
-#EXTINF:-1 ,厦门卫视
-http://113.58.214.104:65432/rtp/239.254.96.152:8122
+
+#EXTINF:-1 ,海南卫视
+
 #EXTINF:-1 ,河北卫视
-http://113.58.214.104:65432/rtp/239.254.96.44:7336
+
 #EXTINF:-1 ,河南卫视
-http://113.58.214.104:65432/rtp/239.254.96.34:7256
+http://8.138.7.223/tv/migu666.php?id=hnws
 #EXTINF:-1 ,黑龙江卫视
-http://113.58.214.104:65432/rtp/239.254.96.35:7264
+
 #EXTINF:-1 ,湖北卫视
-http://113.58.214.104:65432/rtp/239.254.96.40:7304
+
 #EXTINF:-1 ,湖南卫视
-http://113.58.214.104:65432/rtp/239.254.96.25:7184
+
 #EXTINF:-1 ,吉林卫视
-http://113.58.214.104:65432/rtp/239.254.96.47:7360
+
 #EXTINF:-1 ,江苏卫视
-http://113.58.214.104:65432/rtp/239.254.96.27:7200
+http://8.138.7.223/tv/migu666.php?id=jsws
 #EXTINF:-1 ,江西卫视
-http://113.58.214.104:65432/rtp/239.254.96.61:7472
+http://8.138.7.223/tv/migu666.php?id=jxws
 #EXTINF:-1 ,辽宁卫视
-http://113.58.214.104:65432/rtp/239.254.96.31:7232
+http://8.138.7.223/tv/migu666.php?id=lnws
 #EXTINF:-1 ,内蒙古卫视
-http://113.58.214.104:65432/rtp/239.254.96.50:7384
+
 #EXTINF:-1 ,宁夏卫视
-http://113.58.214.104:65432/rtp/239.254.96.52:7400
+http://8.138.7.223/tv/migu666.php?id=nxws
 #EXTINF:-1 ,青海卫视
-http://113.58.214.104:65432/rtp/239.254.96.51:7392
-#EXTINF:-1 ,三沙卫视
-http://113.58.214.104:65432/rtp/239.254.96.184:7158
+
 #EXTINF:-1 ,山东卫视
-http://113.58.214.104:65432/rtp/239.254.96.32:7240
+
 #EXTINF:-1 ,山西卫视
-http://113.58.214.104:65432/rtp/239.254.96.49:7376
+
 #EXTINF:-1 ,陕西卫视
-http://113.58.214.104:65432/rtp/239.254.96.48:7368
+http://8.138.7.223/tv/migu666.php?id=sxws
 #EXTINF:-1 ,深圳卫视
-http://113.58.214.104:65432/rtp/239.254.96.39:7296
+
 #EXTINF:-1 ,四川卫视
-http://113.58.214.104:65432/rtp/239.254.96.36:7272
+
 #EXTINF:-1 ,天津卫视
-http://113.58.214.104:65432/rtp/239.254.96.30:7224
+
 #EXTINF:-1 ,西藏卫视
-http://113.58.214.104:65432/rtp/239.254.96.53:7408
+
 #EXTINF:-1 ,新疆卫视
-http://113.58.214.104:65432/rtp/239.254.96.54:7416
+
 #EXTINF:-1 ,云南卫视
-http://113.58.214.104:65432/rtp/239.254.96.33:7248
+
 #EXTINF:-1 ,浙江卫视
-http://113.58.214.104:65432/rtp/239.254.96.26:7284
+
+
+#EXTINF:-1 ,上海新闻综合
+http://8.138.7.223/tv/migu666.php?id=shxwzh
+#EXTINF:-1 ,南京新闻综合
+http://8.138.7.223/tv/migu666.php?id=njxwzh
+#EXTINF:-1 ,江苏城市
+http://8.138.7.223/tv/migu666.php?id=jscs
+#EXTINF:-1 ,江苏影视
+http://8.138.7.223/tv/migu666.php?id=jsys
+#EXTINF:-1 ,江苏国际
+http://8.138.7.223/tv/migu666.php?id=jsgj
+#EXTINF:-1 ,泰州-1
+http://8.138.7.223/tv/migu666.php?id=tzxwzh
+#EXTINF:-1 ,宿迁综合
+http://8.138.7.223/tv/migu666.php?id=sqxwzh

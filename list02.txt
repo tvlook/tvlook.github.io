@@ -1,153 +1,99 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道" ,CCTV-1 综合
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv1
+#EXTINF:-1 ,CCTV1
+http://111.56.90.5/000000000000/5000000004000002226/index.m3u8
+#EXTINF:-1 ,CCTV2
+http://111.56.90.5/000000000000/5000000011000031101/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://111.56.90.5/000000000000/5000000004000008883/index.m3u8
+#EXTINF:-1 ,CCTV4
+http://111.56.90.5/000000000000/5000000011000031102/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://111.56.90.5/000000000000/5000000004000008885/index.m3u8
+#EXTINF:-1 ,CCTV6
+http://111.56.90.5/000000000000/5000000004000008886/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://111.56.90.5/000000000000/5000000011000031104/index.m3u8
+#EXTINF:-1 ,CCTV8
+http://111.56.90.5/000000000000/5000000004000008888/index.m3u8
+#EXTINF:-1 ,CCTV9
+http://111.56.90.5/000000000000/5000000010000018384/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://111.56.90.5/000000000000/5000000004000012827/index.m3u8
+#EXTINF:-1 ,CCTV11
+http://111.56.90.5/000000000000/5000000011000031106/index.m3u8
+#EXTINF:-1 ,CCTV12
+http://111.56.90.5/000000000000/5000000011000031107/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://111.56.90.5/000000000000/5000000011000031108/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" ,CCTV-2 财经
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv2
 
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道" ,CCTV-3 综艺
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv3
 
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道" ,CCTV-4 中文国际
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv4
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道" ,CCTV-5 体育
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv5
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5plus" group-title="央视频道" ,CCTV-5+ 体育赛事
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv5p
+#EXTINF:-1 ,兵团卫视
+http://111.56.90.5/000000000000/5000000006000040020/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://111.56.90.5/000000000000/5000000004000031556/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://111.56.90.5/000000000000/5000000004000014098/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://111.56.90.5/000000000000/5000000004000025843/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://111.56.90.5/000000000000/5000000004000014694/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://111.56.90.5/000000000000/5000000006000040014/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://111.56.90.5/000000000000/5000000004000019351/index.m3u8
+#EXTINF:-1 ,江西卫视
 
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道" ,CCTV-6 电影
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv6
+#EXTINF:-1 ,海南卫视
+http://111.56.90.5/000000000000/5000000004000006211/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道" ,CCTV-7 国防军事
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv7
+#EXTINF:-1 ,河北卫视
+http://111.56.90.5/000000000000/5000000006000040016/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道" ,CCTV-8 电视剧
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv8
+#EXTINF:-1 ,湖北卫视
 
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道" ,CCTV-9 纪录
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv9
+#EXTINF:-1 ,湖南卫视
+http://111.56.90.5/000000000000/5000000004000006692/index.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://111.56.90.5/000000000000/7331079758781182663/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://111.56.90.5/000000000000/5000000004000020424/index.m3u8
+#EXTINF:-1 ,山西卫视
+http://111.56.90.5/000000000000/5000000006000040023/index.m3u8
+#EXTINF:-1 ,陕西卫视
+http://111.56.90.5/000000000000/5000000006000040017/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://111.56.90.5/000000000000/5000000004000006119/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://111.56.90.5/000000000000/5000000004000007410/index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://111.56.90.5/000000000000/5000000006000040013/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道" ,CCTV-10 科教
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv10
 
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道" ,CCTV-11 戏曲
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv11
 
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道" ,CCTV-12 社会与法
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv12
+#EXTINF:-1 ,青海卫视
+http://111.56.90.5/000000000000/5000000006000040015/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道" ,CCTV-13 新闻
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv13
+#EXTINF:-1 ,新疆卫视
+http://111.56.90.5/000000000000/5000000006000040018/index.m3u8
+#EXTINF:-1 ,西藏卫视
+http://111.56.90.5/000000000000/5381760837640571168/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://111.56.90.5/000000000000/5000000006000040019/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道" ,CCTV-14 少儿
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv14
+#EXTINF:-1 ,兵团卫视
+http://111.56.90.5/000000000000/5000000006000040020/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道" ,CCTV-15 音乐
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv15
+#EXTINF:-1 ,甘肃卫视
+http://111.56.90.5/000000000000/5000000006000040021/index.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://111.56.90.5/000000000000/5000000006000040022/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道" ,CCTV-17 农业农村
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv17
+#EXTINF:-1 ,金鹰卡通
+http://111.56.90.5/000000000000/5000000006000040024/index.m3u8
 
-#EXTINF:-1 tvg-id="anhuiTV" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=ahws
+#EXTINF:-1 ,乐游
+http://111.56.90.5/000000000000/5000000006000040025/index.m3u8
 
-#EXTINF:-1 tvg-id="beijingTV" tvg-name="北京卫视" group-title="卫视频道" ,北京卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=bjws
-
-#EXTINF:-1 tvg-id="bingtuanTV" tvg-name="兵团卫视" group-title="卫视频道" ,兵团卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=custom1
-
-#EXTINF:-1 tvg-id="chongqingTV" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cqws
-
-#EXTINF:-1 tvg-id="dongfangTV" tvg-name="东方卫视" group-title="卫视频道" ,东方卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=custom3
-
-#EXTINF:-1 tvg-id="dongnanTV" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=dnws
-
-#EXTINF:-1 tvg-id="gansuTV" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=gsws
-
-#EXTINF:-1 tvg-id="guangdongTV" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=gdws
-
-#EXTINF:-1 tvg-id="guangxiTV" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=gxws
-
-#EXTINF:-1 tvg-id="guizhouTV" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=gzws
-
-#EXTINF:-1 tvg-id="hainanTV" tvg-name="海南卫视" group-title="卫视频道" ,海南卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=custom12
-
-#EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=hebeiws
-
-#EXTINF:-1 tvg-id="henanTV" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=hnws
-
-#EXTINF:-1 tvg-id="heilongjiangTV" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=hljws
-
-#EXTINF:-1 tvg-id="hubeiTV" tvg-name="湖北卫视" group-title="卫视频道" ,湖北卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=hbws
-
-#EXTINF:-1 tvg-id="hunanTV" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=hunanws
-
-#EXTINF:-1 tvg-id="jilinTV" tvg-name="吉林卫视" group-title="卫视频道" ,吉林卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=jlws
-
-#EXTINF:-1 tvg-id="jiangsuTV" tvg-name="江苏卫视" group-title="卫视频道" ,江苏卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=jsws
-
-#EXTINF:-1 tvg-id="jiangxiTV" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=jxws
-
-#EXTINF:-1 tvg-id="liaoningTV" tvg-name="辽宁卫视" group-title="卫视频道" ,辽宁卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=lnws
-
-#EXTINF:-1 tvg-id="neimengguTV" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=neimenggu
-
-#EXTINF:-1 tvg-id="ningxiaTV" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=linxws
-
-#EXTINF:-1 tvg-id="qinghaiTV" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=qhws
-
-#EXTINF:-1 tvg-id="shandongTV" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=sdws
-
-#EXTINF:-1 tvg-id="shanxiTV" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=sxws
-
-#EXTINF:-1 tvg-id="shaanxiTV" tvg-name="陕西卫视" group-title="卫视频道" ,陕西卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=shxws
-
-#EXTINF:-1 tvg-id="shenzhenTV" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=szws
-
-#EXTINF:-1 tvg-id="sichuanTV" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=scws
-
-#EXTINF:-1 tvg-id="tianjinTV" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=tjws
-
-#EXTINF:-1 tvg-id="xizangTV" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=xzws
-
-#EXTINF:-1 tvg-id="xiamenTV" tvg-name="厦门卫视" group-title="卫视频道" ,厦门卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=xmws
-
-#EXTINF:-1 tvg-id="xinjiangTV" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=xjws
-
-#EXTINF:-1 tvg-id="yunnanTV" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=ynws
-
-#EXTINF:-1 tvg-id="zhejiangTV" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视
-http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=zjws

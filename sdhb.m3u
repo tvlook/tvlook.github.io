@@ -41,73 +41,28 @@ http://183.215.134.239:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authi
 http://183.215.134.239:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 ,CCTV1
-http://119.91.7.169:1777/216.75.129.13.php?id=1
+http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 ,CCTV2
-http://119.91.7.169:1777/216.75.129.13.php?id=2
-#EXTINF:-1 ,CCTV3
-http://119.91.7.169:1777/216.75.129.13.php?id=3
+https://play.kankanlive.com/live/1698234898628961.m3u8
 #EXTINF:-1 ,CCTV4
-http://119.91.7.169:1777/216.75.129.13.php?id=4
-#EXTINF:-1 ,CCTV5
-http://119.91.7.169:1777/216.75.129.13.php?id=5
-#EXTINF:-1 ,CCTV6
-http://119.91.7.169:1777/216.75.129.13.php?id=6
-#EXTINF:-1 ,CCTV7
-http://119.91.7.169:1777/216.75.129.13.php?id=7
-#EXTINF:-1 ,CCTV8
-http://119.91.7.169:1777/216.75.129.13.php?id=8
+https://play.kankanlive.com/live/1698234936258960.m3u8
 #EXTINF:-1 ,CCTV9
-http://119.91.7.169:1777/216.75.129.13.php?id=9
+https://play.kankanlive.com/live/1698423397390920.m3u8
 #EXTINF:-1 ,CCTV10
-http://119.91.7.169:1777/216.75.129.13.php?id=10
+https://play.kankanlive.com/live/1698423445959919.m3u8
 #EXTINF:-1 ,CCTV11
-http://119.91.7.169:1777/216.75.129.13.php?id=11
+https://play.kankanlive.com/live/1698423476198918.m3u8
 #EXTINF:-1 ,CCTV12
-http://119.91.7.169:1777/216.75.129.13.php?id=12
+https://play.kankanlive.com/live/1698423511884917.m3u8
 #EXTINF:-1 ,CCTV13
-http://119.91.7.169:1777/216.75.129.13.php?id=13
+https://play.kankanlive.com/live/1698423543275916.m3u8
 #EXTINF:-1 ,CCTV14
-http://119.91.7.169:1777/216.75.129.13.php?id=14
+https://play.kankanlive.com/live/1698423575756915.m3u8
 #EXTINF:-1 ,CCTV15
-http://119.91.7.169:1777/216.75.129.13.php?id=15
-#EXTINF:-1 ,CCTV16
-http://119.91.7.169:1777/216.75.129.13.php?id=16
+https://play.kankanlive.com/live/1698423607826914.m3u8
 #EXTINF:-1 ,CCTV17
-http://119.91.7.169:1777/216.75.129.13.php?id=17
-#EXTINF:-1 ,CCTV5+
-http://119.91.7.169:1777/216.75.129.13.php?id=18
-#EXTINF:-1 ,重温经典
-http://119.91.7.169:1777/216.75.129.13.php?id=19
-#EXTINF:-1 ,CCTV4K
-http://119.91.7.169:1777/216.75.129.13.php?id=20
-#EXTINF:-1 ,CCTV8K
-http://119.91.7.169:1777/216.75.129.13.php?id=21
-#EXTINF:-1 ,CCTV怀旧剧场
-http://119.91.7.169:1777/216.75.129.13.php?id=22
-#EXTINF:-1 ,CCTV第一剧场
-http://119.91.7.169:1777/216.75.129.13.php?id=23
-#EXTINF:-1 ,CCTV风云剧场
-http://119.91.7.169:1777/216.75.129.13.php?id=24
-#EXTINF:-1 ,CCTV风云音乐
-http://119.91.7.169:1777/216.75.129.13.php?id=25
-#EXTINF:-1 ,CCTV风云足球
-http://119.91.7.169:1777/216.75.129.13.php?id=26
-#EXTINF:-1 ,CCTV兵器科技
-http://119.91.7.169:1777/216.75.129.13.php?id=27
-#EXTINF:-1 ,CCTV世界地理
-http://119.91.7.169:1777/216.75.129.13.php?id=28
-#EXTINF:-1 ,CCTV女性时尚
-http://119.91.7.169:1777/216.75.129.13.php?id=29
-#EXTINF:-1 ,CCTV央视台球
-http://119.91.7.169:1777/216.75.129.13.php?id=30
-#EXTINF:-1 ,CCTV电视指南
-http://119.91.7.169:1777/216.75.129.13.php?id=31
-#EXTINF:-1 ,CCTV高尔夫球网球
-http://119.91.7.169:1777/216.75.129.13.php?id=32
-#EXTINF:-1 ,CCTV央视文化精品
-http://119.91.7.169:1777/216.75.129.13.php?id=33
-#EXTINF:-1 ,CCTV卫生健康
-http://119.91.7.169:1777/216.75.129.13.php?id=34
+https://play.kankanlive.com/live/1698423272597921.m3u8
+
 
 #EXTINF:-1 ,湖南卫视4K
 http://8.138.7.223/tv/api.php?id=hnws4k

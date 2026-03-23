@@ -54,14 +54,23 @@ http://112.240.13.203:1234/849116810
 http://112.240.13.203:1234/608831231
 #EXTINF:-1 ,海南卫视
 http://112.240.13.203:1234/947472502
-#EXTINF:-1 ,海峡卫视
-http://112.240.13.203:1234/849119120
 #EXTINF:-1 ,河北卫视
 http://112.240.13.203:1234/962042070
 #EXTINF:-1 ,河南卫视
 http://112.240.13.203:1234/790187291
+
+#EXTINF:-1 ,黑龙江卫视
+https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+
 #EXTINF:-1 ,湖北卫视
 http://112.240.13.203:1234/947472496
+
+#EXTINF:-1 ,湖南卫视4K
+http://8.138.7.223/tv/api.php?id=hnws4k
+
+#EXTINF:-1 ,湖南卫视4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+
 #EXTINF:-1 ,吉林卫视
 http://112.240.13.203:1234/947472500
 #EXTINF:-1 ,江苏卫视
@@ -78,6 +87,14 @@ http://112.240.13.203:1234/947472506
 http://112.240.13.203:1234/961023778
 #EXTINF:-1 ,陕西卫视
 http://112.240.13.203:1234/738910838
+
+#EXTINF:-1 ,浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+
+#EXTINF:-1 ,浙江卫视
+https://play-qukan.cztv.com/live/1746687519046362.m3u8
+
+
 #EXTINF:-1 ,中国农林卫视
 http://112.240.13.203:1234/956904896
 #EXTINF:-1 ,上海新闻综合
@@ -182,10 +199,6 @@ http://112.240.13.203:1234/646596895
 http://112.240.13.203:1234/629943305
 #EXTINF:-1 ,四海钓鱼
 http://112.240.13.203:1234/637444975
-#EXTINF:-1 ,武术世界
-http://112.240.13.203:1234/958475359
-#EXTINF:-1 ,快乐垂钓
-http://112.240.13.203:1234/961930263
 #EXTINF:-1 ,和美乡途轮播台
 http://112.240.13.203:1234/713591450
 #EXTINF:-1 ,中国天气

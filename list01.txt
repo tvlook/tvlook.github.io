@@ -6,7 +6,7 @@ http://103.236.87.67:3000/608807420
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道" ,CCTV-1 综合_③
 http://112.232.125.28:3500/608807420
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道" ,CCTV-1 综合_④
-http://120.4.169.176:1234/608807420
+http://123.121.63.90:1234/608807420
 
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" ,CCTV-2 财经_①
@@ -16,7 +16,7 @@ http://103.236.87.67:3000/631780532
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" ,CCTV-2 财经_③
 http://112.232.125.28:3500/631780532
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" ,CCTV-2 财经_④
-http://120.4.169.176:1234/631780532
+http://123.121.63.90:1234/631780532
 
 
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道" ,CCTV-3 综艺_①
@@ -26,7 +26,7 @@ http://103.236.87.67:3000/624878271
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道" ,CCTV-3 综艺_③
 http://112.232.125.28:3500/624878271
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道" ,CCTV-3 综艺_④
-http://120.4.169.176:1234/624878271
+http://123.121.63.90:1234/624878271
 
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道" ,CCTV-4 中文国际_①
@@ -36,7 +36,7 @@ http://103.236.87.67:3000/631780421
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道" ,CCTV-4 中文国际_③
 http://112.232.125.28:3500/631780421
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道" ,CCTV-4 中文国际_④
-http://120.4.169.176:1234/631780421
+http://123.121.63.90:1234/631780421
 
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道" ,CCTV-5 体育_①
@@ -46,7 +46,7 @@ http://103.236.87.67:3000/641886683
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道" ,CCTV-5 体育_③
 http://112.232.125.28:3500/641886683
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道" ,CCTV-5 体育_④
-http://120.4.169.176:1234/641886683
+http://123.121.63.90:1234/641886683
 
 
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视频道" ,CCTV-5+ 体育赛事_①
@@ -56,7 +56,7 @@ http://103.236.87.67:3000/641886773
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视频道" ,CCTV-5+ 体育赛事_③
 http://112.232.125.28:3500/641886773
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视频道" ,CCTV-5+ 体育赛事_④
-http://120.4.169.176:1234/641886773
+http://123.121.63.90:1234/641886773
 
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道" ,CCTV-6 电影_①
@@ -66,7 +66,7 @@ http://103.236.87.67:3000/624878396
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道" ,CCTV-6 电影_③
 http://112.232.125.28:3500/624878396
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道" ,CCTV-6 电影_④
-http://120.4.169.176:1234/624878396
+http://123.121.63.90:1234/624878396
 
 
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道" ,CCTV-7 国防军事_①
@@ -76,7 +76,7 @@ http://103.236.87.67:3000/673168121
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道" ,CCTV-7 国防军事_③
 http://112.232.125.28:3500/673168121
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道" ,CCTV-7 国防军事_④
-http://120.4.169.176:1234/673168121
+http://123.121.63.90:1234/673168121
 
 
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道" ,CCTV-8 电视剧_①
@@ -86,7 +86,7 @@ http://103.236.87.67:3000/624878356
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道" ,CCTV-8 电视剧_③
 http://112.232.125.28:3500/624878356
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道" ,CCTV-8 电视剧_④
-http://120.4.169.176:1234/624878356
+http://123.121.63.90:1234/624878356
 
 
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道" ,CCTV-9 纪录_①
@@ -96,7 +96,7 @@ http://103.236.87.67:3000/673168140
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道" ,CCTV-9 纪录_③
 http://112.232.125.28:3500/673168140
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道" ,CCTV-9 纪录_④
-http://120.4.169.176:1234/673168140
+http://123.121.63.90:1234/673168140
 
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道" ,CCTV-10 科教_①
@@ -106,7 +106,7 @@ http://103.236.87.67:3000/624878405
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道" ,CCTV-10 科教_③
 http://112.232.125.28:3500/624878405
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道" ,CCTV-10 科教_④
-http://120.4.169.176:1234/624878405
+http://123.121.63.90:1234/624878405
 
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道" ,CCTV-11 戏曲_①
@@ -116,7 +116,7 @@ http://103.236.87.67:3000/667987558
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道" ,CCTV-11 戏曲_③
 http://112.232.125.28:3500/667987558
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道" ,CCTV-11 戏曲_④
-http://120.4.169.176:1234/667987558
+http://123.121.63.90:1234/667987558
 
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道" ,CCTV-12 社会与法_①
@@ -126,7 +126,7 @@ http://103.236.87.67:3000/673168185
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道" ,CCTV-12 社会与法_③
 http://112.232.125.28:3500/673168185
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道" ,CCTV-12 社会与法_④
-http://120.4.169.176:1234/673168185
+http://123.121.63.90:1234/673168185
 
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道" ,CCTV-13 新闻_①
@@ -136,7 +136,7 @@ http://103.236.87.67:3000/608807423
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道" ,CCTV-13 新闻_③
 http://112.232.125.28:3500/608807423
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道" ,CCTV-13 新闻_④
-http://120.4.169.176:1234/608807423
+http://123.121.63.90:1234/608807423
 
 
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道" ,CCTV-14 少儿_①
@@ -146,7 +146,7 @@ http://103.236.87.67:3000/624878440
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道" ,CCTV-14 少儿_③
 http://112.232.125.28:3500/624878440
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道" ,CCTV-14 少儿_④
-http://120.4.169.176:1234/624878440
+http://123.121.63.90:1234/624878440
 
 
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道" ,CCTV-15 音乐_①
@@ -156,7 +156,7 @@ http://103.236.87.67:3000/673168223
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道" ,CCTV-15 音乐_③
 http://112.232.125.28:3500/673168223
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道" ,CCTV-15 音乐_④
-http://120.4.169.176:1234/673168223
+http://123.121.63.90:1234/673168223
 
 
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道" ,CCTV-17 农业农村_①
@@ -166,11 +166,11 @@ http://103.236.87.67:3000/673168256
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道" ,CCTV-17 农业农村_③
 http://112.232.125.28:3500/673168256
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道" ,CCTV-17 农业农村_④
-http://120.4.169.176:1234/673168256
+http://123.121.63.90:1234/673168256
 
 
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视
-http://36.136.38.87:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道" ,北京卫视_①
@@ -180,7 +180,7 @@ http://103.236.87.67:3000/630287636
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道" ,北京卫视_③
 http://112.232.125.28:3500/630287636
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道" ,北京卫视_④
-http://120.4.169.176:1234/630287636
+http://123.121.63.90:1234/630287636
 
 
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视频道" ,兵团卫视_①
@@ -190,7 +190,7 @@ http://103.236.87.67:3000/956923145
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视频道" ,兵团卫视_③
 http://112.232.125.28:3500/956923145
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视频道" ,兵团卫视_④
-http://120.4.169.176:1234/956923145
+http://123.121.63.90:1234/956923145
 
 
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_①
@@ -200,7 +200,7 @@ http://103.236.87.67:3000/738910914
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_③
 http://112.232.125.28:3500/738910914
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_④
-http://120.4.169.176:1234/738910914
+http://123.121.63.90:1234/738910914
 
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道" ,东方卫视_①
@@ -210,15 +210,15 @@ http://103.236.87.67:3000/651632648
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道" ,东方卫视_③
 http://112.232.125.28:3500/651632648
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道" ,东方卫视_④
-http://120.4.169.176:1234/651632648
+http://123.121.63.90:1234/651632648
 
 
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视
-http://36.136.38.87:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视
-http://183.207.248.71/gitv/live1/G_GANSU/G_GANSU
+
 
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_①
@@ -228,15 +228,15 @@ http://103.236.87.67:3000/608831231
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_③
 http://112.232.125.28:3500/608831231
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_④
-http://120.4.169.176:1234/608831231
+http://123.121.63.90:1234/608831231
 
 
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视
-http://36.136.38.87:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视
-http://36.136.38.87:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道" ,海南卫视_①
@@ -246,11 +246,11 @@ http://103.236.87.67:3000/947472502
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道" ,海南卫视_③
 http://112.232.125.28:3500/947472502
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道" ,海南卫视_④
-http://120.4.169.176:1234/947472502
+http://123.121.63.90:1234/947472502
 
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视
-http://36.136.38.87:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视_①
@@ -260,7 +260,7 @@ http://103.236.87.67:3000/790187291
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视_③
 http://112.232.125.28:3500/790187291
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视_④
-http://120.4.169.176:1234/790187291
+http://123.121.63.90:1234/790187291
 
 
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视
@@ -274,7 +274,7 @@ http://103.236.87.67:3000/947472496
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道" ,湖北卫视_③
 http://112.232.125.28:3500/947472496
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道" ,湖北卫视_④
-http://120.4.169.176:1234/947472496
+http://123.121.63.90:1234/947472496
 
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_①
@@ -290,7 +290,7 @@ http://103.236.87.67:3000/947472500
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道" ,吉林卫视_③
 http://112.232.125.28:3500/947472500
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道" ,吉林卫视_④
-http://120.4.169.176:1234/947472500
+http://123.121.63.90:1234/947472500
 
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道" ,江苏卫视_①
@@ -300,7 +300,7 @@ http://103.236.87.67:3000/623899368
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道" ,江苏卫视_③
 http://112.232.125.28:3500/623899368
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道" ,江苏卫视_④
-http://120.4.169.176:1234/623899368
+http://123.121.63.90:1234/623899368
 
 
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_①
@@ -310,7 +310,7 @@ http://103.236.87.67:3000/783847495
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_③
 http://112.232.125.28:3500/783847495
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_④
-http://120.4.169.176:1234/783847495
+http://123.121.63.90:1234/783847495
 
 
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道" ,辽宁卫视_①
@@ -320,11 +320,11 @@ http://103.236.87.67:3000/630291707
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道" ,辽宁卫视_③
 http://112.232.125.28:3500/630291707
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道" ,辽宁卫视_④
-http://120.4.169.176:1234/630291707
+http://123.121.63.90:1234/630291707
 
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视
-http://183.207.248.71/gitv/live1/G_NEIMENGGU/G_NEIMENGGU
+
 
 
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视_①
@@ -334,7 +334,7 @@ http://103.236.87.67:3000/738910535
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视_③
 http://112.232.125.28:3500/738910535
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视_④
-http://120.4.169.176:1234/738910535
+http://123.121.63.90:1234/738910535
 
 
 #EXTINF:-1 tvg-id="青海卫视V" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_①
@@ -344,7 +344,7 @@ http://103.236.87.67:3000/947472506
 #EXTINF:-1 tvg-id="青海卫视V" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_③
 http://112.232.125.28:3500/947472506
 #EXTINF:-1 tvg-id="青海卫视V" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_④
-http://120.4.169.176:1234/947472506
+http://123.121.63.90:1234/947472506
 
 
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道" ,三沙卫视_①
@@ -354,15 +354,15 @@ http://103.236.87.67:3000/961023778
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道" ,三沙卫视_③
 http://112.232.125.28:3500/961023778
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道" ,三沙卫视_④
-http://120.4.169.176:1234/961023778
+http://123.121.63.90:1234/961023778
 
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视
-http://36.136.38.87:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视
-http://36.136.38.87:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道" ,陕西卫视_①
@@ -372,153 +372,31 @@ http://103.236.87.67:3000/738910838
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道" ,陕西卫视_③
 http://112.232.125.28:3500/738910838
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道" ,陕西卫视_④
-http://120.4.169.176:1234/738910838
+http://123.121.63.90:1234/738910838
 
 
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视
-http://36.136.38.87:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视
-http://36.136.38.87:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视
-http://36.136.38.87:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视
-http://183.207.248.71/gitv/live1/G_XINJIANG/G_XINJIANG
+
 
 
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视
-http://36.136.38.87:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_①
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_②
-https://play-qukan.cztv.com/live/1746687519046362.m3u8
-
-
-#EXTINF:-1 ,上海新闻综合_①
-http://119.115.156.97:3566/651632657
-#EXTINF:-1 ,上海新闻综合_②
-http://103.236.87.67:3000/651632657
-#EXTINF:-1 ,上海新闻综合_③
-http://112.232.125.28:3500/651632657
-#EXTINF:-1 ,上海新闻综合_④
-http://120.4.169.176:1234/651632657
-
-
-#EXTINF:-1 ,上视东方影视_①
-http://119.115.156.97:3566/617290047
-#EXTINF:-1 ,上视东方影视_②
-http://103.236.87.67:3000/617290047
-#EXTINF:-1 ,上视东方影视_③
-http://112.232.125.28:3500/617290047
-#EXTINF:-1 ,上视东方影视_④
-http://120.4.169.176:1234/617290047
-
-
-#EXTINF:-1 ,上海第一财经_①
-http://119.115.156.97:3566/608780988
-#EXTINF:-1 ,上海第一财经_②
-http://103.236.87.67:3000/608780988
-#EXTINF:-1 ,上海第一财经_③
-http://112.232.125.28:3500/608780988
-#EXTINF:-1 ,上海第一财经_④
-http://120.4.169.176:1234/608780988
-
-
-#EXTINF:-1 ,南京新闻综合频道_①
-http://119.115.156.97:3566/838109047
-#EXTINF:-1 ,南京新闻综合频道_②
-http://103.236.87.67:3000/838109047
-#EXTINF:-1 ,南京新闻综合频道_③
-http://112.232.125.28:3500/838109047
-#EXTINF:-1 ,南京新闻综合频道_④
-http://120.4.169.176:1234/838109047
-
-
-#EXTINF:-1 ,南京教科频道_①
-http://119.115.156.97:3566/838153729
-#EXTINF:-1 ,南京教科频道_②
-http://103.236.87.67:3000/838153729
-#EXTINF:-1 ,南京教科频道_③
-http://112.232.125.28:3500/838153729
-#EXTINF:-1 ,南京教科频道_④
-http://120.4.169.176:1234/838153729
-
-
-#EXTINF:-1 ,南京十八频道_①
-http://119.115.156.97:3566/838151753
-#EXTINF:-1 ,南京十八频道_②
-http://103.236.87.67:3000/838151753
-#EXTINF:-1 ,南京十八频道_③
-http://112.232.125.28:3500/838151753
-#EXTINF:-1 ,南京十八频道_④
-http://120.4.169.176:1234/838151753
-
-
-#EXTINF:-1 ,江苏城市频道_①
-http://119.115.156.97:3566/626064714
-#EXTINF:-1 ,江苏城市频道_②
-http://103.236.87.67:3000/626064714
-#EXTINF:-1 ,江苏城市频道_③
-http://112.232.125.28:3500/626064714
-#EXTINF:-1 ,江苏城市频道_④
-http://120.4.169.176:1234/626064714
-
-
-#EXTINF:-1 ,江苏国际_①
-http://119.115.156.97:3566/626064674
-#EXTINF:-1 ,江苏国际_②
-http://103.236.87.67:3000/626064674
-#EXTINF:-1 ,江苏国际_③
-http://112.232.125.28:3500/626064674
-#EXTINF:-1 ,江苏国际_④
-http://120.4.169.176:1234/626064674
-
-
-#EXTINF:-1 ,江苏教育_①
-http://119.115.156.97:3566/628008321
-#EXTINF:-1 ,江苏教育_②
-http://103.236.87.67:3000/628008321
-#EXTINF:-1 ,江苏教育_③
-http://112.232.125.28:3500/628008321
-#EXTINF:-1 ,江苏教育_④
-http://120.4.169.176:1234/628008321
-
-
-#EXTINF:-1 ,江苏影视频道_①
-http://119.115.156.97:3566/626064697
-#EXTINF:-1 ,江苏影视频道_②
-http://103.236.87.67:3000/626064697
-#EXTINF:-1 ,江苏影视频道_③
-http://112.232.125.28:3500/626064697
-#EXTINF:-1 ,江苏影视频道_④
-http://120.4.169.176:1234/626064697
-
-
-#EXTINF:-1 ,江苏综艺频道_①
-http://119.115.156.97:3566/626065193
-#EXTINF:-1 ,江苏综艺频道_②
-http://103.236.87.67:3000/626065193
-#EXTINF:-1 ,江苏综艺频道_③
-http://112.232.125.28:3500/626065193
-#EXTINF:-1 ,江苏综艺频道_④
-http://120.4.169.176:1234/626065193
-
-
-#EXTINF:-1 ,江苏新闻频道_①
-http://119.115.156.97:3566/626064693
-#EXTINF:-1 ,江苏新闻频道_②
-http://103.236.87.67:3000/626064693
-#EXTINF:-1 ,江苏新闻频道_③
-http://112.232.125.28:3500/626064693
-#EXTINF:-1 ,江苏新闻频道_④
-http://120.4.169.176:1234/626064693
 
 
 #EXTINF:-1 ,辽宁广播电视台公共频道_①
@@ -528,7 +406,7 @@ http://103.236.87.67:3000/962045223
 #EXTINF:-1 ,辽宁广播电视台公共频道_③
 http://112.232.125.28:3500/962045223
 #EXTINF:-1 ,辽宁广播电视台公共频道_④
-http://120.4.169.176:1234/962045223
+http://123.121.63.90:1234/962045223
 
 
 #EXTINF:-1 ,辽宁广播电视台生活频道_①
@@ -538,7 +416,7 @@ http://103.236.87.67:3000/962045226
 #EXTINF:-1 ,辽宁广播电视台生活频道_③
 http://112.232.125.28:3500/962045226
 #EXTINF:-1 ,辽宁广播电视台生活频道_④
-http://120.4.169.176:1234/962045226
+http://123.121.63.90:1234/962045226
 
 
 #EXTINF:-1 ,辽宁广播电视台影视剧频道_①
@@ -548,7 +426,7 @@ http://103.236.87.67:3000/962067517
 #EXTINF:-1 ,辽宁广播电视台影视剧频道_③
 http://112.232.125.28:3500/962067517
 #EXTINF:-1 ,辽宁广播电视台影视剧频道_④
-http://120.4.169.176:1234/962067517
+http://123.121.63.90:1234/962067517
 
 
 #EXTINF:-1 ,辽宁广播电视台体育休闲频道_①
@@ -558,7 +436,7 @@ http://103.236.87.67:3000/962067526
 #EXTINF:-1 ,辽宁广播电视台体育休闲频道_③
 http://112.232.125.28:3500/962067526
 #EXTINF:-1 ,辽宁广播电视台体育休闲频道_④
-http://120.4.169.176:1234/962067526
+http://123.121.63.90:1234/962067526
 
 
 #EXTINF:-1 ,宁夏广播电视台文旅频道_①
@@ -568,7 +446,7 @@ http://103.236.87.67:3000/962067523
 #EXTINF:-1 ,宁夏广播电视台文旅频道_③
 http://112.232.125.28:3500/962067523
 #EXTINF:-1 ,宁夏广播电视台文旅频道_④
-http://120.4.169.176:1234/962067523
+http://123.121.63.90:1234/962067523
 
 
 #EXTINF:-1 ,宁夏广播电视台经济频道_①
@@ -578,34 +456,4 @@ http://103.236.87.67:3000/962067520
 #EXTINF:-1 ,宁夏广播电视台经济频道_③
 http://112.232.125.28:3500/962067520
 #EXTINF:-1 ,宁夏广播电视台经济频道_④
-http://120.4.169.176:1234/962067520
-
-
-#EXTINF:-1 ,陕西新闻资讯频道_①
-http://119.115.156.97:3566/956909289
-#EXTINF:-1 ,陕西新闻资讯频道_②
-http://103.236.87.67:3000/956909289
-#EXTINF:-1 ,陕西新闻资讯频道_③
-http://112.232.125.28:3500/956909289
-#EXTINF:-1 ,陕西新闻资讯频道_④
-http://120.4.169.176:1234/956909289
-
-
-#EXTINF:-1 ,陕西都市青春频道_①
-http://119.115.156.97:3566/956909358
-#EXTINF:-1 ,陕西都市青春频道_②
-http://103.236.87.67:3000/956909358
-#EXTINF:-1 ,陕西都市青春频道_③
-http://112.232.125.28:3500/956909358
-#EXTINF:-1 ,陕西都市青春频道_④
-http://120.4.169.176:1234/956909358
-
-
-#EXTINF:-1 ,陕西体育休闲频道_①
-http://119.115.156.97:3566/956909356
-#EXTINF:-1 ,陕西体育休闲频道_②
-http://103.236.87.67:3000/956909356
-#EXTINF:-1 ,陕西体育休闲频道_③
-http://112.232.125.28:3500/956909356
-#EXTINF:-1 ,陕西体育休闲频道_④
-http://120.4.169.176:1234/956909356
+http://123.121.63.90:1234/962067520

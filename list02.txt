@@ -1,99 +1,71 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1
-http://171.213.158.177:9008/udp/239.94.0.31:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV2
-http://171.213.158.177:9008/udp/239.94.0.2:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV3
-http://171.213.158.177:9008/udp/239.94.0.32:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV4
-http://171.213.158.177:9008/udp/239.94.0.4:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-4sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV5
-http://171.213.158.177:9008/udp/239.94.0.33:5140&z=1f4e
-#EXTINF:-1 ,CCTV5+
-http://171.213.158.177:9008/udp/239.94.0.23:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV6
-http://171.213.158.177:9008/udp/239.94.0.34:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV7
-http://171.213.158.177:9008/udp/239.94.0.7:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV8
-http://171.213.158.177:9008/udp/239.94.0.35:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-8hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV9
-http://171.213.158.177:9008/udp/239.94.0.9:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV10
-http://171.213.158.177:9008/udp/239.94.0.10:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV11
-http://171.213.158.177:9008/udp/239.94.0.36:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-11sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV12
-http://171.213.158.177:9008/udp/239.94.0.12:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV13
-http://171.213.158.177:9008/udp/239.94.0.37:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-newssd/1500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV14
-http://171.213.158.177:9008/udp/239.94.0.14:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV15
-http://171.213.158.177:9008/udp/239.94.0.38:5140&z=1f4e
-#EXTINF:-1 ,CCTV16
-http://171.213.158.177:9008/udp/239.94.0.20:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-yysd/1500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV17
-http://171.213.158.177:9008/udp/239.94.0.39:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,安徽卫视
-http://171.213.158.177:9008/udp/239.94.0.85:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/ahws-sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,北京卫视
-http://171.213.158.177:9008/udp/239.94.0.65:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/bjws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,重庆卫视
-http://171.213.158.177:9008/udp/239.94.0.82:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/cqws-sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,东方卫视
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
+http://cc2022.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,东南卫视
-http://171.213.158.177:9008/udp/239.94.0.80:5140&z=1f4e
-#EXTINF:-1 ,甘肃卫视
-http://171.213.158.177:9008/udp/239.94.0.99:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,广东卫视
-http://171.213.158.177:9008/udp/239.94.0.67:5140&z=1f4e
-#EXTINF:-1 ,广西卫视
-http://171.213.158.177:9008/udp/239.94.0.89:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,贵州卫视
-http://171.213.158.177:9008/udp/239.94.0.83:5140&z=1f4e
-#EXTINF:-1 ,河北卫视
-http://171.213.158.177:9008/udp/239.94.0.86:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/gzws-sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,河南卫视
-http://171.213.158.177:9008/udp/239.94.0.88:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,黑龙江卫视
-http://171.213.158.177:9008/udp/239.94.0.81:5140&z=1f4e
-#EXTINF:-1 ,湖北卫视
-http://171.213.158.177:9008/udp/239.94.0.84:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,湖南卫视
-http://171.213.158.177:9008/udp/239.94.0.61:5140&z=1f4e
-#EXTINF:-1 ,吉林卫视
-http://171.213.158.177:9008/udp/239.94.0.91:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,江苏卫视
-http://171.213.158.177:9008/udp/239.94.0.62:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,江西卫视
-http://171.213.158.177:9008/udp/239.94.0.79:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,辽宁卫视
-http://171.213.158.177:9008/udp/239.94.0.101:5140&z=1f4e
-#EXTINF:-1 ,内蒙古卫视
-http://171.213.158.177:9008/udp/239.94.0.94:5140&z=1f4e
-#EXTINF:-1 ,宁夏卫视
-http://171.213.158.177:9008/udp/239.94.0.96:5140&z=1f4e
-#EXTINF:-1 ,青海卫视
-http://171.213.158.177:9008/udp/239.94.0.95:5140&z=1f4e
-#EXTINF:-1 ,三沙卫视
-http://171.213.158.177:9008/udp/239.94.0.105:5140&z=1f4e
-#EXTINF:-1 ,厦门卫视
-http://171.213.158.177:9008/udp/239.94.0.104:5140&z=1f4e
-#EXTINF:-1 ,山东卫视
-http://171.213.158.177:9008/udp/239.94.0.69:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,深圳卫视
-http://171.213.158.177:9008/udp/239.94.0.66:5140&z=1f4e
-#EXTINF:-1 ,四川卫视
-http://171.213.158.177:9008/udp/239.94.0.59:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,天津卫视
-http://171.213.158.177:9008/udp/239.94.0.68:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/tjws-sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,西藏卫视
-http://171.213.158.177:9008/udp/239.94.0.97:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,新疆卫视
-http://171.213.158.177:9008/udp/239.94.0.98:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,云南卫视
-http://171.213.158.177:9008/udp/239.94.0.90:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,浙江卫视
-http://171.213.158.177:9008/udp/239.94.0.63:5140&z=1f4e
+http://cc2022.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=007

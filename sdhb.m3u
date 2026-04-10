@@ -278,10 +278,14 @@ http://119.29.13.205:1234/947472502
 http://43.143.113.19:1234/947472502
 
 
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_⑦
-http://36.136.38.87:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_⑧
-http://36.136.38.87:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_①
+http://112.53.234.119:1234/962042070
+#EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_②
+http://82.156.59.211:3000/962042070
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_③
+http://119.29.13.205:1234/962042070
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_④
+http://43.143.113.19:1234/962042070
 
 
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视_①

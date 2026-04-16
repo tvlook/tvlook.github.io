@@ -170,9 +170,9 @@ http://43.143.113.19:1234/673168256
 
 
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑤
-http://223.110.254.207:6610/cntv/live1/anhuistv/anhuistv
+http://39.152.103.17:8089/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑥
-http://cc2022.ifengli.com:2000/live/ahws-sd/1500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑦
 http://36.136.38.87:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑧
@@ -220,9 +220,9 @@ http://43.143.113.19:1234/651632648
 
 
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑤
-http://223.110.254.207:6610/gitv/live1/DNWS/DNWS
+http://39.152.103.17:8089/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑥
-http://cc2022.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑦
 http://36.136.38.87:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑧
@@ -230,9 +230,9 @@ http://36.136.38.87:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑤
-http://223.110.254.207:6610/cntv/live1/gansustv/gansustv
+http://39.152.103.17:8089/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑥
-http://47.100.29.86:28888/shyd/cms001/ch00000090990000001298/index.m3u8
+http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑦
 
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑧
@@ -249,9 +249,9 @@ http://43.143.113.19:1234/608831231
 
 
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑤
-http://223.110.254.207:6610/gitv/live1/GXWS/GXWS
+http://39.152.103.17:8089/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑥
-http://cc2022.ifengli.com:2000/live/gxws-sd/2500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑦
 http://36.136.38.87:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑧
@@ -259,9 +259,9 @@ http://36.136.38.87:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑤
-http://223.110.254.207:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU
+http://39.152.103.17:8089/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑥
-http://cc2022.ifengli.com:2000/live/gzws-sd/1500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑦
 http://36.136.38.87:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑧
@@ -299,9 +299,9 @@ http://43.143.113.19:1234/790187291
 
 
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑤
-http://223.110.254.207:6610/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv/1.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑥ 
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑥ 
+http://112.123.243.37:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑦
 http://36.136.38.87:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑧
@@ -319,9 +319,9 @@ http://43.143.113.19:1234/947472496
 
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑤
-http://223.110.254.207:6610/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hunanstv/1.m3u8
+http://39.152.103.17:8089/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑥
-http://cc2022.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑦
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑧
@@ -369,9 +369,13 @@ http://43.143.113.19:1234/630291707
 
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑤
-http://223.110.254.207:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU
+http://39.152.103.17:8089/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑥
-http://cc2022.ifengli.com:2000/live/nmws-sd/2500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑦
+
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑧
+
 
 
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视_①
@@ -405,9 +409,9 @@ http://43.143.113.19:1234/961023778
 
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑤
-http://223.110.254.207:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv/1.m3u8
+http://39.152.103.17:8089/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑥
-http://cc2022.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑦
 http://36.136.38.87:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑧
@@ -415,9 +419,9 @@ http://36.136.38.87:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑤
-http://223.110.254.207:6610/gitv/live1/SXWS/SXWS
+http://39.152.103.17:8089/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑥
-http://cc2022.ifengli.com:2000/live/shanxiws-sd/1500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑦
 http://36.136.38.87:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑧
@@ -435,9 +439,9 @@ http://43.143.113.19:1234/738910838
 
 
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑤
-http://223.110.254.207:6610/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv/1.m3u8
+http://39.152.103.17:8089/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑥
-http://cc2022.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑦
 http://36.136.38.87:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑧
@@ -445,9 +449,9 @@ http://36.136.38.87:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑤
-http://223.110.254.207:6610/cntv/live1/sichuanstv/sichuanstv
+http://39.152.103.17:8089/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑥
-http://cc2022.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑦
 http://36.136.38.87:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑧
@@ -455,9 +459,9 @@ http://36.136.38.87:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑤
-http://223.110.254.207:6610/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv/1.m3u8
+http://39.152.103.17:8089/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑥
-http://cc2022.ifengli.com:2000/live/tjws-sd/1500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑦
 http://36.136.38.87:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑧
@@ -465,21 +469,29 @@ http://36.136.38.87:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑤
-http://223.110.254.207:6610/gitv/live1/G_XIZANG/G_XIZANG
+http://183.237.95.108:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑥
-http://cc2022.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑦
+
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑧
+
 
 
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑤
-http://223.110.254.207:6610/gitv/live1/G_XINJIANG/G_XINJIANG
+http://39.152.103.17:8089/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑥
-http://cc2022.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑦
+
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑧
+
 
 
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑤
-http://223.110.254.207:6610/cntv/live1/yunnanstv/yunnanstv
+http://39.152.103.17:8089/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑥
-http://cc2022.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑦
 http://36.136.38.87:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑧
@@ -487,9 +499,9 @@ http://36.136.38.87:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑤
-http://223.110.254.207:6610/cntv/live1/HD-2500k-1080P-zhejiangstv/HD-2500k-1080P-zhejiangstv/1.m3u8
+http://39.152.103.17:8089/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑥
-http://cc2022.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=007
+http://112.123.243.37:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑦
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑧
@@ -532,6 +544,8 @@ http://cc2022.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=007
 http://cc2022.ifengli.com:2000/live/ahws-sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,北京卫视
 http://cc2022.ifengli.com:2000/live/bjws-hd/2500.m3u8?innersid=007
+#EXTINF:-1 ,兵团卫视
+http://cc2022.ifengli.com:2000/live/btws-sd/2500.m3u8?innersid=007
 #EXTINF:-1 ,重庆卫视
 http://cc2022.ifengli.com:2000/live/cqws-sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,东方卫视
@@ -540,22 +554,42 @@ http://cc2022.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=007
 http://cc2022.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,广东卫视
 http://cc2022.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=007
+#EXTINF:-1 ,广西卫视
+http://cc2022.ifengli.com:2000/live/gxws-sd/2500.m3u8?innersid=007
 #EXTINF:-1 ,贵州卫视
 http://cc2022.ifengli.com:2000/live/gzws-sd/1500.m3u8?innersid=007
+#EXTINF:-1 ,河北卫视
+http://cc2022.ifengli.com:2000/live/hebeiws-sd/2500.m3u8?innersid=007
 #EXTINF:-1 ,河南卫视
 http://cc2022.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,黑龙江卫视
 http://cc2022.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=007
+#EXTINF:-1 ,湖北卫视
+http://cc2022.ifengli.com:2000/live/hbws-sd/2500.m3u8?innersid=007
 #EXTINF:-1 ,湖南卫视
 http://cc2022.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=007
+#EXTINF:-1 ,吉林卫视
+http://cc2022.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,江苏卫视
 http://cc2022.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,江西卫视
 http://cc2022.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,辽宁卫视
 http://cc2022.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=007
+#EXTINF:-1 ,内蒙古卫视
+http://cc2022.ifengli.com:2000/live/nmws-sd/2500.m3u8?innersid=007
+#EXTINF:-1 ,宁夏卫视
+http://cc2022.ifengli.com:2000/live/nxws-sd/2500.m3u8?innersid=007
+#EXTINF:-1 ,山东卫视
+http://cc2022.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=007
+#EXTINF:-1 ,山西卫视
+http://cc2022.ifengli.com:2000/live/shanxiws-sd/1500.m3u8?innersid=007
+#EXTINF:-1 ,陕西卫视
+http://cc2022.ifengli.com:2000/live/sxws-sd/2500.m3u8?innersid=007
 #EXTINF:-1 ,深圳卫视
 http://cc2022.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=007
+#EXTINF:-1 ,四川卫视
+http://cc2022.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,天津卫视
 http://cc2022.ifengli.com:2000/live/tjws-sd/1500.m3u8?innersid=007
 #EXTINF:-1 ,西藏卫视

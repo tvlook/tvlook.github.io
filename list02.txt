@@ -1,67 +1,26 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1
-http://198.204.228.26/live/cctv1hd.m3u8
-
+https://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 ,CCTV2
-http://198.204.228.26/live/cctv2hd.m3u8
-
-#EXTINF:-1 ,CCTV3
-http://198.204.228.26/live/cctv3hd.m3u8
-
+https://play.kankanlive.com/live/1698234898628961.m3u8
 #EXTINF:-1 ,CCTV4
-http://198.204.228.26/live/cctv4hd.m3u8
-
-#EXTINF:-1 ,CCTV5
-http://198.204.228.26/live/cctv5hd.m3u8
-
-#EXTINF:-1 ,CCTV6
-http://198.204.228.26/live/cctv6hd.m3u8
-
-#EXTINF:-1 ,CCTV7
-http://198.204.228.26/live/cctv7hd.m3u8
-
-#EXTINF:-1 ,CCTV8
-http://198.204.228.26/live/cctv8hd.m3u8
-
+https://play.kankanlive.com/live/1698234936258960.m3u8
 #EXTINF:-1 ,CCTV9
-http://198.204.228.26/live/cctv9hd.m3u8
-
+https://play.kankanlive.com/live/1698423397390920.m3u8
 #EXTINF:-1 ,CCTV10
-http://198.204.228.26/live/cctv10hd.m3u8
-
+https://play.kankanlive.com/live/1698423445959919.m3u8
 #EXTINF:-1 ,CCTV11
-http://198.204.228.26/live/cctv11hd.m3u8
-
+https://play.kankanlive.com/live/1698423476198918.m3u8
 #EXTINF:-1 ,CCTV12
-http://198.204.228.26/live/cctv12hd.m3u8
-
+https://play.kankanlive.com/live/1698423511884917.m3u8
 #EXTINF:-1 ,CCTV13
-http://198.204.228.26/live/cctv13hd.m3u8
-
+https://play.kankanlive.com/live/1698423543275916.m3u8
 #EXTINF:-1 ,CCTV14
-http://198.204.228.26/live/cctv14hd.m3u8
-
+https://play.kankanlive.com/live/1698423575756915.m3u8
 #EXTINF:-1 ,CCTV15
-http://198.204.228.26/live/cctv15hd.m3u8
-
-#EXTINF:-1 ,CCTV16
-http://198.204.228.26/live/cctv16hd.m3u8
-
+https://play.kankanlive.com/live/1698423607826914.m3u8
 #EXTINF:-1 ,CCTV17
-http://198.204.228.26/live/cctv17hd.m3u8
-
-
-#EXTINF:-1 ,CCTV3
-https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
-
-#EXTINF:-1 ,CCTV2
-https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
-
-#EXTINF:-1 ,CCTV7
-https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
-
-#EXTINF:-1 ,CCTV8
-https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
+https://play.kankanlive.com/live/1698423272597921.m3u8
 
 
 #EXTINF:-1 ,安徽卫视HD

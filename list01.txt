@@ -4,7 +4,7 @@ http://103.236.87.67:3000/608807420
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道" ,CCTV-1 综合_②
 http://117.72.203.216:3000/608807420
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道" ,CCTV-1 综合_③
-http://116.147.106.134:1234/608807420
+http://122.195.111.39:1234/608807420
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道" ,CCTV-1 综合_④
 http://43.139.69.198:3000/608807420
 
@@ -14,7 +14,7 @@ http://103.236.87.67:3000/631780532
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" ,CCTV-2 财经_②
 http://117.72.203.216:3000/631780532
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" ,CCTV-2 财经_③
-http://116.147.106.134:1234/631780532
+http://122.195.111.39:1234/631780532
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" ,CCTV-2 财经_④
 http://43.139.69.198:3000/631780532
 
@@ -24,7 +24,7 @@ http://103.236.87.67:3000/624878271
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道" ,CCTV-3 综艺_②
 http://117.72.203.216:3000/624878271
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道" ,CCTV-3 综艺_③
-http://116.147.106.134:1234/624878271
+http://122.195.111.39:1234/624878271
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道" ,CCTV-3 综艺_④
 http://43.139.69.198:3000/624878271
 
@@ -34,7 +34,7 @@ http://103.236.87.67:3000/631780421
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道" ,CCTV-4 中文国际_②
 http://117.72.203.216:3000/631780421
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道" ,CCTV-4 中文国际_③
-http://116.147.106.134:1234/631780421
+http://122.195.111.39:1234/631780421
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道" ,CCTV-4 中文国际_④
 http://43.139.69.198:3000/631780421
 
@@ -44,7 +44,7 @@ http://103.236.87.67:3000/641886683
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道" ,CCTV-5 体育_②
 http://117.72.203.216:3000/641886683
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道" ,CCTV-5 体育_③
-http://116.147.106.134:1234/641886683
+http://122.195.111.39:1234/641886683
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道" ,CCTV-5 体育_④
 http://43.139.69.198:3000/641886683
 
@@ -54,7 +54,7 @@ http://103.236.87.67:3000/641886773
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视频道" ,CCTV-5+ 体育赛事_②
 http://117.72.203.216:3000/641886773
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视频道" ,CCTV-5+ 体育赛事_③
-http://116.147.106.134:1234/641886773
+http://122.195.111.39:1234/641886773
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视频道" ,CCTV-5+ 体育赛事_④
 http://43.139.69.198:3000/641886773
 
@@ -64,7 +64,7 @@ http://103.236.87.67:3000/624878396
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道" ,CCTV-6 电影_②
 http://117.72.203.216:3000/624878396
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道" ,CCTV-6 电影_③
-http://116.147.106.134:1234/624878396
+http://122.195.111.39:1234/624878396
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道" ,CCTV-6 电影_④
 http://43.139.69.198:3000/624878396
 
@@ -74,7 +74,7 @@ http://103.236.87.67:3000/673168121
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道" ,CCTV-7 国防军事_②
 http://117.72.203.216:3000/673168121
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道" ,CCTV-7 国防军事_③
-http://116.147.106.134:1234/673168121
+http://122.195.111.39:1234/673168121
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道" ,CCTV-7 国防军事_④
 http://43.139.69.198:3000/673168121
 
@@ -84,7 +84,7 @@ http://103.236.87.67:3000/624878356
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道" ,CCTV-8 电视剧_②
 http://117.72.203.216:3000/624878356
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道" ,CCTV-8 电视剧_③
-http://116.147.106.134:1234/624878356
+http://122.195.111.39:1234/624878356
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道" ,CCTV-8 电视剧_④
 http://43.139.69.198:3000/624878356
 
@@ -94,7 +94,7 @@ http://103.236.87.67:3000/673168140
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道" ,CCTV-9 纪录_②
 http://117.72.203.216:3000/673168140
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道" ,CCTV-9 纪录_③
-http://116.147.106.134:1234/673168140
+http://122.195.111.39:1234/673168140
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道" ,CCTV-9 纪录_④
 http://43.139.69.198:3000/673168140
 
@@ -104,7 +104,7 @@ http://103.236.87.67:3000/624878405
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道" ,CCTV-10 科教_②
 http://117.72.203.216:3000/624878405
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道" ,CCTV-10 科教_③
-http://116.147.106.134:1234/624878405
+http://122.195.111.39:1234/624878405
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道" ,CCTV-10 科教_④
 http://43.139.69.198:3000/624878405
 
@@ -114,7 +114,7 @@ http://103.236.87.67:3000/667987558
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道" ,CCTV-11 戏曲_②
 http://117.72.203.216:3000/667987558
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道" ,CCTV-11 戏曲_③
-http://116.147.106.134:1234/667987558
+http://122.195.111.39:1234/667987558
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道" ,CCTV-11 戏曲_④
 http://43.139.69.198:3000/667987558
 
@@ -124,7 +124,7 @@ http://103.236.87.67:3000/673168185
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道" ,CCTV-12 社会与法_②
 http://117.72.203.216:3000/673168185
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道" ,CCTV-12 社会与法_③
-http://116.147.106.134:1234/673168185
+http://122.195.111.39:1234/673168185
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道" ,CCTV-12 社会与法_④
 http://43.139.69.198:3000/673168185
 
@@ -134,7 +134,7 @@ http://103.236.87.67:3000/608807423
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道" ,CCTV-13 新闻_②
 http://117.72.203.216:3000/608807423
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道" ,CCTV-13 新闻_③
-http://116.147.106.134:1234/608807423
+http://122.195.111.39:1234/608807423
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道" ,CCTV-13 新闻_④
 http://43.139.69.198:3000/608807423
 
@@ -144,7 +144,7 @@ http://103.236.87.67:3000/624878440
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道" ,CCTV-14 少儿_②
 http://117.72.203.216:3000/624878440
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道" ,CCTV-14 少儿_③
-http://116.147.106.134:1234/624878440
+http://122.195.111.39:1234/624878440
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道" ,CCTV-14 少儿_④
 http://43.139.69.198:3000/624878440
 
@@ -154,7 +154,7 @@ http://103.236.87.67:3000/673168223
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道" ,CCTV-15 音乐_②
 http://117.72.203.216:3000/673168223
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道" ,CCTV-15 音乐_③
-http://116.147.106.134:1234/673168223
+http://122.195.111.39:1234/673168223
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道" ,CCTV-15 音乐_④
 http://43.139.69.198:3000/673168223
 
@@ -164,7 +164,7 @@ http://103.236.87.67:3000/673168256
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道" ,CCTV-17 农业农村_②
 http://117.72.203.216:3000/673168256
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道" ,CCTV-17 农业农村_③
-http://116.147.106.134:1234/673168256
+http://122.195.111.39:1234/673168256
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道" ,CCTV-17 农业农村_④
 http://43.139.69.198:3000/673168256
 
@@ -172,7 +172,7 @@ http://43.139.69.198:3000/673168256
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.37:8208
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.127:5140
+http://gonas.xyz:38128/rtp/239.254.96.20:8094
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.173:4130
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑧
@@ -184,7 +184,7 @@ http://103.236.87.67:3000/630287636
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道" ,北京卫视_②
 http://117.72.203.216:3000/630287636
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道" ,北京卫视_③
-http://116.147.106.134:1234/630287636
+http://122.195.111.39:1234/630287636
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道" ,北京卫视_④
 http://43.139.69.198:3000/630287636
 
@@ -194,7 +194,7 @@ http://103.236.87.67:3000/956923145
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视频道" ,兵团卫视_②
 http://117.72.203.216:3000/956923145
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视频道" ,兵团卫视_③
-http://116.147.106.134:1234/956923145
+http://122.195.111.39:1234/956923145
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视频道" ,兵团卫视_④
 http://43.139.69.198:3000/956923145
 
@@ -202,7 +202,7 @@ http://43.139.69.198:3000/956923145
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.50:8312
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.143:5140
+http://gonas.xyz:38128/rtp/239.254.96.25:8124
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.168:4130
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_⑧
@@ -214,7 +214,7 @@ http://103.236.87.67:3000/651632648
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道" ,东方卫视_②
 http://117.72.203.216:3000/651632648
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道" ,东方卫视_③
-http://116.147.106.134:1234/651632648
+http://122.195.111.39:1234/651632648
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道" ,东方卫视_④
 http://43.139.69.198:3000/651632648
 
@@ -222,7 +222,7 @@ http://43.139.69.198:3000/651632648
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.40:8232
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.128:5140
+http://gonas.xyz:38128/rtp/239.254.96.26:8130
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.164:4130
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑧
@@ -232,7 +232,7 @@ http://www.pve.onetopcloud.com:16666/udp/239.125.1.164:4130
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.55:8352
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.137:5140
+http://gonas.xyz:38128/rtp/239.254.96.187:9202
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.151:4130
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑧
@@ -242,7 +242,7 @@ http://www.pve.onetopcloud.com:16666/udp/239.125.1.151:4130
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.45:8272
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.138:5140
+http://gonas.xyz:38128/rtp/239.254.96.22:8106
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.154:4130
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_⑧
@@ -252,7 +252,7 @@ http://www.pve.onetopcloud.com:16666/udp/239.125.1.154:4130
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.46:8280
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.123:5140
+http://gonas.xyz:38128/rtp/239.254.96.23:8112
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.167:4130
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑧
@@ -262,7 +262,7 @@ http://www.pve.onetopcloud.com:16666/udp/239.125.1.167:4130
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.43:8256
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.144:5140
+http://gonas.xyz:38128/rtp/239.254.96.31:8160
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.158:4130
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑧
@@ -274,7 +274,7 @@ http://103.236.87.67:3000/947472502
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道" ,海南卫视_②
 http://117.72.203.216:3000/947472502
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道" ,海南卫视_③
-http://116.147.106.134:1234/947472502
+http://122.195.111.39:1234/947472502
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道" ,海南卫视_④
 http://43.139.69.198:3000/947472502
 
@@ -284,7 +284,7 @@ http://103.236.87.67:3000/962042070
 #EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_②
 http://117.72.203.216:3000/962042070
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_③
-http://116.147.106.134:1234/962042070
+http://122.195.111.39:1234/962042070
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_④
 http://43.139.69.198:3000/962042070
 
@@ -294,7 +294,7 @@ http://103.236.87.67:3000/790187291
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视_②
 http://117.72.203.216:3000/790187291
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视_③
-http://116.147.106.134:1234/790187291
+http://122.195.111.39:1234/790187291
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视_④
 http://43.139.69.198:3000/790187291
 
@@ -302,7 +302,7 @@ http://43.139.69.198:3000/790187291
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.48:8296
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑥ 
-http://223.167.230.46:4022/rtp/233.18.204.139:5140
+http://gonas.xyz:38128/rtp/239.254.96.92:8526
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.171:4130
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑧
@@ -314,7 +314,7 @@ http://103.236.87.67:3000/947472496
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道" ,湖北卫视_②
 http://117.72.203.216:3000/947472496
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道" ,湖北卫视_③
-http://116.147.106.134:1234/947472496
+http://122.195.111.39:1234/947472496
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道" ,湖北卫视_④
 http://43.139.69.198:3000/947472496
 
@@ -322,7 +322,7 @@ http://43.139.69.198:3000/947472496
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.33:8176
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.119:5140
+http://gonas.xyz:38128/rtp/239.254.96.15:8064
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.170:4130
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑧
@@ -334,7 +334,7 @@ http://103.236.87.67:3000/947472500
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道" ,吉林卫视_②
 http://117.72.203.216:3000/947472500
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道" ,吉林卫视_③
-http://116.147.106.134:1234/947472500
+http://122.195.111.39:1234/947472500
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道" ,吉林卫视_④
 http://43.139.69.198:3000/947472500
 
@@ -344,7 +344,7 @@ http://103.236.87.67:3000/623899368
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道" ,江苏卫视_②
 http://117.72.203.216:3000/623899368
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道" ,江苏卫视_③
-http://116.147.106.134:1234/623899368
+http://122.195.111.39:1234/623899368
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道" ,江苏卫视_④
 http://43.139.69.198:3000/623899368
 
@@ -352,7 +352,7 @@ http://43.139.69.198:3000/623899368
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.198:9496
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.130:5140
+http://gonas.xyz:38128/rtp/239.254.96.27:8136
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.174:4130
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_⑧
@@ -364,7 +364,7 @@ http://103.236.87.67:3000/630291707
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道" ,辽宁卫视_②
 http://117.72.203.216:3000/630291707
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道" ,辽宁卫视_③
-http://116.147.106.134:1234/630291707
+http://122.195.111.39:1234/630291707
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道" ,辽宁卫视_④
 http://43.139.69.198:3000/630291707
 
@@ -372,7 +372,7 @@ http://43.139.69.198:3000/630291707
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.63:8416
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.141:5140
+http://gonas.xyz:38128/rtp/239.254.96.41:8220
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.59:5000
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑧
@@ -384,7 +384,7 @@ http://103.236.87.67:3000/738910535
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视_②
 http://117.72.203.216:3000/738910535
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视_③
-http://116.147.106.134:1234/738910535
+http://122.195.111.39:1234/738910535
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视_④
 http://43.139.69.198:3000/738910535
 
@@ -392,7 +392,7 @@ http://43.139.69.198:3000/738910535
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.59:8384
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.133:5140
+http://gonas.xyz:38128/rtp/239.254.96.95:8544
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.150:4130
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_⑧
@@ -404,7 +404,7 @@ http://103.236.87.67:3000/961023778
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道" ,三沙卫视_②
 http://117.72.203.216:3000/961023778
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道" ,三沙卫视_③
-http://116.147.106.134:1234/961023778
+http://122.195.111.39:1234/961023778
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道" ,三沙卫视_④
 http://43.139.69.198:3000/961023778
 
@@ -412,7 +412,7 @@ http://43.139.69.198:3000/961023778
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.51:8320
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.125:5140
+http://gonas.xyz:38128/rtp/239.254.96.21:8100
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.149:4130
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑧
@@ -422,7 +422,7 @@ http://www.pve.onetopcloud.com:16666/udp/239.125.1.149:4130
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.11:8000
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.132:5140
+http://gonas.xyz:38128/rtp/239.254.96.93:8532
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.119:4130
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑧
@@ -434,7 +434,7 @@ http://103.236.87.67:3000/738910838
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道" ,陕西卫视_②
 http://117.72.203.216:3000/738910838
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道" ,陕西卫视_③
-http://116.147.106.134:1234/738910838
+http://122.195.111.39:1234/738910838
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道" ,陕西卫视_④
 http://43.139.69.198:3000/738910838
 
@@ -442,7 +442,7 @@ http://43.139.69.198:3000/738910838
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.47:8288
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.146:5140
+http://gonas.xyz:38128/rtp/239.254.96.34:8178
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.166:4130
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑧
@@ -452,7 +452,7 @@ http://www.pve.onetopcloud.com:16666/udp/239.125.1.166:4130
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.42:8248
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.124:5140
+http://gonas.xyz:38128/rtp/239.254.96.90:8514
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.175:4130
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑧
@@ -462,7 +462,7 @@ http://www.pve.onetopcloud.com:16666/udp/239.125.1.175:4130
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.56:8360
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.129:5140
+http://gonas.xyz:38128/rtp/239.254.96.29:8148
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.153:4130
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑧
@@ -472,7 +472,7 @@ http://www.pve.onetopcloud.com:16666/udp/239.125.1.153:4130
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.66:8440
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.134:5140
+http://gonas.xyz:38128/rtp/239.254.96.35:8184
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.117:4130
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑧
@@ -482,7 +482,7 @@ http://www.pve.onetopcloud.com:16666/udp/239.125.1.117:4130
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.67:8448
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑥
-http://124.67.68.139:4022/udp/239.125.1.123:4130
+http://gonas.xyz:38128/rtp/239.254.96.47:8256
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.123:4130
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑧
@@ -492,7 +492,7 @@ http://www.pve.onetopcloud.com:16666/udp/239.125.1.123:4130
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.60:8392
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.136:5140
+http://gonas.xyz:38128/rtp/239.254.96.30:8154
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑦
 http://kent.dzzkent.top:4022/udp/239.125.1.160:4130
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑧
@@ -502,7 +502,7 @@ http://www.pve.onetopcloud.com:16666/udp/239.125.1.160:4130
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑤
 http://171.117.255.204:8082/rtp/226.0.2.36:8200
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑥
-http://223.167.230.46:4022/rtp/233.18.204.121:5140
+http://gonas.xyz:38128/rtp/239.254.96.18:8082
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑦
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑧
@@ -608,7 +608,7 @@ http://103.236.87.67:3000/962045223
 #EXTINF:-1 ,辽宁广播电视台公共频道_②
 http://117.72.203.216:3000/962045223
 #EXTINF:-1 ,辽宁广播电视台公共频道_③
-http://116.147.106.134:1234/962045223
+http://122.195.111.39:1234/962045223
 #EXTINF:-1 ,辽宁广播电视台公共频道_④
 http://43.139.69.198:3000/962045223
 
@@ -618,7 +618,7 @@ http://103.236.87.67:3000/962045226
 #EXTINF:-1 ,辽宁广播电视台生活频道_②
 http://117.72.203.216:3000/962045226
 #EXTINF:-1 ,辽宁广播电视台生活频道_③
-http://116.147.106.134:1234/962045226
+http://122.195.111.39:1234/962045226
 #EXTINF:-1 ,辽宁广播电视台生活频道_④
 http://43.139.69.198:3000/962045226
 
@@ -628,7 +628,7 @@ http://103.236.87.67:3000/962067517
 #EXTINF:-1 ,辽宁广播电视台影视剧频道_②
 http://117.72.203.216:3000/962067517
 #EXTINF:-1 ,辽宁广播电视台影视剧频道_③
-http://116.147.106.134:1234/962067517
+http://122.195.111.39:1234/962067517
 #EXTINF:-1 ,辽宁广播电视台影视剧频道_④
 http://43.139.69.198:3000/962067517
 
@@ -638,7 +638,7 @@ http://103.236.87.67:3000/962067526
 #EXTINF:-1 ,辽宁广播电视台体育休闲频道_②
 http://117.72.203.216:3000/962067526
 #EXTINF:-1 ,辽宁广播电视台体育休闲频道_③
-http://116.147.106.134:1234/962067526
+http://122.195.111.39:1234/962067526
 #EXTINF:-1 ,辽宁广播电视台体育休闲频道_④
 http://43.139.69.198:3000/962067526
 
@@ -648,7 +648,7 @@ http://103.236.87.67:3000/962067523
 #EXTINF:-1 ,宁夏广播电视台文旅频道_②
 http://117.72.203.216:3000/962067523
 #EXTINF:-1 ,宁夏广播电视台文旅频道_③
-http://116.147.106.134:1234/962067523
+http://122.195.111.39:1234/962067523
 #EXTINF:-1 ,宁夏广播电视台文旅频道_④
 http://43.139.69.198:3000/962067523
 
@@ -658,6 +658,6 @@ http://103.236.87.67:3000/962067520
 #EXTINF:-1 ,宁夏广播电视台经济频道_②
 http://117.72.203.216:3000/962067520
 #EXTINF:-1 ,宁夏广播电视台经济频道_③
-http://116.147.106.134:1234/962067520
+http://122.195.111.39:1234/962067520
 #EXTINF:-1 ,宁夏广播电视台经济频道_④
 http://43.139.69.198:3000/962067520

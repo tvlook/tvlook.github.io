@@ -97,6 +97,8 @@ http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P
 http://223.110.254.195:6610/cntv/live1/sichuanstv/sichuanstv
 #EXTINF:-1 ,天津卫视
 http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
+#EXTINF:-1 ,厦门卫视
+http://223.110.254.195:6610/gitv/live1/G_XIAMEN/G_XIAMEN
 #EXTINF:-1 ,西藏卫视
 http://223.110.254.195:6610/gitv/live1/G_XIZANG/G_XIZANG
 #EXTINF:-1 ,新疆卫视

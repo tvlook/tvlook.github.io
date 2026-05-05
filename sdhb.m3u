@@ -9,7 +9,7 @@ http://120.253.150.222:60000/tsfile/live/0003_1.m3u8?key=txiptv
 http://120.253.150.222:60000/tsfile/live/0004_1.m3u8?key=txiptv
 #EXTINF:-1 ,CCTV5
 http://120.253.150.222:60000/tsfile/live/0005_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV5+
+#EXTINF:-1 ,CCTV5HD
 http://120.253.150.222:60000/tsfile/live/0016_1.m3u8?key=txiptv
 #EXTINF:-1 ,CCTV6
 http://120.253.150.222:60000/tsfile/live/0006_1.m3u8?key=txiptv
@@ -31,7 +31,7 @@ http://120.253.150.222:60000/tsfile/live/0013_1.m3u8?key=txiptv
 http://120.253.150.222:60000/tsfile/live/0014_1.m3u8?key=txiptv
 #EXTINF:-1 ,CCTV15
 http://120.253.150.222:60000/tsfile/live/0015_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV16
+#EXTINF:-1 ,CCTV15HD
 http://120.253.150.222:60000/tsfile/live/1038_1.m3u8?key=txiptv
 #EXTINF:-1 ,CCTV17
 http://120.253.150.222:60000/tsfile/live/1039_1.m3u8?key=txiptv
@@ -75,7 +75,7 @@ http://120.253.150.222:60000/tsfile/live/1049_1.m3u8?key=txiptv
 http://120.253.150.222:60000/tsfile/live/0127_1.m3u8?key=txiptv
 #EXTINF:-1 ,辽宁卫视
 http://120.253.150.222:60000/tsfile/live/0124_1.m3u8?key=txiptv
-#EXTINF:-1 ,内蒙古卫视
+#EXTINF:-1 ,河北卫视SD
 http://120.253.150.222:60000/tsfile/live/0126_1.m3u8?key=txiptv
 #EXTINF:-1 ,宁夏卫视
 http://120.253.150.222:60000/tsfile/live/0139_1.m3u8?key=txiptv

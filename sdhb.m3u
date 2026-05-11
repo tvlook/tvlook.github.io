@@ -30,7 +30,7 @@ http://admin:admin@clnas0001.top:9981/stream/channelid/2090632621?profile=pass
 #EXTINF:-1 ,CCTV14
 http://admin:admin@clnas0001.top:9981/stream/channelid/1439446400?profile=pass
 #EXTINF:-1 ,CCTV15
-http://fuxin.yunjifei.top:999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+http://admin:admin@clnas0001.top:9981/stream/channelid/226737819?profile=pass
 #EXTINF:-1 ,CCTV16
 
 #EXTINF:-1 ,CCTV17

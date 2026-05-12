@@ -158,7 +158,7 @@ http://dl.it-web.cn:8188/rtp/232.0.0.55:8542
 #EXTINF:-1 ,辽宁北方_⑦
 http://op.ayemovie.top:5555/rtp/232.0.0.55:8542
 #EXTINF:-1 ,辽宁北方_⑧
-http://yeeaa.myds.me:4000/rtp/232.0.0.55:8542
+http://lihetl.com:9527/rtp/232.0.0.55:8542
 #EXTINF:-1 ,辽宁北方_⑨
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.55:8542
 #EXTINF:-1 ,辽宁北方_⑩
@@ -188,7 +188,7 @@ http://dl.it-web.cn:8188/rtp/232.0.0.88:8890
 #EXTINF:-1 ,辽宁都市_⑦
 http://op.ayemovie.top:5555/rtp/232.0.0.88:8890
 #EXTINF:-1 ,辽宁都市_⑧
-http://yeeaa.myds.me:4000/rtp/232.0.0.88:8890
+http://lihetl.com:9527/rtp/232.0.0.88:8890
 #EXTINF:-1 ,辽宁都市_⑨
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.88:8890
 #EXTINF:-1 ,辽宁都市_⑩
@@ -218,7 +218,7 @@ http://dl.it-web.cn:8188/rtp/232.0.0.156:9322
 #EXTINF:-1 ,辽宁公共_⑦
 http://op.ayemovie.top:5555/rtp/232.0.0.156:9322
 #EXTINF:-1 ,辽宁公共_⑧
-http://yeeaa.myds.me:4000/rtp/232.0.0.156:9322
+http://lihetl.com:9527/rtp/232.0.0.156:9322
 #EXTINF:-1 ,辽宁公共_⑨
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.156:9322
 #EXTINF:-1 ,辽宁公共_⑩
@@ -248,7 +248,7 @@ http://dl.it-web.cn:8188/rtp/232.0.0.99:8536
 #EXTINF:-1 ,辽宁教育_⑦
 http://op.ayemovie.top:5555/rtp/232.0.0.99:8536
 #EXTINF:-1 ,辽宁教育_⑧
-http://yeeaa.myds.me:4000/rtp/232.0.0.99:8536
+http://lihetl.com:9527/rtp/232.0.0.99:8536
 #EXTINF:-1 ,辽宁教育_⑨
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.99:8536
 #EXTINF:-1 ,辽宁教育_⑩
@@ -278,7 +278,7 @@ http://dl.it-web.cn:8188/rtp/232.0.0.155:9320
 #EXTINF:-1 ,辽宁经济_⑦
 http://op.ayemovie.top:5555/rtp/232.0.0.155:9320
 #EXTINF:-1 ,辽宁经济_⑧
-http://yeeaa.myds.me:4000/rtp/232.0.0.155:9320
+http://lihetl.com:9527/rtp/232.0.0.155:9320
 #EXTINF:-1 ,辽宁经济_⑨
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.155:9320
 #EXTINF:-1 ,辽宁经济_⑩
@@ -308,7 +308,7 @@ http://dl.it-web.cn:8188/rtp/232.0.0.96:8538
 #EXTINF:-1 ,辽宁生活_⑦
 http://op.ayemovie.top:5555/rtp/232.0.0.96:8538
 #EXTINF:-1 ,辽宁生活_⑧
-http://yeeaa.myds.me:4000/rtp/232.0.0.96:8538
+http://lihetl.com:9527/rtp/232.0.0.96:8538
 #EXTINF:-1 ,辽宁生活_⑨
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.96:8538
 #EXTINF:-1 ,辽宁生活_⑩
@@ -338,7 +338,7 @@ http://dl.it-web.cn:8188/rtp/232.0.0.3:8540
 #EXTINF:-1 ,辽宁体育_⑦
 http://op.ayemovie.top:5555/rtp/232.0.0.3:8540
 #EXTINF:-1 ,辽宁体育_⑧
-http://yeeaa.myds.me:4000/rtp/232.0.0.3:8540
+http://lihetl.com:9527/rtp/232.0.0.3:8540
 #EXTINF:-1 ,辽宁体育_⑨
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.3:8540
 #EXTINF:-1 ,辽宁体育_⑩
@@ -368,7 +368,7 @@ http://dl.it-web.cn:8188/rtp/232.0.0.97:8534
 #EXTINF:-1 ,辽宁影视_⑦
 http://op.ayemovie.top:5555/rtp/232.0.0.97:8534
 #EXTINF:-1 ,辽宁影视_⑧
-http://yeeaa.myds.me:4000/rtp/232.0.0.97:8534
+http://lihetl.com:9527/rtp/232.0.0.97:8534
 #EXTINF:-1 ,辽宁影视_⑨
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.97:8534
 #EXTINF:-1 ,辽宁影视_⑩

@@ -1,138 +1,138 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1
-http://223.110.254.195:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ
 #EXTINF:-1 ,CCTV2
-http://223.110.254.195:6610/gitv/live1/G_CCTV-2-HQ/G_CCTV-2-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-2-HQ/G_CCTV-2-HQ
 #EXTINF:-1 ,CCTV3
-http://223.110.254.195:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ
 #EXTINF:-1 ,CCTV4
-http://223.110.254.195:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ
 #EXTINF:-1 ,CCTV5
-http://223.110.254.195:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ
 #EXTINF:-1 ,CCTV5+
-http://223.110.254.195:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ
 #EXTINF:-1 ,CCTV6
-http://223.110.254.195:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ
 #EXTINF:-1 ,CCTV7
-http://223.110.254.195:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ
 #EXTINF:-1 ,CCTV8
-http://223.110.254.195:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ
 #EXTINF:-1 ,CCTV9
-http://223.110.254.195:6610/gitv/live1/G_CCTV-9-HQ/G_CCTV-9-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-9-HQ/G_CCTV-9-HQ
 #EXTINF:-1 ,CCTV10
-http://223.110.254.195:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ
 #EXTINF:-1 ,CCTV11
-http://223.110.254.195:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ
 #EXTINF:-1 ,CCTV12
-http://223.110.254.195:6610/gitv/live1/G_CCTV-12-HQ/G_CCTV-12-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-12-HQ/G_CCTV-12-HQ
 #EXTINF:-1 ,CCTV13
-http://223.110.254.195:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ
 #EXTINF:-1 ,CCTV14
-http://223.110.254.195:6610/gitv/live1/G_CCTV-14-HQ/G_CCTV-14-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-14-HQ/G_CCTV-14-HQ
 #EXTINF:-1 ,CCTV15
-http://223.110.254.195:6610/gitv/live1/G_CCTV-15-HQ/G_CCTV-15-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-15-HQ/G_CCTV-15-HQ
 #EXTINF:-1 ,CCTV16
-http://223.110.254.195:6610/gitv/live1/G_CCTV-16-HQ/G_CCTV-16-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-16-HQ/G_CCTV-16-HQ
 #EXTINF:-1 ,CCTV17
-http://223.110.254.195:6610/gitv/live1/G_CCTV-17-HQ/G_CCTV-17-HQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-17-HQ/G_CCTV-17-HQ
 
 
 #EXTINF:-1 ,安徽卫视
-http://223.110.254.195:6610/cntv/live1/anhuistv/anhuistv
+http://223.110.254.199:6610/cntv/live1/anhuistv/anhuistv
 #EXTINF:-1 ,北京卫视
-http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
+http://223.110.254.199:6610/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
 #EXTINF:-1 ,兵团卫视
-http://223.110.254.195:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN
+http://223.110.254.199:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN
 #EXTINF:-1 ,重庆卫视
-http://223.110.254.195:6610/cntv/live1/chongqingstv/chongqingstv
+http://223.110.254.199:6610/cntv/live1/chongqingstv/chongqingstv
 #EXTINF:-1 ,东方卫视
-http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
+http://223.110.254.199:6610/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
 #EXTINF:-1 ,东南卫视
-http://223.110.254.195:6610/gitv/live1/G_DONGNAN-HQ/G_DONGNAN-HQ
+http://223.110.254.199:6610/gitv/live1/G_DONGNAN-HQ/G_DONGNAN-HQ
 #EXTINF:-1 ,甘肃卫视
-http://223.110.254.195:6610/cntv/live1/gansustv/gansustv
+http://223.110.254.199:6610/cntv/live1/gansustv/gansustv
 #EXTINF:-1 ,广东卫视
-http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv
+http://223.110.254.199:6610/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv
 #EXTINF:-1 ,广西卫视
-http://223.110.254.195:6610/gitv/live1/GXWS/GXWS
+http://223.110.254.199:6610/gitv/live1/GXWS/GXWS
 #EXTINF:-1 ,贵州卫视
-http://223.110.254.195:6610/cntv/live1/guizhoustv/guizhoustv
+http://223.110.254.199:6610/cntv/live1/guizhoustv/guizhoustv
 #EXTINF:-1 ,海南卫视
 
 #EXTINF:-1 ,河北卫视
-http://223.110.254.195:6610/cntv/live1/hebeistv/hebeistv
+http://223.110.254.199:6610/cntv/live1/hebeistv/hebeistv
 #EXTINF:-1 ,河南卫视
-http://223.110.254.195:6610/gitv/live1/G_HENAN-HQ/G_HENAN-HQ
+http://223.110.254.199:6610/gitv/live1/G_HENAN-HQ/G_HENAN-HQ
 #EXTINF:-1 ,黑龙江卫视 
-http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
+http://223.110.254.199:6610/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
 #EXTINF:-1 ,湖北卫视 
-http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
+http://223.110.254.199:6610/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
 #EXTINF:-1 ,湖南卫视
-http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hunanstv
+http://223.110.254.199:6610/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hunanstv
 #EXTINF:-1 ,吉林卫视
-http://223.110.254.195:6610/gitv/live1/G_JILIN-HQ/G_JILIN-HQ
+http://223.110.254.199:6610/gitv/live1/G_JILIN-HQ/G_JILIN-HQ
 #EXTINF:-1 ,江苏卫视 
-http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
+http://223.110.254.199:6610/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
 #EXTINF:-1 ,江西卫视
-http://223.110.254.195:6610/cntv/live1/jiangxistv/jiangxistv
+http://223.110.254.199:6610/cntv/live1/jiangxistv/jiangxistv
 #EXTINF:-1 ,辽宁卫视
-http://223.110.254.195:6610/gitv/live1/G_LIAONING-HQ/G_LIAONING-HQ
+http://223.110.254.199:6610/gitv/live1/G_LIAONING-HQ/G_LIAONING-HQ
 #EXTINF:-1 ,内蒙古卫视
-http://223.110.254.195:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU
+http://223.110.254.199:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU
 #EXTINF:-1 ,宁夏卫视
-http://223.110.254.195:6610/gitv/live1/G_NINGXIA/G_NINGXIA
+http://223.110.254.199:6610/gitv/live1/G_NINGXIA/G_NINGXIA
 #EXTINF:-1 ,青海卫视
-http://223.110.254.195:6610/gitv/live1/G_QINGHAI/G_QINGHAI
+http://223.110.254.199:6610/gitv/live1/G_QINGHAI/G_QINGHAI
 #EXTINF:-1 ,三沙卫视
-http://223.110.254.195:6610/gitv/live1/G_SANSHA-HQ/G_SANSHA-HQ
+http://223.110.254.199:6610/gitv/live1/G_SANSHA-HQ/G_SANSHA-HQ
 #EXTINF:-1 ,山东卫视
-http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
+http://223.110.254.199:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
 #EXTINF:-1 ,山西卫视
-http://223.110.254.195:6610/gitv/live1/SXWS/SXWS
+http://223.110.254.199:6610/gitv/live1/SXWS/SXWS
 #EXTINF:-1 ,陕西卫视
-http://223.110.254.195:6610/gitv/live1/G_SHANXI/G_SHANXI
+http://223.110.254.199:6610/gitv/live1/G_SHANXI/G_SHANXI
 #EXTINF:-1 ,深圳卫视
-http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
+http://223.110.254.199:6610/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
 #EXTINF:-1 ,四川卫视
-http://223.110.254.195:6610/cntv/live1/sichuanstv/sichuanstv
+http://223.110.254.199:6610/cntv/live1/sichuanstv/sichuanstv
 #EXTINF:-1 ,天津卫视
-http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
+http://223.110.254.199:6610/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
 #EXTINF:-1 ,厦门卫视
-http://223.110.254.195:6610/gitv/live1/G_XIAMEN/G_XIAMEN
+http://223.110.254.199:6610/gitv/live1/G_XIAMEN/G_XIAMEN
 #EXTINF:-1 ,西藏卫视
-http://223.110.254.195:6610/gitv/live1/G_XIZANG/G_XIZANG
+http://223.110.254.199:6610/gitv/live1/G_XIZANG/G_XIZANG
 #EXTINF:-1 ,新疆卫视
-http://223.110.254.195:6610/gitv/live1/G_XINJIANG/G_XINJIANG
+http://223.110.254.199:6610/gitv/live1/G_XINJIANG/G_XINJIANG
 #EXTINF:-1 ,云南卫视
-http://223.110.254.195:6610/cntv/live1/yunnanstv/yunnanstv
+http://223.110.254.199:6610/cntv/live1/yunnanstv/yunnanstv
 #EXTINF:-1 ,浙江卫视
-http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-zhejiangstv/HD-2500k-1080P-zhejiangstv
+http://223.110.254.199:6610/cntv/live1/HD-2500k-1080P-zhejiangstv/HD-2500k-1080P-zhejiangstv
 
 
 #EXTINF:-1 ,CCTV兵器科技
-http://223.110.254.195:6610/gitv/live1/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ
+http://223.110.254.199:6610/gitv/live1/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ
 #EXTINF:-1 ,CCTV怀旧剧场
-http://223.110.254.195:6610/gitv/live1/G_HUAIJIUJC-CQ/G_HUAIJIUNJC-CQ
+http://223.110.254.199:6610/gitv/live1/G_HUAIJIUJC-CQ/G_HUAIJIUNJC-CQ
 #EXTINF:-1 ,CCTV第一剧场
-http://223.110.254.195:6610/gitv/live1/G_DIYIJC-CQ/G_DIYIJC-CQ
+http://223.110.254.199:6610/gitv/live1/G_DIYIJC-CQ/G_DIYIJC-CQ
 #EXTINF:-1 ,CCTV风云剧场
-http://223.110.254.195:6610/gitv/live1/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ
+http://223.110.254.199:6610/gitv/live1/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ
 #EXTINF:-1 ,CCTV风云音乐
-http://223.110.254.195:6610/gitv/live1/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ
+http://223.110.254.199:6610/gitv/live1/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ
 #EXTINF:-1 ,CCTV风云足球
-http://223.110.254.195:6610/gitv/live1/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ
+http://223.110.254.199:6610/gitv/live1/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ
 #EXTINF:-1 ,CCTV女性时尚
-http://223.110.254.195:6610/gitv/live1/G_NVXINGSS-CQ/G_NVXINGSS-CQ
+http://223.110.254.199:6610/gitv/live1/G_NVXINGSS-CQ/G_NVXINGSS-CQ
 #EXTINF:-1 ,CCTV世界地理
-http://223.110.254.195:6610/gitv/live1/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ
+http://223.110.254.199:6610/gitv/live1/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ
 #EXTINF:-1 ,CCTV电视指南
-http://223.110.254.195:6610/gitv/live1/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ
+http://223.110.254.199:6610/gitv/live1/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ
 #EXTINF:-1 ,CCTV央视台球
-http://223.110.254.195:6610/gitv/live1/G_TAIQIU-CQ/G_TAIQIU-CQ
+http://223.110.254.199:6610/gitv/live1/G_TAIQIU-CQ/G_TAIQIU-CQ
 #EXTINF:-1 ,CCTV高尔夫球网球
-http://223.110.254.195:6610/gitv/live1/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ
 #EXTINF:-1 ,CCTV央视文化精品
-http://223.110.254.195:6610/gitv/live1/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ
+http://223.110.254.199:6610/gitv/live1/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ
 
 
 #EXTINF:-1 ,辽宁北方_①
@@ -163,6 +163,8 @@ http://lihetl.com:9527/rtp/232.0.0.55:8542
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.55:8542
 #EXTINF:-1 ,辽宁北方_⑩
 http://175.162.222.177:8099/rtp/232.0.0.55:8542
+#EXTINF:-1 ,辽宁北方
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.55:8542
 
 
 #EXTINF:-1 ,辽宁都市_①
@@ -193,6 +195,8 @@ http://lihetl.com:9527/rtp/232.0.0.88:8890
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.88:8890
 #EXTINF:-1 ,辽宁都市_⑩
 http://175.162.222.177:8099/rtp/232.0.0.88:8890
+#EXTINF:-1 ,辽宁都市
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.88:8890
 
 
 #EXTINF:-1 ,辽宁公共_①
@@ -223,6 +227,8 @@ http://lihetl.com:9527/rtp/232.0.0.156:9322
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.156:9322
 #EXTINF:-1 ,辽宁公共_⑩
 http://175.162.222.177:8099/rtp/232.0.0.156:9322
+#EXTINF:-1 ,辽宁公共
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.156:9322
 
 
 #EXTINF:-1 ,辽宁教育_①
@@ -253,6 +259,8 @@ http://lihetl.com:9527/rtp/232.0.0.99:8536
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.99:8536
 #EXTINF:-1 ,辽宁教育_⑩
 http://175.162.222.177:8099/rtp/232.0.0.99:8536
+#EXTINF:-1 ,辽宁教育
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.99:8536
 
 
 #EXTINF:-1 ,辽宁经济_①
@@ -283,6 +291,8 @@ http://lihetl.com:9527/rtp/232.0.0.155:9320
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.155:9320
 #EXTINF:-1 ,辽宁经济_⑩
 http://175.162.222.177:8099/rtp/232.0.0.155:9320
+#EXTINF:-1 ,辽宁经济
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.155:9320
 
 
 #EXTINF:-1 ,辽宁生活_①
@@ -313,6 +323,8 @@ http://lihetl.com:9527/rtp/232.0.0.96:8538
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.96:8538
 #EXTINF:-1 ,辽宁生活_⑩
 http://175.162.222.177:8099/rtp/232.0.0.96:8538
+#EXTINF:-1 ,辽宁生活
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.96:8538
 
 
 #EXTINF:-1 ,辽宁体育_①
@@ -343,6 +355,8 @@ http://lihetl.com:9527/rtp/232.0.0.3:8540
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.3:8540
 #EXTINF:-1 ,辽宁体育_⑩
 http://175.162.222.177:8099/rtp/232.0.0.3:8540
+#EXTINF:-1 ,辽宁体育
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.3:8540
 
 
 #EXTINF:-1 ,辽宁影视_①
@@ -373,3 +387,5 @@ http://lihetl.com:9527/rtp/232.0.0.97:8534
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.97:8534
 #EXTINF:-1 ,辽宁影视_⑩
 http://175.162.222.177:8099/rtp/232.0.0.97:8534
+#EXTINF:-1 ,辽宁影视
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.97:8534

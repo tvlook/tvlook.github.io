@@ -165,6 +165,8 @@ http://xiaoya.ayemovie.top:5555/rtp/232.0.0.55:8542
 http://175.162.222.177:8099/rtp/232.0.0.55:8542
 #EXTINF:-1 ,辽宁北方
 http://c.qrjcwy.eu.org:8099/rtp/232.0.0.55:8542
+#EXTINF:-1 ,辽宁北方
+http://emby.ayemovie.top:5555/rtp/232.0.0.55:8542
 
 
 #EXTINF:-1 ,辽宁都市_①
@@ -197,6 +199,8 @@ http://xiaoya.ayemovie.top:5555/rtp/232.0.0.88:8890
 http://175.162.222.177:8099/rtp/232.0.0.88:8890
 #EXTINF:-1 ,辽宁都市
 http://c.qrjcwy.eu.org:8099/rtp/232.0.0.88:8890
+#EXTINF:-1 ,辽宁都市
+http://emby.ayemovie.top:5555/rtp/232.0.0.88:8890
 
 
 #EXTINF:-1 ,辽宁公共_①
@@ -229,6 +233,8 @@ http://xiaoya.ayemovie.top:5555/rtp/232.0.0.156:9322
 http://175.162.222.177:8099/rtp/232.0.0.156:9322
 #EXTINF:-1 ,辽宁公共
 http://c.qrjcwy.eu.org:8099/rtp/232.0.0.156:9322
+#EXTINF:-1 ,辽宁公共
+http://emby.ayemovie.top:5555/rtp/232.0.0.156:9322
 
 
 #EXTINF:-1 ,辽宁教育_①
@@ -261,6 +267,8 @@ http://xiaoya.ayemovie.top:5555/rtp/232.0.0.99:8536
 http://175.162.222.177:8099/rtp/232.0.0.99:8536
 #EXTINF:-1 ,辽宁教育
 http://c.qrjcwy.eu.org:8099/rtp/232.0.0.99:8536
+#EXTINF:-1 ,辽宁教育
+http://emby.ayemovie.top:5555/rtp/232.0.0.99:8536
 
 
 #EXTINF:-1 ,辽宁经济_①
@@ -293,6 +301,8 @@ http://xiaoya.ayemovie.top:5555/rtp/232.0.0.155:9320
 http://175.162.222.177:8099/rtp/232.0.0.155:9320
 #EXTINF:-1 ,辽宁经济
 http://c.qrjcwy.eu.org:8099/rtp/232.0.0.155:9320
+#EXTINF:-1 ,辽宁经济
+http://emby.ayemovie.top:5555/rtp/232.0.0.155:9320
 
 
 #EXTINF:-1 ,辽宁生活_①
@@ -325,6 +335,8 @@ http://xiaoya.ayemovie.top:5555/rtp/232.0.0.96:8538
 http://175.162.222.177:8099/rtp/232.0.0.96:8538
 #EXTINF:-1 ,辽宁生活
 http://c.qrjcwy.eu.org:8099/rtp/232.0.0.96:8538
+#EXTINF:-1 ,辽宁生活
+http://emby.ayemovie.top:5555/rtp/232.0.0.96:8538
 
 
 #EXTINF:-1 ,辽宁体育_①
@@ -357,6 +369,8 @@ http://xiaoya.ayemovie.top:5555/rtp/232.0.0.3:8540
 http://175.162.222.177:8099/rtp/232.0.0.3:8540
 #EXTINF:-1 ,辽宁体育
 http://c.qrjcwy.eu.org:8099/rtp/232.0.0.3:8540
+#EXTINF:-1 ,辽宁体育
+http://emby.ayemovie.top:5555/rtp/232.0.0.3:8540
 
 
 #EXTINF:-1 ,辽宁影视_①
@@ -389,3 +403,5 @@ http://xiaoya.ayemovie.top:5555/rtp/232.0.0.97:8534
 http://175.162.222.177:8099/rtp/232.0.0.97:8534
 #EXTINF:-1 ,辽宁影视
 http://c.qrjcwy.eu.org:8099/rtp/232.0.0.97:8534
+#EXTINF:-1 ,辽宁影视
+http://emby.ayemovie.top:5555/rtp/232.0.0.97:8534

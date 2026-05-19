@@ -174,7 +174,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.37:8208
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.16:7980
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.71:5000
+http://58.245.9.170:18090/rtp/239.253.142.131:3000
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.173:4130
 
@@ -204,7 +204,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.50:8312
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.187:7980
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.27:5000
+http://58.245.9.170:18090/rtp/239.253.142.130:3000
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.168:4130
 
@@ -224,7 +224,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.40:8232
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.31:7980
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.180:5000
+http://58.245.9.170:18090/rtp/239.253.142.121:3000
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.164:4130
 
@@ -234,7 +234,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.55:8352
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.44:7980
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.185:5000
+http://58.245.9.170:18090/rtp/239.253.142.179:3000
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.151:4130
 
@@ -244,7 +244,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.45:8272
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.33:7980
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.139:5000
+http://58.245.9.170:18090/rtp/239.253.142.164:3000
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.154:4130
 
@@ -254,7 +254,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.46:8280
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.34:7980
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.145:5000
+http://58.245.9.170:18090/rtp/239.253.142.106:3000
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.167:4130
 
@@ -264,7 +264,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.43:8256
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.26:7980
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.143:5000
+http://58.245.9.170:18090/rtp/239.253.142.129:3000
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.158:4130
 
@@ -304,7 +304,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.48:8296
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑥ 
 http://nas.iszbd.com:4022/udp/225.0.4.23:7980
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.125:5000
+http://58.245.9.170:18090/rtp/239.253.142.165:3000
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.171:4130
 
@@ -324,7 +324,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.33:8176
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.13:7980
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.142:5000
+http://58.245.9.170:18090/rtp/239.253.142.162:3000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.170:4130
 
@@ -354,7 +354,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.198:9496
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.25:7980
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.74:5000
+http://58.245.9.170:18090/rtp/239.253.142.128:3000
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.174:4130
 
@@ -374,7 +374,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.63:8416
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.38:7980
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.183:5000
+http://58.245.9.170:18090/rtp/239.253.142.32:3000
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.59:5000
 
@@ -394,7 +394,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.59:8384
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.39:7980
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.149:5000
+http://58.245.9.170:18090/rtp/239.253.142.29:3000
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.150:4130
 
@@ -414,7 +414,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.51:8320
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.20:7980
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.33:5000
+http://58.245.9.170:18090/rtp/239.253.142.167:3000
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.149:4130
 
@@ -424,7 +424,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.11:8000
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.37:7980
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.84:5000
+http://58.245.9.170:18090/rtp/239.253.142.50:3000
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.119:4130
 
@@ -444,7 +444,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.47:8288
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.27:7980
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.104:5000
+http://58.245.9.170:18090/rtp/239.253.142.166:3000
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.166:4130
 
@@ -454,7 +454,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.42:8248
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.24:7980
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.73:5000
+http://58.245.9.170:18090/rtp/239.253.142.123:3000
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.175:4130
 
@@ -464,7 +464,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.56:8360
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.18:7980
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.68:5000
+http://58.245.9.170:18090/rtp/239.253.142.169:3000
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.153:4130
 
@@ -474,7 +474,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.66:8440
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.42:7980
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.177:5000
+http://58.245.9.170:18090/rtp/239.253.142.51:3000
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.117:4130
 
@@ -484,7 +484,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.67:8448
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.43:7980
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.179:5000
+http://58.245.9.170:18090/rtp/239.253.142.35:3000
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.123:4130
 
@@ -494,7 +494,7 @@ http://nas.linktou.top:6001/rtp/226.0.2.60:8392
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.21:7980
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.176:5000
+http://58.245.9.170:18090/rtp/239.253.142.86:3000
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.160:4130
 
@@ -504,6 +504,6 @@ http://nas.linktou.top:6001/rtp/226.0.2.36:8200
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑥
 http://nas.iszbd.com:4022/udp/225.0.4.14:7980
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑦
-http://1.62.3.248:4000/rtp/229.58.190.28:5000
+http://58.245.9.170:18090/rtp/239.253.142.125:3000
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑧
 http://www.pve.onetopcloud.com:16666/udp/239.125.1.159:4130

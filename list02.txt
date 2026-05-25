@@ -169,8 +169,6 @@ http://c.qrjcwy.eu.org:8099/rtp/232.0.0.55:8542
 http://emby.ayemovie.top:5555/rtp/232.0.0.55:8542
 #EXTINF:-1 ,辽宁北方
 http://iptv.ayemovie.top:5555/rtp/232.0.0.55:8542
-#EXTINF:-1 ,辽宁北方
-http://42.52.149.165:8888/rtp/232.0.0.55:8542
 
 
 #EXTINF:-1 ,辽宁都市_①
@@ -207,8 +205,6 @@ http://c.qrjcwy.eu.org:8099/rtp/232.0.0.88:8890
 http://emby.ayemovie.top:5555/rtp/232.0.0.88:8890
 #EXTINF:-1 ,辽宁都市
 http://iptv.ayemovie.top:5555/rtp/232.0.0.88:8890
-#EXTINF:-1 ,辽宁都市
-http://42.52.149.165:8888/rtp/232.0.0.88:8890
 
 
 #EXTINF:-1 ,辽宁公共_①
@@ -245,8 +241,6 @@ http://c.qrjcwy.eu.org:8099/rtp/232.0.0.156:9322
 http://emby.ayemovie.top:5555/rtp/232.0.0.156:9322
 #EXTINF:-1 ,辽宁公共
 http://iptv.ayemovie.top:5555/rtp/232.0.0.156:9322
-#EXTINF:-1 ,辽宁公共
-http://42.52.149.165:8888/rtp/232.0.0.156:9322
 
 
 #EXTINF:-1 ,辽宁教育_①
@@ -283,8 +277,6 @@ http://c.qrjcwy.eu.org:8099/rtp/232.0.0.99:8536
 http://emby.ayemovie.top:5555/rtp/232.0.0.99:8536
 #EXTINF:-1 ,辽宁教育
 http://iptv.ayemovie.top:5555/rtp/232.0.0.99:8536
-#EXTINF:-1 ,辽宁教育
-http://42.52.149.165:8888/rtp/232.0.0.99:8536
 
 
 #EXTINF:-1 ,辽宁经济_①
@@ -321,8 +313,6 @@ http://c.qrjcwy.eu.org:8099/rtp/232.0.0.155:9320
 http://emby.ayemovie.top:5555/rtp/232.0.0.155:9320
 #EXTINF:-1 ,辽宁经济
 http://iptv.ayemovie.top:5555/rtp/232.0.0.155:9320
-#EXTINF:-1 ,辽宁经济
-http://42.52.149.165:8888/rtp/232.0.0.155:9320
 
 
 #EXTINF:-1 ,辽宁生活_①
@@ -359,8 +349,6 @@ http://c.qrjcwy.eu.org:8099/rtp/232.0.0.96:8538
 http://emby.ayemovie.top:5555/rtp/232.0.0.96:8538
 #EXTINF:-1 ,辽宁生活
 http://iptv.ayemovie.top:5555/rtp/232.0.0.96:8538
-#EXTINF:-1 ,辽宁生活
-http://42.52.149.165:8888/rtp/232.0.0.96:8538
 
 
 #EXTINF:-1 ,辽宁体育_①
@@ -397,8 +385,6 @@ http://c.qrjcwy.eu.org:8099/rtp/232.0.0.3:8540
 http://emby.ayemovie.top:5555/rtp/232.0.0.3:8540
 #EXTINF:-1 ,辽宁体育
 http://iptv.ayemovie.top:5555/rtp/232.0.0.3:8540
-#EXTINF:-1 ,辽宁体育
-http://42.52.149.165:8888/rtp/232.0.0.3:8540
 
 
 #EXTINF:-1 ,辽宁影视_①
@@ -435,5 +421,3 @@ http://c.qrjcwy.eu.org:8099/rtp/232.0.0.97:8534
 http://emby.ayemovie.top:5555/rtp/232.0.0.97:8534
 #EXTINF:-1 ,辽宁影视
 http://iptv.ayemovie.top:5555/rtp/232.0.0.97:8534
-#EXTINF:-1 ,辽宁影视
-http://42.52.149.165:8888/rtp/232.0.0.97:8534

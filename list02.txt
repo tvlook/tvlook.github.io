@@ -136,9 +136,9 @@ http://223.110.254.199:6610/gitv/live1/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ
 
 
 #EXTINF:-1 ,辽宁北方_①
-http://113.225.13.59:8866/rtp/232.0.0.55:1234
+http://175.150.176.129:9003/rtp/232.0.0.55:1234
 #EXTINF:-1 ,辽宁北方_①高清
-http://113.225.13.59:8866/rtp/232.0.0.151:1234
+http://175.150.176.129:9003/rtp/232.0.0.151:1234
 #EXTINF:-1 ,辽宁北方_②
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.55:1234
 #EXTINF:-1 ,辽宁北方_②高清
@@ -167,12 +167,14 @@ http://libretv.ayemovie.top:5555/rtp/232.0.0.55:8542
 http://emby.ayemovie.top:5555/rtp/232.0.0.55:8542
 #EXTINF:-1 ,辽宁北方
 http://iptv.ayemovie.top:5555/rtp/232.0.0.55:8542
+#EXTINF:-1 ,辽宁北方
+http://image.ayemovie.top:5555/rtp/232.0.0.55:8542
 
 
 #EXTINF:-1 ,辽宁都市_①
-http://113.225.13.59:8866/rtp/232.0.0.88:1234
+http://175.150.176.129:9003/rtp/232.0.0.88:1234
 #EXTINF:-1 ,辽宁都市_①高清
-http://113.225.13.59:8866/rtp/232.0.0.154:1234
+http://175.150.176.129:9003/rtp/232.0.0.154:1234
 #EXTINF:-1 ,辽宁都市_②
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.88:1234
 #EXTINF:-1 ,辽宁都市_②高清
@@ -201,12 +203,14 @@ http://libretv.ayemovie.top:5555/rtp/232.0.0.88:8890
 http://emby.ayemovie.top:5555/rtp/232.0.0.88:8890
 #EXTINF:-1 ,辽宁都市
 http://iptv.ayemovie.top:5555/rtp/232.0.0.88:8890
+#EXTINF:-1 ,辽宁都市
+http://image.ayemovie.top:5555/rtp/232.0.0.88:8890
 
 
 #EXTINF:-1 ,辽宁公共_①
-http://113.225.13.59:8866/rtp/232.0.0.205:1234
+http://175.150.176.129:9003/rtp/232.0.0.205:1234
 #EXTINF:-1 ,辽宁公共_①高清
-http://113.225.13.59:8866/rtp/232.0.0.168:1234
+http://175.150.176.129:9003/rtp/232.0.0.168:1234
 #EXTINF:-1 ,辽宁公共_②
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.205:1234
 #EXTINF:-1 ,辽宁公共_②高清
@@ -235,12 +239,14 @@ http://libretv.ayemovie.top:5555/rtp/232.0.0.156:9322
 http://emby.ayemovie.top:5555/rtp/232.0.0.156:9322
 #EXTINF:-1 ,辽宁公共
 http://iptv.ayemovie.top:5555/rtp/232.0.0.156:9322
+#EXTINF:-1 ,辽宁公共
+http://image.ayemovie.top:5555/rtp/232.0.0.156:9322
 
 
 #EXTINF:-1 ,辽宁教育_①
-http://113.225.13.59:8866/rtp/232.0.0.99:1234
+http://175.150.176.129:9003/rtp/232.0.0.99:1234
 #EXTINF:-1 ,辽宁教育_①高清
-http://113.225.13.59:8866/rtp/232.0.0.241:1234
+http://175.150.176.129:9003/rtp/232.0.0.241:1234
 #EXTINF:-1 ,辽宁教育_②
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.99:1234
 #EXTINF:-1 ,辽宁教育_②高清
@@ -269,12 +275,14 @@ http://libretv.ayemovie.top:5555/rtp/232.0.0.99:8536
 http://emby.ayemovie.top:5555/rtp/232.0.0.99:8536
 #EXTINF:-1 ,辽宁教育
 http://iptv.ayemovie.top:5555/rtp/232.0.0.99:8536
+#EXTINF:-1 ,辽宁教育
+http://image.ayemovie.top:5555/rtp/232.0.0.99:8536
 
 
 #EXTINF:-1 ,辽宁经济_①
-http://113.225.13.59:8866/rtp/232.0.0.204:1234
+http://175.150.176.129:9003/rtp/232.0.0.204:1234
 #EXTINF:-1 ,辽宁经济_①高清
-http://113.225.13.59:8866/rtp/232.0.0.156:1234
+http://175.150.176.129:9003/rtp/232.0.0.156:1234
 #EXTINF:-1 ,辽宁经济_②
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.204:1234
 #EXTINF:-1 ,辽宁经济_②高清
@@ -303,12 +311,14 @@ http://libretv.ayemovie.top:5555/rtp/232.0.0.155:9320
 http://emby.ayemovie.top:5555/rtp/232.0.0.155:9320
 #EXTINF:-1 ,辽宁经济
 http://iptv.ayemovie.top:5555/rtp/232.0.0.155:9320
+#EXTINF:-1 ,辽宁经济
+http://image.ayemovie.top:5555/rtp/232.0.0.155:9320
 
 
 #EXTINF:-1 ,辽宁生活_①
-http://113.225.13.59:8866/rtp/232.0.0.96:1234
+http://175.150.176.129:9003/rtp/232.0.0.96:1234
 #EXTINF:-1 ,辽宁生活_①高清
-http://113.225.13.59:8866/rtp/232.0.0.150:1234
+http://175.150.176.129:9003/rtp/232.0.0.150:1234
 #EXTINF:-1 ,辽宁生活_②
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.96:1234
 #EXTINF:-1 ,辽宁生活_②高清
@@ -337,12 +347,14 @@ http://libretv.ayemovie.top:5555/rtp/232.0.0.96:8538
 http://emby.ayemovie.top:5555/rtp/232.0.0.96:8538
 #EXTINF:-1 ,辽宁生活
 http://iptv.ayemovie.top:5555/rtp/232.0.0.96:8538
+#EXTINF:-1 ,辽宁生活
+http://image.ayemovie.top:5555/rtp/232.0.0.96:8538
 
 
 #EXTINF:-1 ,辽宁体育_①
-http://113.225.13.59:8866/rtp/232.0.0.3:1234
+http://175.150.176.129:9003/rtp/232.0.0.3:1234
 #EXTINF:-1 ,辽宁体育_①高清
-http://113.225.13.59:8866/rtp/232.0.0.164:1234
+http://175.150.176.129:9003/rtp/232.0.0.164:1234
 #EXTINF:-1 ,辽宁体育_②
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.3:1234
 #EXTINF:-1 ,辽宁体育_②高清
@@ -371,12 +383,14 @@ http://libretv.ayemovie.top:5555/rtp/232.0.0.3:8540
 http://emby.ayemovie.top:5555/rtp/232.0.0.3:8540
 #EXTINF:-1 ,辽宁体育
 http://iptv.ayemovie.top:5555/rtp/232.0.0.3:8540
+#EXTINF:-1 ,辽宁体育
+http://image.ayemovie.top:5555/rtp/232.0.0.3:8540
 
 
 #EXTINF:-1 ,辽宁影视_①
-http://113.225.13.59:8866/rtp/232.0.0.97:1234
+http://175.150.176.129:9003/rtp/232.0.0.97:1234
 #EXTINF:-1 ,辽宁影视_①高清
-http://113.225.13.59:8866/rtp/232.0.0.25:1234
+http://175.150.176.129:9003/rtp/232.0.0.25:1234
 #EXTINF:-1 ,辽宁影视_②
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.97:1234
 #EXTINF:-1 ,辽宁影视_②高清
@@ -405,3 +419,5 @@ http://libretv.ayemovie.top:5555/rtp/232.0.0.97:8534
 http://emby.ayemovie.top:5555/rtp/232.0.0.97:8534
 #EXTINF:-1 ,辽宁影视
 http://iptv.ayemovie.top:5555/rtp/232.0.0.97:8534
+#EXTINF:-1 ,辽宁影视
+http://image.ayemovie.top:5555/rtp/232.0.0.97:8534

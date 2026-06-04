@@ -1,102 +1,512 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
-http://cc2022.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV2
-http://cc2022.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV3
-http://cc2022.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV4
-http://cc2022.ifengli.com:2000/live/cctv-4sd/1500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV5
-http://cc2022.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV6
-http://cc2022.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV7
-http://cc2022.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV8
-http://cc2022.ifengli.com:2000/live/cctv-8hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV9
-http://cc2022.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV10
-http://cc2022.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV11
-http://cc2022.ifengli.com:2000/live/cctv-11sd/1500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV12
-http://cc2022.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV13
-http://cc2022.ifengli.com:2000/live/cctv-newssd/1500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV14
-http://cc2022.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV15
-http://cc2022.ifengli.com:2000/live/cctv-yysd/1500.m3u8?innersid=007
-#EXTINF:-1 ,CCTV17
-http://cc2022.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,安徽卫视
-http://cc2022.ifengli.com:2000/live/ahws-sd/1500.m3u8?innersid=007
-#EXTINF:-1 ,北京卫视
-http://cc2022.ifengli.com:2000/live/bjws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,兵团卫视
-http://cc2022.ifengli.com:2000/live/btws-sd/2500.m3u8?innersid=007
-#EXTINF:-1 ,重庆卫视
-http://cc2022.ifengli.com:2000/live/cqws-sd/1500.m3u8?innersid=007
-#EXTINF:-1 ,东方卫视
-http://cc2022.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,东南卫视
-http://cc2022.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,甘肃卫视
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道" ,CCTV-1 综合_①_1280*720
+http://43.138.246.39:1234/608807420
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道" ,CCTV-1 综合_②
+http://118.89.70.161:3000/608807420
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道" ,CCTV-1 综合_③
+http://116.147.110.156:7788/608807420
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道" ,CCTV-1 综合_④
+http://bobohome.ignorelist.com:20247/migu?id=608807420
 
-#EXTINF:-1 ,广东卫视
-http://cc2022.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,广西卫视
-http://cc2022.ifengli.com:2000/live/gxws-sd/2500.m3u8?innersid=007
-#EXTINF:-1 ,贵州卫视
-http://cc2022.ifengli.com:2000/live/gzws-sd/1500.m3u8?innersid=007
-#EXTINF:-1 ,海南卫视
 
-#EXTINF:-1 ,河北卫视
-http://cc2022.ifengli.com:2000/live/hebeiws-sd/2500.m3u8?innersid=007
-#EXTINF:-1 ,河南卫视
-http://cc2022.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=007
-#EXTINF:-1 ,黑龙江卫视
-http://cc2022.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,湖北卫视
-http://cc2022.ifengli.com:2000/live/hbws-sd/2500.m3u8?innersid=007
-#EXTINF:-1 ,湖南卫视
-http://cc2022.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,吉林卫视
-http://cc2022.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,江苏卫视
-http://cc2022.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,江西卫视
-http://cc2022.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,辽宁卫视
-http://cc2022.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,内蒙古卫视
-http://cc2022.ifengli.com:2000/live/nmws-sd/2500.m3u8?innersid=007
-#EXTINF:-1 ,宁夏卫视
-http://cc2022.ifengli.com:2000/live/nxws-sd/2500.m3u8?innersid=007
-#EXTINF:-1 ,青海卫视
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" ,CCTV-2 财经_①
+http://43.138.246.39:1234/631780532
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" ,CCTV-2 财经_②
+http://118.89.70.161:3000/631780532
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" ,CCTV-2 财经_③
+http://116.147.110.156:7788/631780532
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" ,CCTV-2 财经_④
+http://bobohome.ignorelist.com:20247/migu?id=631780532
 
-#EXTINF:-1 ,山东卫视
-http://cc2022.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,山西卫视
-http://cc2022.ifengli.com:2000/live/shanxiws-sd/1500.m3u8?innersid=007
-#EXTINF:-1 ,陕西卫视
-http://cc2022.ifengli.com:2000/live/sxws-sd/2500.m3u8?innersid=007
-#EXTINF:-1 ,深圳卫视
-http://cc2022.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,四川卫视
-http://cc2022.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,天津卫视
-http://cc2022.ifengli.com:2000/live/tjws-sd/1500.m3u8?innersid=007
-#EXTINF:-1 ,西藏卫视
-http://cc2022.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=007
-#EXTINF:-1 ,新疆卫视
-http://cc2022.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=007
-#EXTINF:-1 ,云南卫视
-http://cc2022.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=007
-#EXTINF:-1 ,浙江卫视
-http://cc2022.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=007
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道" ,CCTV-3 综艺_①
+http://43.138.246.39:1234/624878271
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道" ,CCTV-3 综艺_②
+http://118.89.70.161:3000/624878271
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道" ,CCTV-3 综艺_③
+http://116.147.110.156:7788/624878271
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道" ,CCTV-3 综艺_④
+http://bobohome.ignorelist.com:20247/migu?id=624878271
+
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道" ,CCTV-4 中文国际_①
+http://43.138.246.39:1234/631780421
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道" ,CCTV-4 中文国际_②
+http://118.89.70.161:3000/631780421
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道" ,CCTV-4 中文国际_③
+http://116.147.110.156:7788/631780421
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道" ,CCTV-4 中文国际_④
+http://bobohome.ignorelist.com:20247/migu?id=631780421
+
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道" ,CCTV-5 体育_①
+http://43.138.246.39:1234/641886683
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道" ,CCTV-5 体育_②
+http://118.89.70.161:3000/641886683
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道" ,CCTV-5 体育_③
+http://116.147.110.156:7788/641886683
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道" ,CCTV-5 体育_④
+http://bobohome.ignorelist.com:20247/migu?id=641886683
+
+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视频道" ,CCTV-5+ 体育赛事_①
+http://43.138.246.39:1234/641886773
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视频道" ,CCTV-5+ 体育赛事_②
+http://118.89.70.161:3000/641886773
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视频道" ,CCTV-5+ 体育赛事_③
+http://116.147.110.156:7788/641886773
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视频道" ,CCTV-5+ 体育赛事_④
+http://bobohome.ignorelist.com:20247/migu?id=641886773
+
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道" ,CCTV-6 电影_①
+http://43.138.246.39:1234/624878396
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道" ,CCTV-6 电影_②
+http://118.89.70.161:3000/624878396
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道" ,CCTV-6 电影_③
+http://116.147.110.156:7788/624878396
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道" ,CCTV-6 电影_④
+http://bobohome.ignorelist.com:20247/migu?id=624878396
+
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道" ,CCTV-7 国防军事_①
+http://43.138.246.39:1234/673168121
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道" ,CCTV-7 国防军事_②
+http://118.89.70.161:3000/673168121
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道" ,CCTV-7 国防军事_③
+http://116.147.110.156:7788/673168121
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道" ,CCTV-7 国防军事_④
+http://bobohome.ignorelist.com:20247/migu?id=673168121
+
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道" ,CCTV-8 电视剧_①
+http://43.138.246.39:1234/624878356
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道" ,CCTV-8 电视剧_②
+http://118.89.70.161:3000/624878356
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道" ,CCTV-8 电视剧_③
+http://116.147.110.156:7788/624878356
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道" ,CCTV-8 电视剧_④
+http://bobohome.ignorelist.com:20247/migu?id=624878356
+
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道" ,CCTV-9 纪录_①
+http://43.138.246.39:1234/673168140
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道" ,CCTV-9 纪录_②
+http://118.89.70.161:3000/673168140
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道" ,CCTV-9 纪录_③
+http://116.147.110.156:7788/673168140
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道" ,CCTV-9 纪录_④
+http://bobohome.ignorelist.com:20247/migu?id=673168140
+
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道" ,CCTV-10 科教_①
+http://43.138.246.39:1234/624878405
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道" ,CCTV-10 科教_②
+http://118.89.70.161:3000/624878405
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道" ,CCTV-10 科教_③
+http://116.147.110.156:7788/624878405
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道" ,CCTV-10 科教_④
+http://bobohome.ignorelist.com:20247/migu?id=624878405
+
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道" ,CCTV-11 戏曲_①
+http://43.138.246.39:1234/667987558
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道" ,CCTV-11 戏曲_②
+http://118.89.70.161:3000/667987558
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道" ,CCTV-11 戏曲_③
+http://116.147.110.156:7788/667987558
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道" ,CCTV-11 戏曲_④
+http://bobohome.ignorelist.com:20247/migu?id=667987558
+
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道" ,CCTV-12 社会与法_①
+http://43.138.246.39:1234/673168185
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道" ,CCTV-12 社会与法_②
+http://118.89.70.161:3000/673168185
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道" ,CCTV-12 社会与法_③
+http://116.147.110.156:7788/673168185
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道" ,CCTV-12 社会与法_④
+http://bobohome.ignorelist.com:20247/migu?id=673168185
+
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道" ,CCTV-13 新闻_①
+http://43.138.246.39:1234/608807423
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道" ,CCTV-13 新闻_②
+http://118.89.70.161:3000/608807423
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道" ,CCTV-13 新闻_③
+http://116.147.110.156:7788/608807423
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道" ,CCTV-13 新闻_④
+http://bobohome.ignorelist.com:20247/migu?id=608807423
+
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道" ,CCTV-14 少儿_①
+http://43.138.246.39:1234/624878440
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道" ,CCTV-14 少儿_②
+http://118.89.70.161:3000/624878440
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道" ,CCTV-14 少儿_③
+http://116.147.110.156:7788/624878440
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道" ,CCTV-14 少儿_④
+http://bobohome.ignorelist.com:20247/migu?id=624878440
+
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道" ,CCTV-15 音乐_①
+http://43.138.246.39:1234/673168223
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道" ,CCTV-15 音乐_②
+http://118.89.70.161:3000/673168223
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道" ,CCTV-15 音乐_③
+http://116.147.110.156:7788/673168223
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道" ,CCTV-15 音乐_④
+http://bobohome.ignorelist.com:20247/migu?id=673168223
+
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道" ,CCTV-17 农业农村_①
+http://43.138.246.39:1234/673168256
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道" ,CCTV-17 农业农村_②
+http://118.89.70.161:3000/673168256
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道" ,CCTV-17 农业农村_③
+http://116.147.110.156:7788/673168256
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道" ,CCTV-17 农业农村_④
+http://bobohome.ignorelist.com:20247/migu?id=673168256
+
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.37:8208
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.16:7980
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.131:3000
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" ,安徽卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.173:4130
+
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道" ,北京卫视_①
+http://43.138.246.39:1234/630287636
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道" ,北京卫视_②
+http://118.89.70.161:3000/630287636
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道" ,北京卫视_③
+http://116.147.110.156:7788/630287636
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道" ,北京卫视_④
+http://bobohome.ignorelist.com:20247/migu?id=630287636
+
+
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视频道" ,兵团卫视_①
+http://43.138.246.39:1234/956923145
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视频道" ,兵团卫视_②
+http://118.89.70.161:3000/956923145
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视频道" ,兵团卫视_③
+http://116.147.110.156:7788/956923145
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视频道" ,兵团卫视_④
+http://bobohome.ignorelist.com:20247/migu?id=956923145
+
+
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.50:8312
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.187:7980
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.130:3000
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道" ,重庆卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.168:4130
+
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道" ,东方卫视_①
+http://43.138.246.39:1234/651632648
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道" ,东方卫视_②
+http://118.89.70.161:3000/651632648
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道" ,东方卫视_③
+http://116.147.110.156:7788/651632648
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道" ,东方卫视_④
+http://bobohome.ignorelist.com:20247/migu?id=651632648
+
+
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.40:8232
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.31:7980
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.121:3000
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" ,东南卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.164:4130
+
+
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.55:8352
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.44:7980
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.179:3000
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" ,甘肃卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.151:4130
+
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.45:8272
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.33:7980
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.164:3000
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道" ,广东卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.154:4130
+
+
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.46:8280
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.34:7980
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.106:3000
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道" ,广西卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.167:4130
+
+
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.43:8256
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.26:7980
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.129:3000
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道" ,贵州卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.158:4130
+
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道" ,海南卫视_①
+http://43.138.246.39:1234/947472502
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道" ,海南卫视_②
+http://118.89.70.161:3000/947472502
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道" ,海南卫视_③
+http://116.147.110.156:7788/947472502
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道" ,海南卫视_④
+http://bobohome.ignorelist.com:20247/migu?id=947472502
+
+
+#EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_①
+http://flyriven.synology.me:8001/rtp/226.0.2.65:8432
+#EXTINF:-1 tvg-id="hebeiTV" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_②
+http://27.8.156.13:6011/udp/225.0.4.32:7980
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_③
+http://wanda01.e7q.com:18090/rtp/239.253.142.126:3000
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道" ,河北卫视_④
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.169:4130
+
+
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视_①
+http://43.138.246.39:1234/790187291
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视_②
+http://118.89.70.161:3000/790187291
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视_③
+http://116.147.110.156:7788/790187291
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道" ,河南卫视_④
+http://bobohome.ignorelist.com:20247/migu?id=790187291
+
+
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.48:8296
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑥ 
+http://27.8.156.13:6011/udp/225.0.4.23:7980
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.165:3000
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" ,黑龙江卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.171:4130
+
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道" ,湖北卫视_①
+http://43.138.246.39:1234/947472496
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道" ,湖北卫视_②
+http://118.89.70.161:3000/947472496
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道" ,湖北卫视_③
+http://116.147.110.156:7788/947472496
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道" ,湖北卫视_④
+http://bobohome.ignorelist.com:20247/migu?id=947472496
+
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.33:8176
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.13:7980
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.162:3000
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" ,湖南卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.170:4130
+
+
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道" ,吉林卫视_①
+http://43.138.246.39:1234/947472500
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道" ,吉林卫视_②
+http://118.89.70.161:3000/947472500
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道" ,吉林卫视_③
+http://116.147.110.156:7788/947472500
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道" ,吉林卫视_④
+http://bobohome.ignorelist.com:20247/migu?id=947472500
+
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道" ,江苏卫视_①
+http://43.138.246.39:1234/623899368
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道" ,江苏卫视_②
+http://118.89.70.161:3000/623899368
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道" ,江苏卫视_③
+http://116.147.110.156:7788/623899368
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道" ,江苏卫视_④
+http://bobohome.ignorelist.com:20247/migu?id=623899368
+
+
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.198:9496
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.25:7980
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.128:3000
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道" ,江西卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.174:4130
+
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道" ,辽宁卫视_①
+http://43.138.246.39:1234/630291707
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道" ,辽宁卫视_②
+http://118.89.70.161:3000/630291707
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道" ,辽宁卫视_③
+http://116.147.110.156:7788/630291707
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道" ,辽宁卫视_④
+http://bobohome.ignorelist.com:20247/migu?id=630291707
+
+
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.63:8416
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.38:7980
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.32:3000
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" ,内蒙古卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.59:5000
+
+
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视_①
+http://43.138.246.39:1234/738910535
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视_②
+http://118.89.70.161:3000/738910535
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视_③
+http://116.147.110.156:7788/738910535
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道" ,宁夏卫视_④
+http://bobohome.ignorelist.com:20247/migu?id=738910535
+
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.59:8384
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.39:7980
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.29:3000
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道" ,青海卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.150:4130
+
+
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道" ,三沙卫视_①
+http://43.138.246.39:1234/961023778
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道" ,三沙卫视_②
+http://118.89.70.161:3000/961023778
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道" ,三沙卫视_③
+http://116.147.110.156:7788/961023778
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道" ,三沙卫视_④
+http://bobohome.ignorelist.com:20247/migu?id=961023778
+
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.51:8320
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.20:7980
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.167:3000
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" ,山东卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.149:4130
+
+
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.11:8000
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.37:7980
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.50:3000
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" ,山西卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.119:4130
+
+
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道" ,陕西卫视_①
+http://43.138.246.39:1234/738910838
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道" ,陕西卫视_②
+http://118.89.70.161:3000/738910838
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道" ,陕西卫视_③
+http://116.147.110.156:7788/738910838
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道" ,陕西卫视_④
+http://bobohome.ignorelist.com:20247/migu?id=738910838
+
+
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.47:8288
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.27:7980
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.166:3000
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" ,深圳卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.166:4130
+
+
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.42:8248
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.24:7980
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.123:3000
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" ,四川卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.175:4130
+
+
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.56:8360
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.18:7980
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.169:3000
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道" ,天津卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.153:4130
+
+
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.66:8440
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.42:7980
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.51:3000
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道" ,西藏卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.117:4130
+
+
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.67:8448
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.43:7980
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.35:3000
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道" ,新疆卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.123:4130
+
+
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.60:8392
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.21:7980
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.86:3000
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道" ,云南卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.160:4130
+
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑤
+http://flyriven.synology.me:8001/rtp/226.0.2.36:8200
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑥
+http://27.8.156.13:6011/udp/225.0.4.14:7980
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑦
+http://wanda01.e7q.com:18090/rtp/239.253.142.125:3000
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道" ,浙江卫视_⑧
+http://www.pve.onetopcloud.com:16666/udp/239.125.1.159:4130
 
 
 #EXTINF:-1 ,辽宁北方_①

@@ -574,6 +574,8 @@ http://iptv.ayemovie.top:5555/rtp/232.0.0.55:8542
 #EXTINF:-1 ,辽宁北方
 http://image.ayemovie.top:5555/rtp/232.0.0.55:8542
 #EXTINF:-1 ,辽宁北方
+http://alist.ayemovie.top:5555/rtp/232.0.0.55:8542
+#EXTINF:-1 ,辽宁北方
 http://www.lihetl.com:9527/rtp/232.0.0.55:8542
 
 
@@ -611,6 +613,8 @@ http://emby.ayemovie.top:5555/rtp/232.0.0.88:8890
 http://iptv.ayemovie.top:5555/rtp/232.0.0.88:8890
 #EXTINF:-1 ,辽宁都市
 http://image.ayemovie.top:5555/rtp/232.0.0.88:8890
+#EXTINF:-1 ,辽宁都市
+http://alist.ayemovie.top:5555/rtp/232.0.0.88:8890
 #EXTINF:-1 ,辽宁都市
 http://www.lihetl.com:9527/rtp/232.0.0.88:8890
 
@@ -650,6 +654,8 @@ http://iptv.ayemovie.top:5555/rtp/232.0.0.156:9322
 #EXTINF:-1 ,辽宁公共
 http://image.ayemovie.top:5555/rtp/232.0.0.156:9322
 #EXTINF:-1 ,辽宁公共
+http://alist.ayemovie.top:5555/rtp/232.0.0.156:9322
+#EXTINF:-1 ,辽宁公共
 http://www.lihetl.com:9527/rtp/232.0.0.156:9322
 
 
@@ -687,6 +693,8 @@ http://emby.ayemovie.top:5555/rtp/232.0.0.99:8536
 http://iptv.ayemovie.top:5555/rtp/232.0.0.99:8536
 #EXTINF:-1 ,辽宁教育
 http://image.ayemovie.top:5555/rtp/232.0.0.99:8536
+#EXTINF:-1 ,辽宁教育
+http://alist.ayemovie.top:5555/rtp/232.0.0.99:8536
 #EXTINF:-1 ,辽宁教育
 http://www.lihetl.com:9527/rtp/232.0.0.99:8536
 
@@ -726,6 +734,8 @@ http://iptv.ayemovie.top:5555/rtp/232.0.0.155:9320
 #EXTINF:-1 ,辽宁经济
 http://image.ayemovie.top:5555/rtp/232.0.0.155:9320
 #EXTINF:-1 ,辽宁经济
+http://alist.ayemovie.top:5555/rtp/232.0.0.155:9320
+#EXTINF:-1 ,辽宁经济
 http://www.lihetl.com:9527/rtp/232.0.0.155:9320
 
 
@@ -763,6 +773,8 @@ http://emby.ayemovie.top:5555/rtp/232.0.0.96:8538
 http://iptv.ayemovie.top:5555/rtp/232.0.0.96:8538
 #EXTINF:-1 ,辽宁生活
 http://image.ayemovie.top:5555/rtp/232.0.0.96:8538
+#EXTINF:-1 ,辽宁生活
+http://alist.ayemovie.top:5555/rtp/232.0.0.96:8538
 #EXTINF:-1 ,辽宁生活
 http://www.lihetl.com:9527/rtp/232.0.0.96:8538
 
@@ -802,6 +814,8 @@ http://iptv.ayemovie.top:5555/rtp/232.0.0.3:8540
 #EXTINF:-1 ,辽宁体育
 http://image.ayemovie.top:5555/rtp/232.0.0.3:8540
 #EXTINF:-1 ,辽宁体育
+http://alist.ayemovie.top:5555/rtp/232.0.0.3:8540
+#EXTINF:-1 ,辽宁体育
 http://www.lihetl.com:9527/rtp/232.0.0.3:8540
 
 
@@ -839,6 +853,8 @@ http://emby.ayemovie.top:5555/rtp/232.0.0.97:8534
 http://iptv.ayemovie.top:5555/rtp/232.0.0.97:8534
 #EXTINF:-1 ,辽宁影视
 http://image.ayemovie.top:5555/rtp/232.0.0.97:8534
+#EXTINF:-1 ,辽宁影视
+http://alist.ayemovie.top:5555/rtp/232.0.0.97:8534
 #EXTINF:-1 ,辽宁影视
 http://www.lihetl.com:9527/rtp/232.0.0.97:8534
 

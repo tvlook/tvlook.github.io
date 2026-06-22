@@ -548,9 +548,9 @@ http://175.148.146.108:9002/rtp/232.0.0.55:1234
 #EXTINF:-1 ,辽宁北方_②高清
 http://175.148.146.108:9002/rtp/232.0.0.151:1234
 #EXTINF:-1 ,辽宁北方_③
-http://175.148.146.108:9003/rtp/232.0.0.55:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.55:1234
 #EXTINF:-1 ,辽宁北方_③高清
-http://175.148.146.108:9003/rtp/232.0.0.151:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.151:1234
 #EXTINF:-1 ,辽宁北方_④
 http://101.wifi98.com:9009/rtp/232.0.0.55:1234
 #EXTINF:-1 ,辽宁北方_④高清
@@ -567,6 +567,8 @@ http://op.ayemovie.top:5555/rtp/232.0.0.55:8542
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.55:8542
 #EXTINF:-1 ,辽宁北方_⑩
 http://image.ayemovie.top:5555/rtp/232.0.0.55:8542
+#EXTINF:-1 ,辽宁北方
+http://libretv.ayemovie.top:5555/rtp/232.0.0.55:8542
 
 
 #EXTINF:-1 ,辽宁都市_①
@@ -578,9 +580,9 @@ http://175.148.146.108:9002/rtp/232.0.0.88:1234
 #EXTINF:-1 ,辽宁都市_②高清
 http://175.148.146.108:9002/rtp/232.0.0.154:1234
 #EXTINF:-1 ,辽宁都市_③
-http://175.148.146.108:9003/rtp/232.0.0.88:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.88:1234
 #EXTINF:-1 ,辽宁都市_③高清
-http://175.148.146.108:9003/rtp/232.0.0.154:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.154:1234
 #EXTINF:-1 ,辽宁都市_④
 http://101.wifi98.com:9009/rtp/232.0.0.88:1234
 #EXTINF:-1 ,辽宁都市_④高清
@@ -597,6 +599,8 @@ http://op.ayemovie.top:5555/rtp/232.0.0.88:8890
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.88:8890
 #EXTINF:-1 ,辽宁都市_⑩
 http://image.ayemovie.top:5555/rtp/232.0.0.88:8890
+#EXTINF:-1 ,辽宁都市
+http://libretv.ayemovie.top:5555/rtp/232.0.0.88:8890
 
 
 #EXTINF:-1 ,辽宁公共_①
@@ -608,9 +612,9 @@ http://175.148.146.108:9002/rtp/232.0.0.205:1234
 #EXTINF:-1 ,辽宁公共_②高清
 http://175.148.146.108:9002/rtp/232.0.0.168:1234
 #EXTINF:-1 ,辽宁公共_③
-http://175.148.146.108:9003/rtp/232.0.0.205:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.205:1234
 #EXTINF:-1 ,辽宁公共_③高清
-http://175.148.146.108:9003/rtp/232.0.0.168:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.168:1234
 #EXTINF:-1 ,辽宁公共_④
 http://101.wifi98.com:9009/rtp/232.0.0.205:1234
 #EXTINF:-1 ,辽宁公共_④高清
@@ -627,6 +631,8 @@ http://op.ayemovie.top:5555/rtp/232.0.0.156:9322
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.156:9322
 #EXTINF:-1 ,辽宁公共_⑩
 http://image.ayemovie.top:5555/rtp/232.0.0.156:9322
+#EXTINF:-1 ,辽宁公共
+http://libretv.ayemovie.top:5555/rtp/232.0.0.156:9322
 
 
 #EXTINF:-1 ,辽宁教育_①
@@ -638,9 +644,9 @@ http://175.148.146.108:9002/rtp/232.0.0.99:1234
 #EXTINF:-1 ,辽宁教育_②高清
 http://175.148.146.108:9002/rtp/232.0.0.241:1234
 #EXTINF:-1 ,辽宁教育_③
-http://175.148.146.108:9003/rtp/232.0.0.99:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.99:1234
 #EXTINF:-1 ,辽宁教育_③高清
-http://175.148.146.108:9003/rtp/232.0.0.241:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.241:1234
 #EXTINF:-1 ,辽宁教育_④
 http://101.wifi98.com:9009/rtp/232.0.0.99:1234
 #EXTINF:-1 ,辽宁教育_④高清
@@ -657,6 +663,8 @@ http://op.ayemovie.top:5555/rtp/232.0.0.99:8536
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.99:8536
 #EXTINF:-1 ,辽宁教育_⑩
 http://image.ayemovie.top:5555/rtp/232.0.0.99:8536
+#EXTINF:-1 ,辽宁教育
+http://libretv.ayemovie.top:5555/rtp/232.0.0.99:8536
 
 
 #EXTINF:-1 ,辽宁经济_①
@@ -668,9 +676,9 @@ http://175.148.146.108:9002/rtp/232.0.0.204:1234
 #EXTINF:-1 ,辽宁经济_②高清
 http://175.148.146.108:9002/rtp/232.0.0.156:1234
 #EXTINF:-1 ,辽宁经济_③
-http://175.148.146.108:9003/rtp/232.0.0.204:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.204:1234
 #EXTINF:-1 ,辽宁经济_③高清
-http://175.148.146.108:9003/rtp/232.0.0.156:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.156:1234
 #EXTINF:-1 ,辽宁经济_④
 http://101.wifi98.com:9009/rtp/232.0.0.204:1234
 #EXTINF:-1 ,辽宁经济_④高清
@@ -687,6 +695,8 @@ http://op.ayemovie.top:5555/rtp/232.0.0.155:9320
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.155:9320
 #EXTINF:-1 ,辽宁经济_⑩
 http://image.ayemovie.top:5555/rtp/232.0.0.155:9320
+#EXTINF:-1 ,辽宁经济
+http://libretv.ayemovie.top:5555/rtp/232.0.0.155:9320
 
 
 #EXTINF:-1 ,辽宁生活_①
@@ -698,9 +708,9 @@ http://175.148.146.108:9002/rtp/232.0.0.96:1234
 #EXTINF:-1 ,辽宁生活_②高清
 http://175.148.146.108:9002/rtp/232.0.0.150:1234
 #EXTINF:-1 ,辽宁生活_③
-http://175.148.146.108:9003/rtp/232.0.0.96:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.96:1234
 #EXTINF:-1 ,辽宁生活_③高清
-http://175.148.146.108:9003/rtp/232.0.0.150:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.150:1234
 #EXTINF:-1 ,辽宁生活_④
 http://101.wifi98.com:9009/rtp/232.0.0.96:1234
 #EXTINF:-1 ,辽宁生活_④高清
@@ -717,6 +727,8 @@ http://op.ayemovie.top:5555/rtp/232.0.0.96:8538
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.96:8538
 #EXTINF:-1 ,辽宁生活_⑩
 http://image.ayemovie.top:5555/rtp/232.0.0.96:8538
+#EXTINF:-1 ,辽宁生活
+http://libretv.ayemovie.top:5555/rtp/232.0.0.96:8538
 
 
 #EXTINF:-1 ,辽宁体育_①
@@ -728,9 +740,9 @@ http://175.148.146.108:9002/rtp/232.0.0.3:1234
 #EXTINF:-1 ,辽宁体育_②高清
 http://175.148.146.108:9002/rtp/232.0.0.164:1234
 #EXTINF:-1 ,辽宁体育_③
-http://175.148.146.108:9003/rtp/232.0.0.3:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.3:1234
 #EXTINF:-1 ,辽宁体育_③高清
-http://175.148.146.108:9003/rtp/232.0.0.164:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.164:1234
 #EXTINF:-1 ,辽宁体育_④
 http://101.wifi98.com:9009/rtp/232.0.0.3:1234
 #EXTINF:-1 ,辽宁体育_④高清
@@ -747,6 +759,8 @@ http://op.ayemovie.top:5555/rtp/232.0.0.3:8540
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.3:8540
 #EXTINF:-1 ,辽宁体育_⑩
 http://image.ayemovie.top:5555/rtp/232.0.0.3:8540
+#EXTINF:-1 ,辽宁体育
+http://libretv.ayemovie.top:5555/rtp/232.0.0.3:8540
 
 
 #EXTINF:-1 ,辽宁影视_①
@@ -758,9 +772,9 @@ http://175.148.146.108:9002/rtp/232.0.0.97:1234
 #EXTINF:-1 ,辽宁影视_②高清
 http://175.148.146.108:9002/rtp/232.0.0.25:1234
 #EXTINF:-1 ,辽宁影视_③
-http://175.148.146.108:9003/rtp/232.0.0.97:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.97:1234
 #EXTINF:-1 ,辽宁影视_③高清
-http://175.148.146.108:9003/rtp/232.0.0.25:1234
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.25:1234
 #EXTINF:-1 ,辽宁影视_④
 http://101.wifi98.com:9009/rtp/232.0.0.97:1234
 #EXTINF:-1 ,辽宁影视_④高清
@@ -777,9 +791,11 @@ http://op.ayemovie.top:5555/rtp/232.0.0.97:8534
 http://xiaoya.ayemovie.top:5555/rtp/232.0.0.97:8534
 #EXTINF:-1 ,辽宁影视_⑩
 http://image.ayemovie.top:5555/rtp/232.0.0.97:8534
+#EXTINF:-1 ,辽宁影视
+http://libretv.ayemovie.top:5555/rtp/232.0.0.97:8534
 
 
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 ,CCTV1_天津
 http://cc2022.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV2
 http://cc2022.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=007

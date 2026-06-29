@@ -827,6 +827,144 @@ http://emby.ayemovie.top:5555/rtp/232.0.0.97:8534
 http://ayemovie.top:5555/rtp/232.0.0.97:8534
 
 
+#EXTINF:-1 ,CCTV1_吉林联通组播
+http://wanda01.e7q.com:18090/rtp/239.253.142.110:3000
+#EXTINF:-1 ,CCTV1
+http://wanda01.e7q.com:18090/rtp/239.253.142.160:3000
+#EXTINF:-1 ,CCTV2
+http://wanda01.e7q.com:18090/rtp/239.253.142.201:3000
+#EXTINF:-1 ,CCTV3
+http://wanda01.e7q.com:18090/rtp/239.253.142.115:3000
+#EXTINF:-1 ,CCTV4
+http://wanda01.e7q.com:18090/rtp/239.253.142.251:3000
+#EXTINF:-1 ,CCTV4欧洲
+http://wanda01.e7q.com:18090/rtp/239.253.142.239:3000
+#EXTINF:-1 ,CCTV4美洲
+http://wanda01.e7q.com:18090/rtp/239.253.142.240:3000
+#EXTINF:-1 ,CCTV5
+http://wanda01.e7q.com:18090/rtp/239.253.142.116:3000
+#EXTINF:-1 ,CCTV5+
+http://wanda01.e7q.com:18090/rtp/239.253.142.120:8004
+#EXTINF:-1 ,CCTV6
+http://wanda01.e7q.com:18090/rtp/239.253.142.117:3000
+#EXTINF:-1 ,CCTV7
+http://wanda01.e7q.com:18090/rtp/239.253.142.247:3000
+#EXTINF:-1 ,CCTV8
+http://wanda01.e7q.com:18090/rtp/239.253.142.118:3000
+#EXTINF:-1 ,CCTV9
+http://wanda01.e7q.com:18090/rtp/239.253.142.203:3000
+#EXTINF:-1 ,CCTV10
+http://wanda01.e7q.com:18090/rtp/239.253.142.204:3000
+#EXTINF:-1 ,CCTV11
+http://wanda01.e7q.com:18090/rtp/239.253.142.252:3000
+#EXTINF:-1 ,CCTV12
+http://wanda01.e7q.com:18090/rtp/239.253.142.205:3000
+#EXTINF:-1 ,CCTV13
+http://wanda01.e7q.com:18090/rtp/239.253.142.253:3000
+#EXTINF:-1 ,CCTV14
+http://wanda01.e7q.com:18090/rtp/239.253.142.206:3000
+#EXTINF:-1 ,CCTV15
+http://wanda01.e7q.com:18090/rtp/239.253.142.88:3000
+#EXTINF:-1 ,CCTV16
+http://wanda01.e7q.com:18090/rtp/239.253.142.248:3000
+#EXTINF:-1 ,CCTV17
+http://wanda01.e7q.com:18090/rtp/239.253.142.202:3000
+#EXTINF:-1 ,安徽卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.131:3000
+#EXTINF:-1 ,北京卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.161:3000
+#EXTINF:-1 ,兵团卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.57:3000
+#EXTINF:-1 ,重庆卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.130:3000
+#EXTINF:-1 ,东方卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.122:3000
+#EXTINF:-1 ,东南卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.121:3000
+#EXTINF:-1 ,甘肃卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.179:3000
+#EXTINF:-1 ,广东卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.164:3000
+#EXTINF:-1 ,广西卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.106:3000
+#EXTINF:-1 ,贵州卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.129:3000
+#EXTINF:-1 ,海南卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.31:3000
+#EXTINF:-1 ,河北卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.126:3000
+#EXTINF:-1 ,河南卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.127:3000
+#EXTINF:-1 ,黑龙江卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.165:3000
+#EXTINF:-1 ,湖北卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.168:3000
+#EXTINF:-1 ,湖南卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.162:3000
+#EXTINF:-1 ,吉林卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.19:3000
+#EXTINF:-1 ,江苏卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.163:3000
+#EXTINF:-1 ,江西卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.128:3000
+#EXTINF:-1 ,辽宁卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.132:3000
+#EXTINF:-1 ,内蒙古卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.32:3000
+#EXTINF:-1 ,宁夏卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.63:3000
+#EXTINF:-1 ,青海卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.29:3000
+#EXTINF:-1 ,三沙卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.198:3000
+#EXTINF:-1 ,山东卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.167:3000
+#EXTINF:-1 ,山西卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.50:3000
+#EXTINF:-1 ,陕西卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.34:3000
+#EXTINF:-1 ,深圳卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.166:3000
+#EXTINF:-1 ,四川卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.123:3000
+#EXTINF:-1 ,天津卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.169:3000
+#EXTINF:-1 ,西藏卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.51:3000
+#EXTINF:-1 ,新疆卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.35:3000
+#EXTINF:-1 ,延边卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.101:3000
+#EXTINF:-1 ,云南卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.86:3000
+#EXTINF:-1 ,浙江卫视
+http://wanda01.e7q.com:18090/rtp/239.253.142.125:3000
+#EXTINF:-1 ,CCTV风云音乐
+http://wanda01.e7q.com:18090/rtp/239.253.142.78:3000
+#EXTINF:-1 ,CCTV世界地理
+http://wanda01.e7q.com:18090/rtp/239.253.142.76:3000
+#EXTINF:-1 ,CCTV第一剧场
+http://wanda01.e7q.com:18090/rtp/239.253.142.75:3000
+#EXTINF:-1 ,CCTV风云剧场
+http://wanda01.e7q.com:18090/rtp/239.253.142.99:3000
+#EXTINF:-1 ,CCTV央视精品
+http://wanda01.e7q.com:18090/rtp/239.253.142.80:3000
+#EXTINF:-1 ,CCTV兵器科技
+http://wanda01.e7q.com:18090/rtp/239.253.142.81:3000
+#EXTINF:-1 ,CCTV风云足球
+http://wanda01.e7q.com:18090/rtp/239.253.142.77:3000
+#EXTINF:-1 ,CCTV高网频道
+http://wanda01.e7q.com:18090/rtp/239.253.142.200:3000
+#EXTINF:-1 ,CCTV怀旧剧场
+http://wanda01.e7q.com:18090/rtp/239.253.142.79:3000
+#EXTINF:-1 ,CCTV女性时尚
+http://wanda01.e7q.com:18090/rtp/239.253.142.66:3000
+#EXTINF:-1 ,CCTV央视台球
+http://wanda01.e7q.com:18090/rtp/239.253.142.65:3000
+#EXTINF:-1 ,CCTV电视指南
+http://wanda01.e7q.com:18090/rtp/239.253.142.100:3000
+
+
 #EXTINF:-1 ,CCTV1_天津
 http://cc2022.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV2

@@ -677,9 +677,9 @@ http://wanda01.e7q.com:18090/rtp/239.253.142.65:3000
 http://wanda01.e7q.com:18090/rtp/239.253.142.100:3000
 
 
-#EXTINF:-1 ,CCTV1
-http://wxj520.top:8188/rtp/239.49.0.1:8000
 #EXTINF:-1 ,CCTV1_江苏电信组播
+http://wxj520.top:8188/rtp/239.49.0.1:8000
+#EXTINF:-1 ,CCTV1
 http://wxj520.top:8188/rtp/239.49.0.207:8000
 #EXTINF:-1 ,CCTV1
 http://wxj520.top:8188/rtp/239.49.8.19:9614

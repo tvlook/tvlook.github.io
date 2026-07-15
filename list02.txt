@@ -717,6 +717,228 @@ http://4px369674fn3.vicp.fun:7088/udp/225.1.8.139:8108
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.46:8036
 
 
+#EXTINF:-1 ,CCTV1_上海联通的组播源
+http://gavinping.top:8188/rtp/238.200.200.133:5540
+#EXTINF:-1 ,CCTV1
+http://gavinping.top:8188/rtp/238.200.200.251:5540
+#EXTINF:-1 ,CCTV2
+http://gavinping.top:8188/rtp/238.200.200.111:5540
+#EXTINF:-1 ,CCTV2
+http://gavinping.top:8188/rtp/238.200.200.231:5540
+#EXTINF:-1 ,CCTV3
+http://gavinping.top:8188/rtp/238.200.200.112:5540
+#EXTINF:-1 ,CCTV3
+http://gavinping.top:8188/rtp/238.200.200.63:5540
+#EXTINF:-1 ,CCTV4
+http://gavinping.top:8188/rtp/238.200.200.113:5540
+#EXTINF:-1 ,CCTV4
+http://gavinping.top:8188/rtp/238.200.200.232:5540
+#EXTINF:-1 ,CCTV5
+http://gavinping.top:8188/rtp/238.200.200.114:5540
+#EXTINF:-1 ,CCTV5
+http://gavinping.top:8188/rtp/238.200.200.64:5540
+#EXTINF:-1 ,CCTV6
+http://gavinping.top:8188/rtp/238.200.200.115:5540
+#EXTINF:-1 ,CCTV6
+http://gavinping.top:8188/rtp/238.200.200.65:5540
+#EXTINF:-1 ,CCTV7
+http://gavinping.top:8188/rtp/238.200.200.237:5540
+#EXTINF:-1 ,CCTV8
+http://gavinping.top:8188/rtp/238.200.200.117:5540
+#EXTINF:-1 ,CCTV8
+http://gavinping.top:8188/rtp/238.200.200.66:5540
+#EXTINF:-1 ,CCTV9
+http://gavinping.top:8188/rtp/238.200.200.238:5540
+#EXTINF:-1 ,CCTV10
+http://gavinping.top:8188/rtp/238.200.200.119:5540
+#EXTINF:-1 ,CCTV10
+http://gavinping.top:8188/rtp/238.200.200.239:5540
+#EXTINF:-1 ,CCTV11
+http://gavinping.top:8188/rtp/238.200.200.120:5540
+#EXTINF:-1 ,CCTV11
+http://gavinping.top:8188/rtp/238.200.200.57:5540
+#EXTINF:-1 ,CCTV12
+http://gavinping.top:8188/rtp/238.200.200.121:5540
+#EXTINF:-1 ,CCTV12
+http://gavinping.top:8188/rtp/238.200.200.240:5540
+#EXTINF:-1 ,CCTV13
+http://gavinping.top:8188/rtp/238.200.200.122:5540
+#EXTINF:-1 ,CCTV13
+http://gavinping.top:8188/rtp/238.200.200.58:5540
+#EXTINF:-1 ,CCTV14
+http://gavinping.top:8188/rtp/238.200.200.123:5540
+#EXTINF:-1 ,CCTV14
+http://gavinping.top:8188/rtp/238.200.200.241:5540
+#EXTINF:-1 ,CCTV15
+http://gavinping.top:8188/rtp/238.200.200.124:5540
+#EXTINF:-1 ,CCTV15
+http://gavinping.top:8188/rtp/238.200.200.59:5540
+#EXTINF:-1 ,CCTV17
+http://gavinping.top:8188/rtp/238.200.200.242:5540
+#EXTINF:-1 ,安徽卫视
+http://gavinping.top:8188/rtp/238.200.200.156:5540
+#EXTINF:-1 ,安徽卫视
+http://gavinping.top:8188/rtp/238.200.200.38:5540
+#EXTINF:-1 ,北京卫视
+http://gavinping.top:8188/rtp/238.200.200.11:5540
+#EXTINF:-1 ,北京卫视
+http://gavinping.top:8188/rtp/238.200.200.129:5540
+#EXTINF:-1 ,北京卫视
+http://gavinping.top:8188/rtp/238.200.200.137:5540
+#EXTINF:-1 ,北京卫视
+http://gavinping.top:8188/rtp/238.200.200.47:5540
+#EXTINF:-1 ,重庆卫视
+http://gavinping.top:8188/rtp/238.200.200.169:5540
+#EXTINF:-1 ,重庆卫视
+http://gavinping.top:8188/rtp/238.200.200.45:5540
+#EXTINF:-1 ,兵团卫视
+http://gavinping.top:8188/rtp/238.200.200.23:5540
+#EXTINF:-1 ,东方卫视
+http://gavinping.top:8188/rtp/238.200.200.125:5540
+#EXTINF:-1 ,东方卫视
+http://gavinping.top:8188/rtp/238.200.200.20:5540
+#EXTINF:-1 ,东方卫视
+http://gavinping.top:8188/rtp/238.200.200.88:5540
+#EXTINF:-1 ,东南卫视
+http://gavinping.top:8188/rtp/238.200.200.157:5540
+#EXTINF:-1 ,东南卫视
+http://gavinping.top:8188/rtp/238.200.200.42:5540
+#EXTINF:-1 ,甘肃卫视
+http://gavinping.top:8188/rtp/238.200.200.166:5540
+#EXTINF:-1 ,甘肃卫视
+http://gavinping.top:8188/rtp/238.200.200.181:5540
+#EXTINF:-1 ,广东卫视
+http://gavinping.top:8188/rtp/238.200.200.138:5540
+#EXTINF:-1 ,广东卫视
+http://gavinping.top:8188/rtp/238.200.200.30:5540
+#EXTINF:-1 ,广东卫视
+http://gavinping.top:8188/rtp/238.200.200.54:5540
+#EXTINF:-1 ,广西卫视
+http://gavinping.top:8188/rtp/238.200.200.153:5540
+#EXTINF:-1 ,广西卫视
+http://gavinping.top:8188/rtp/238.200.200.235:5540
+#EXTINF:-1 ,贵州卫视
+http://gavinping.top:8188/rtp/238.200.200.170:5540
+#EXTINF:-1 ,贵州卫视
+http://gavinping.top:8188/rtp/238.200.200.86:5540
+#EXTINF:-1 ,海南卫视
+http://gavinping.top:8188/rtp/238.200.200.152:5540
+#EXTINF:-1 ,海南卫视
+http://gavinping.top:8188/rtp/238.200.200.85:5540
+#EXTINF:-1 ,河北卫视
+http://gavinping.top:8188/rtp/238.200.200.167:5540
+#EXTINF:-1 ,河北卫视
+http://gavinping.top:8188/rtp/238.200.200.225:5540
+#EXTINF:-1 ,河南卫视
+http://gavinping.top:8188/rtp/238.200.200.171:5540
+#EXTINF:-1 ,河南卫视
+http://gavinping.top:8188/rtp/238.200.200.233:5540
+#EXTINF:-1 ,黑龙江卫视
+http://gavinping.top:8188/rtp/238.200.200.140:5540
+#EXTINF:-1 ,黑龙江卫视
+http://gavinping.top:8188/rtp/238.200.200.52:5540
+#EXTINF:-1 ,湖北卫视
+http://gavinping.top:8188/rtp/238.200.200.142:5540
+#EXTINF:-1 ,湖北卫视
+http://gavinping.top:8188/rtp/238.200.200.53:5540
+#EXTINF:-1 ,湖南卫视
+http://gavinping.top:8188/rtp/238.200.200.136:5540
+#EXTINF:-1 ,湖南卫视
+http://gavinping.top:8188/rtp/238.200.200.168:5540
+#EXTINF:-1 ,湖南卫视
+http://gavinping.top:8188/rtp/238.200.200.50:5540
+#EXTINF:-1 ,吉林卫视
+http://gavinping.top:8188/rtp/238.200.200.160:5540
+#EXTINF:-1 ,吉林卫视
+http://gavinping.top:8188/rtp/238.200.200.236:5540
+#EXTINF:-1 ,江苏卫视
+http://gavinping.top:8188/rtp/238.200.200.101:5540
+#EXTINF:-1 ,江苏卫视
+http://gavinping.top:8188/rtp/238.200.200.135:5540
+#EXTINF:-1 ,江苏卫视
+http://gavinping.top:8188/rtp/238.200.200.48:5540
+#EXTINF:-1 ,江西卫视
+http://gavinping.top:8188/rtp/238.200.200.159:5540
+#EXTINF:-1 ,江西卫视
+http://gavinping.top:8188/rtp/238.200.200.40:5540
+#EXTINF:-1 ,辽宁卫视
+http://gavinping.top:8188/rtp/238.200.200.155:5540
+#EXTINF:-1 ,辽宁卫视
+http://gavinping.top:8188/rtp/238.200.200.41:5540
+#EXTINF:-1 ,内蒙古卫视
+http://gavinping.top:8188/rtp/238.200.200.28:5540
+#EXTINF:-1 ,青海卫视
+http://gavinping.top:8188/rtp/238.200.200.162:5540
+#EXTINF:-1 ,青海卫视
+http://gavinping.top:8188/rtp/238.200.200.25:5540
+#EXTINF:-1 ,三沙卫视
+http://gavinping.top:8188/rtp/238.200.200.174:5540
+#EXTINF:-1 ,三沙卫视
+http://gavinping.top:8188/rtp/238.200.200.95:5540
+#EXTINF:-1 ,山东卫视
+http://gavinping.top:8188/rtp/238.200.200.103:5540
+#EXTINF:-1 ,山东卫视
+http://gavinping.top:8188/rtp/238.200.200.141:5540
+#EXTINF:-1 ,山东卫视
+http://gavinping.top:8188/rtp/238.200.200.51:5540
+#EXTINF:-1 ,山西卫视
+http://gavinping.top:8188/rtp/238.200.200.104:5540
+#EXTINF:-1 ,陕西卫视
+http://gavinping.top:8188/rtp/238.200.200.71:5540
+#EXTINF:-1 ,深圳卫视
+http://gavinping.top:8188/rtp/238.200.200.139:5540
+#EXTINF:-1 ,深圳卫视
+http://gavinping.top:8188/rtp/238.200.200.21:5540
+#EXTINF:-1 ,深圳卫视
+http://gavinping.top:8188/rtp/238.200.200.55:5540
+#EXTINF:-1 ,四川卫视
+http://gavinping.top:8188/rtp/238.200.200.100:5540
+#EXTINF:-1 ,四川卫视
+http://gavinping.top:8188/rtp/238.200.200.154:5540
+#EXTINF:-1 ,四川卫视
+http://gavinping.top:8188/rtp/238.200.200.44:5540
+#EXTINF:-1 ,天津卫视
+http://gavinping.top:8188/rtp/238.200.200.158:5540
+#EXTINF:-1 ,天津卫视
+http://gavinping.top:8188/rtp/238.200.200.39:5540
+#EXTINF:-1 ,西藏卫视
+http://gavinping.top:8188/rtp/238.200.200.27:5540
+#EXTINF:-1 ,新疆卫视
+http://gavinping.top:8188/rtp/238.200.200.22:5540
+#EXTINF:-1 ,云南卫视
+http://gavinping.top:8188/rtp/238.200.200.165:5540
+#EXTINF:-1 ,云南卫视
+http://gavinping.top:8188/rtp/238.200.200.234:5540
+#EXTINF:-1 ,浙江卫视
+http://gavinping.top:8188/rtp/238.200.200.106:5540
+#EXTINF:-1 ,浙江卫视
+http://gavinping.top:8188/rtp/238.200.200.134:5540
+#EXTINF:-1 ,浙江卫视
+http://gavinping.top:8188/rtp/238.200.200.49:5540
+#EXTINF:-1 ,CCTV风云音乐
+http://gavinping.top:8188/rtp/238.200.200.82:5540
+#EXTINF:-1 ,CCTV世界地理
+http://gavinping.top:8188/rtp/238.200.200.73:5540
+#EXTINF:-1 ,CCTV第一剧场
+http://gavinping.top:8188/rtp/238.200.200.81:5540
+#EXTINF:-1 ,CCTV风云剧场
+http://gavinping.top:8188/rtp/238.200.200.80:5540
+#EXTINF:-1 ,CCTV央视精品
+http://gavinping.top:8188/rtp/238.200.200.83:5540
+#EXTINF:-1 ,CCTV兵器科技
+http://gavinping.top:8188/rtp/238.200.200.69:5540
+#EXTINF:-1 ,CCTV风云足球
+http://gavinping.top:8188/rtp/238.200.200.67:5540
+#EXTINF:-1 ,CCTV高网频道
+http://gavinping.top:8188/rtp/238.200.200.76:5540
+#EXTINF:-1 ,CCTV怀旧剧场
+http://gavinping.top:8188/rtp/238.200.200.77:5540
+#EXTINF:-1 ,CCTV女性时尚
+http://gavinping.top:8188/rtp/238.200.200.74:5540
+#EXTINF:-1 ,CCTV央视台球
+http://gavinping.top:8188/rtp/238.200.200.68:5540
+
+
 #EXTINF:-1 ,CCTV1_吉林联通的组播源
 http://wanda01.e7q.com:18090/rtp/239.253.142.110:3000
 #EXTINF:-1 ,CCTV1
@@ -1291,152 +1513,6 @@ http://218.71.59.141:8907/新疆卫视?cors
 http://218.71.59.141:8907/云南卫视?cors
 #EXTINF:-1 ,浙江卫视
 http://218.71.59.141:8907/浙江卫视?cors
-
-
-#EXTINF:-1 ,CCTV1_辽宁联通大连酒店
-http://113.227.110.141:777/hls/222445664/index.m3u8
-#EXTINF:-1 ,CCTV-2
-http://113.227.110.141:777/hls/232899539/index.m3u8
-#EXTINF:-1 ,CCTV-3
-http://113.227.110.141:777/hls/243923676/index.m3u8
-#EXTINF:-1 ,CCTV-4
-http://113.227.110.141:777/hls/246746218/index.m3u8
-#EXTINF:-1 ,CCTV-5
-http://113.227.110.141:777/hls/257663393/index.m3u8
-#EXTINF:-1 ,CCTV-5+
-http://113.227.110.141:777/hls/443969582/index.m3u8
-#EXTINF:-1 ,CCTV-6
-http://113.227.110.141:777/hls/284143533/index.m3u8
-#EXTINF:-1 ,CCTV-7
-http://113.227.110.141:777/hls/287281364/index.m3u8
-#EXTINF:-1 ,CCTV-8
-http://113.227.110.141:777/hls/319736149/index.m3u8
-#EXTINF:-1 ,CCTV-9
-http://113.227.110.141:777/hls/334366488/index.m3u8
-#EXTINF:-1 ,CCTV-10
-http://113.227.110.141:777/hls/355242285/index.m3u8
-#EXTINF:-1 ,CCTV-11
-http://113.227.110.141:777/hls/368455614/index.m3u8
-#EXTINF:-1 ,CCTV-12
-http://113.227.110.141:777/hls/383356249/index.m3u8
-#EXTINF:-1 ,CCTV-13
-http://113.227.110.141:777/hls/394414763/index.m3u8
-#EXTINF:-1 ,CCTV-14
-http://113.227.110.141:777/hls/419338931/index.m3u8
-#EXTINF:-1 ,CCTV-15
-http://113.227.110.141:777/hls/423159946/index.m3u8
-#EXTINF:-1 ,CCTV-16
-http://113.227.110.141:777/hls/426837468/index.m3u8
-#EXTINF:-1 ,CCTV-17
-http://113.227.110.141:777/hls/443156247/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://113.227.110.141:777/hls/455272231/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://113.227.110.141:777/hls/455839734/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://113.227.110.141:777/hls/492875544/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://113.227.110.141:777/hls/486344274/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://113.227.110.141:777/hls/465591451/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://113.227.110.141:777/hls/479119729/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://113.227.110.141:777/hls/474995545/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://113.227.110.141:777/hls/448726876/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://113.227.110.141:777/hls/488852284/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://113.227.110.141:777/hls/488289735/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://113.227.110.141:777/hls/463882882/index.m3u8
-#EXTINF:-1 ,卡通卫视
-http://113.227.110.141:777/hls/494596185/index.m3u8
-
-
-#EXTINF:-1 ,CCTV1_浙江联通宁波酒店
-http://124.90.45.52:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV2
-http://124.90.45.52:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV3
-http://124.90.45.52:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV4
-http://124.90.45.52:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV5
-http://124.90.45.52:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV6
-http://124.90.45.52:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV7
-http://124.90.45.52:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV8
-http://124.90.45.52:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV9
-http://124.90.45.52:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV10
-http://124.90.45.52:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV11
-http://124.90.45.52:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV12
-http://124.90.45.52:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV13
-http://124.90.45.52:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV14
-http://124.90.45.52:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CCTV15
-http://124.90.45.52:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,安徽卫视
-http://124.90.45.52:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,北京卫视
-http://124.90.45.52:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,重庆卫视
-http://124.90.45.52:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,东方卫视
-http://124.90.45.52:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,东南卫视
-http://124.90.45.52:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,广东卫视
-http://124.90.45.52:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,广西卫视
-http://124.90.45.52:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,贵州卫视
-http://124.90.45.52:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,河北卫视
-http://124.90.45.52:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,河南卫视
-http://124.90.45.52:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,黑龙江卫视
-http://124.90.45.52:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖北卫视
-http://124.90.45.52:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南卫视
-http://124.90.45.52:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,吉林卫视
-http://124.90.45.52:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,江苏卫视
-http://124.90.45.52:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,江西卫视
-http://124.90.45.52:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,辽宁卫视
-http://124.90.45.52:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,宁夏卫视
-http://124.90.45.52:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,青海卫视
-http://124.90.45.52:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,山东卫视
-http://124.90.45.52:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,山西卫视
-http://124.90.45.52:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,陕西卫视
-http://124.90.45.52:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,深圳卫视
-http://124.90.45.52:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,天津卫视
-http://124.90.45.52:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,云南卫视
-http://124.90.45.52:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,浙江卫视
-http://124.90.45.52:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 ,CCTV1_四川移动的酒店源

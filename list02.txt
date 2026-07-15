@@ -239,7 +239,7 @@ http://175.150.183.125:9001/rtp/232.0.0.97:1234
 http://175.150.183.125:9007/rtp/232.0.0.97:1234
 
 
-#EXTINF:-1 ,CCTV-1综合_江苏电信新组播
+#EXTINF:-1 ,CCTV1_江苏电信新组播源
 http://58.217.52.10:9900/央视/CCTV-1综合?cors
 #EXTINF:-1 ,CCTV-2财经
 http://58.217.52.10:9900/央视/CCTV-2财经?cors
@@ -341,7 +341,7 @@ http://58.217.52.10:9900/卫视/云南卫视?cors
 http://58.217.52.10:9900/卫视/浙江卫视?cors
 
 
-#EXTINF:-1 ,CCTV1_上海电信新组播
+#EXTINF:-1 ,CCTV1_上海电信新组播源
 http://116.237.23.114:8989/央视/051CCTV1?cors
 #EXTINF:-1 ,CCTV2
 http://116.237.23.114:8989/央视/052CCTV2?cors
@@ -443,7 +443,7 @@ http://116.237.23.114:8989/卫视/221云南卫视?cors
 http://116.237.23.114:8989/卫视/205浙江卫视?cors
 
 
-#EXTINF:-1 ,CCTV1_山东移动酒店
+#EXTINF:-1 ,CCTV1_山东移动的酒店源
 http://223.78.65.165:9901/tsfile/live/0001_1.m3u8?key=txiptv
 #EXTINF:-1 ,CCTV2
 http://223.78.65.165:9901/tsfile/live/0002_1.m3u8?key=txiptv
@@ -519,7 +519,7 @@ http://223.78.65.165:9901/tsfile/live/0119_1.m3u8?key=txiptv
 http://223.78.65.165:9901/tsfile/live/0018_1.m3u8?key=txiptv
 
 
-#EXTINF:-1 ,CCTV1_天津查找
+#EXTINF:-1 ,CCTV1_天津查找的组播源
 http://cc2022.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV2
 http://cc2022.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=007
@@ -619,7 +619,7 @@ http://cc2022.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=007
 http://cc2022.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=007
 
 
-#EXTINF:-1 ,CCTV1HD_北京电信组播
+#EXTINF:-1 ,CCTV1_北京电信的组播源
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.1:8008
 #EXTINF:-1 ,CCTV2HD
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.2:8084
@@ -717,7 +717,7 @@ http://4px369674fn3.vicp.fun:7088/udp/225.1.8.139:8108
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.46:8036
 
 
-#EXTINF:-1 ,CCTV1_吉林联通组播
+#EXTINF:-1 ,CCTV1_吉林联通的组播源
 http://wanda01.e7q.com:18090/rtp/239.253.142.110:3000
 #EXTINF:-1 ,CCTV1
 http://wanda01.e7q.com:18090/rtp/239.253.142.160:3000
@@ -855,7 +855,7 @@ http://wanda01.e7q.com:18090/rtp/239.253.142.65:3000
 http://wanda01.e7q.com:18090/rtp/239.253.142.100:3000
 
 
-#EXTINF:-1 ,CCTV1_江苏电信组播
+#EXTINF:-1 ,CCTV1_江苏电信的组播源
 http://wxj520.top:8188/rtp/239.49.0.1:8000
 #EXTINF:-1 ,CCTV1
 http://wxj520.top:8188/rtp/239.49.0.207:8000
@@ -1187,7 +1187,7 @@ http://wxj520.top:8188/rtp/239.49.8.139:6000
 http://wxj520.top:8188/rtp/239.49.8.20:9618
 
 
-#EXTINF:-1 ,CCTV1综合_浙江电信新组播
+#EXTINF:-1 ,CCTV1_浙江电信新组播源
 http://218.71.59.141:8907/CCTV1综合?cors
 #EXTINF:-1 ,CCTV2财经
 http://218.71.59.141:8907/CCTV2财经?cors
@@ -1293,7 +1293,7 @@ http://218.71.59.141:8907/云南卫视?cors
 http://218.71.59.141:8907/浙江卫视?cors
 
 
-#EXTINF:-1 ,CCTV-1_辽宁联通大连酒店
+#EXTINF:-1 ,CCTV1_辽宁联通大连酒店
 http://113.227.110.141:777/hls/222445664/index.m3u8
 #EXTINF:-1 ,CCTV-2
 http://113.227.110.141:777/hls/232899539/index.m3u8
@@ -1437,3 +1437,69 @@ http://124.90.45.52:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 http://124.90.45.52:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,浙江卫视
 http://124.90.45.52:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+#EXTINF:-1 ,CCTV1_四川移动的酒店源
+http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV2-财经
+http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV3-综艺
+http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV4-国际
+http://183.223.157.33:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV5-体育
+http://183.223.157.33:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV5+
+http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV6-电影
+http://183.223.157.33:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV7-军事
+http://183.223.157.33:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV8-电视剧
+http://183.223.157.33:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV9-纪录
+http://183.223.157.33:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV10-科教
+http://183.223.157.33:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV11-戏曲
+http://183.223.157.33:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV12-社会与法
+http://183.223.157.33:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV13-新闻
+http://183.223.157.33:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV14-少儿
+http://183.223.157.33:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV15-音乐
+http://183.223.157.33:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV17-农村
+http://183.223.157.33:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,北京卫视HD
+http://183.223.157.33:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,东方卫视HD
+http://183.223.157.33:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,东南卫视HD
+http://183.223.157.33:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,广东卫视HD
+http://183.223.157.33:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,海南卫视HD
+http://183.223.157.33:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,湖南卫视HD
+http://183.223.157.33:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,江苏卫视HD
+http://183.223.157.33:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,江西卫视HD
+http://183.223.157.33:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,深圳卫视HD
+http://183.223.157.33:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,四川卫视HD
+http://183.223.157.33:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,浙江卫视HD
+http://183.223.157.33:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,四川经济HD
+http://183.223.157.33:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,四川文化HD
+http://183.223.157.33:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,四川新闻HD
+http://183.223.157.33:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,四川科教HD
+http://183.223.157.33:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0

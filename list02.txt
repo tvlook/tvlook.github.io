@@ -1369,8 +1369,6 @@ http://xuzhitao.cn:8188/rtp/239.49.0.81:8000
 http://xuzhitao.cn:8188/rtp/239.49.0.165:8000
 #EXTINF:-1 ,三沙卫视
 http://xuzhitao.cn:8188/rtp/239.49.0.167:8000
-#EXTINF:-1 ,厦门卫视
-http://xuzhitao.cn:8188/rtp/239.49.0.230:8000
 #EXTINF:-1 ,山东卫视
 http://xuzhitao.cn:8188/rtp/239.49.0.53:8416
 #EXTINF:-1 ,山东卫视

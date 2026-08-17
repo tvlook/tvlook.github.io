@@ -239,7 +239,7 @@ http://101.wifi98.com:9001/rtp/232.0.0.97:1234
 http://101.wifi98.com:9009/rtp/232.0.0.97:1234
 
 
-#EXTINF:-1 ,CCTV1_江苏电信新组播源01
+#EXTINF:-1 ,CCTV1_江苏电信新组播源
 http://49.84.31.139:38090/央视/CCTV1?cors
 #EXTINF:-1 ,CCTV2
 http://49.84.31.139:38090/央视/CCTV2?cors
@@ -345,110 +345,106 @@ http://49.84.31.139:38090/卫视/云南卫视?cors
 http://49.84.31.139:38090/卫视/浙江卫视?cors
 
 
-#EXTINF:-1 ,CCTV1_江苏电信新组播源02
-http://180.105.201.172:9981/央视/CCTV1?cors
+#EXTINF:-1 ,CCTV1_浙江电信新组播源
+http://220.184.183.58:9999/央视高清/CCTV1综合高清综合?cors
 #EXTINF:-1 ,CCTV2
-http://180.105.201.172:9981/央视/CCTV2?cors
+http://220.184.183.58:9999/央视高清/CCTV2财经高清财经?cors
 #EXTINF:-1 ,CCTV3
-http://180.105.201.172:9981/央视/CCTV3?cors
+http://220.184.183.58:9999/央视高清/CCTV3综艺?cors
 #EXTINF:-1 ,CCTV4
-http://180.105.201.172:9981/央视/CCTV4?cors
+http://220.184.183.58:9999/央视高清/CCTV4中文国际?cors
 #EXTINF:-1 ,CCTV5
-http://180.105.201.172:9981/央视/CCTV5?cors
-#EXTINF:-1 ,CCTV5+
-http://180.105.201.172:9981/央视/CCTV5+?cors
+http://220.184.183.58:9999/央视高清/CCTV5体育?cors
 #EXTINF:-1 ,CCTV6
-http://180.105.201.172:9981/央视/CCTV6?cors
+http://220.184.183.58:9999/央视高清/CCTV6电影?cors
 #EXTINF:-1 ,CCTV7
-http://180.105.201.172:9981/央视/CCTV7?cors
+http://220.184.183.58:9999/央视高清/CCTV7国防军事?cors
 #EXTINF:-1 ,CCTV8
-http://180.105.201.172:9981/央视/CCTV8?cors
+http://220.184.183.58:9999/央视高清/CCTV8电视剧?cors
 #EXTINF:-1 ,CCTV9
-http://180.105.201.172:9981/央视/CCTV9?cors
+http://220.184.183.58:9999/央视高清/CCTV9纪录?cors
 #EXTINF:-1 ,CCTV10
-http://180.105.201.172:9981/央视/CCTV10?cors
+http://220.184.183.58:9999/央视高清/CCTV10科教?cors
 #EXTINF:-1 ,CCTV11
-http://180.105.201.172:9981/央视/CCTV11?cors
+http://220.184.183.58:9999/央视高清/CCTV11戏曲?cors
 #EXTINF:-1 ,CCTV12
-http://180.105.201.172:9981/央视/CCTV12?cors
+http://220.184.183.58:9999/央视高清/CCTV12社会与法?cors
 #EXTINF:-1 ,CCTV13
-http://180.105.201.172:9981/央视/CCTV13?cors
+http://220.184.183.58:9999/央视高清/CCTV13新闻?cors
 #EXTINF:-1 ,CCTV14
-http://180.105.201.172:9981/央视/CCTV14?cors
+http://220.184.183.58:9999/央视高清/CCTV14少儿?cors
 #EXTINF:-1 ,CCTV15
-http://180.105.201.172:9981/央视/CCTV15?cors
+http://220.184.183.58:9999/央视高清/CCTV15音乐?cors
 #EXTINF:-1 ,CCTV16
-http://180.105.201.172:9981/央视/CCTV16?cors
+http://220.184.183.58:9999/央视高清/CCTV16奥林匹克?cors
 #EXTINF:-1 ,CCTV17
-http://180.105.201.172:9981/央视/CCTV17?cors
+http://220.184.183.58:9999/央视高清/CCTV17农业农村?cors
 #EXTINF:-1 ,安徽卫视
-http://180.105.201.172:9981/卫视/安徽卫视?cors
+http://220.184.183.58:9999/卫视/安徽卫视?cors
 #EXTINF:-1 ,北京卫视
-http://180.105.201.172:9981/卫视/北京卫视?cors
+http://220.184.183.58:9999/卫视/北京卫视?cors
 #EXTINF:-1 ,兵团卫视
-http://180.105.201.172:9981/卫视/兵团卫视?cors
+http://220.184.183.58:9999/卫视/兵团卫视?cors
 #EXTINF:-1 ,重庆卫视
-http://180.105.201.172:9981/卫视/重庆卫视?cors
+http://220.184.183.58:9999/卫视/重庆卫视?cors
 #EXTINF:-1 ,东方卫视
-http://180.105.201.172:9981/卫视/东方卫视?cors
+http://220.184.183.58:9999/卫视/东方卫视?cors
 #EXTINF:-1 ,东南卫视
-http://180.105.201.172:9981/卫视/东南卫视?cors
+http://220.184.183.58:9999/卫视/东南卫视?cors
 #EXTINF:-1 ,甘肃卫视
-http://180.105.201.172:9981/卫视/甘肃卫视?cors
+http://220.184.183.58:9999/卫视/甘肃卫视?cors
 #EXTINF:-1 ,广东卫视
-http://180.105.201.172:9981/卫视/广东卫视?cors
+http://220.184.183.58:9999/卫视/广东卫视?cors
 #EXTINF:-1 ,广西卫视
-http://180.105.201.172:9981/卫视/广西卫视?cors
+http://220.184.183.58:9999/卫视/广西卫视?cors
 #EXTINF:-1 ,贵州卫视
-http://180.105.201.172:9981/卫视/贵州卫视?cors
+http://220.184.183.58:9999/卫视/贵州卫视?cors
 #EXTINF:-1 ,海南卫视
-http://180.105.201.172:9981/卫视/海南卫视?cors
+http://220.184.183.58:9999/卫视/海南卫视?cors
 #EXTINF:-1 ,河北卫视
-http://180.105.201.172:9981/卫视/河北卫视?cors
+http://220.184.183.58:9999/卫视/河北卫视?cors
 #EXTINF:-1 ,河南卫视
-http://180.105.201.172:9981/卫视/河南卫视?cors
+http://220.184.183.58:9999/卫视/河南卫视?cors
 #EXTINF:-1 ,黑龙江卫视
-http://180.105.201.172:9981/卫视/黑龙江卫视?cors
+http://220.184.183.58:9999/卫视/黑龙江卫视?cors
 #EXTINF:-1 ,湖北卫视
-http://180.105.201.172:9981/卫视/湖北卫视?cors
+http://220.184.183.58:9999/卫视/湖北卫视?cors
 #EXTINF:-1 ,湖南卫视
-http://180.105.201.172:9981/卫视/湖南卫视?cors
+http://220.184.183.58:9999/卫视/湖南卫视?cors
 #EXTINF:-1 ,吉林卫视
-http://180.105.201.172:9981/卫视/吉林卫视?cors
+http://220.184.183.58:9999/卫视/吉林卫视?cors
 #EXTINF:-1 ,江苏卫视
-http://180.105.201.172:9981/卫视/江苏卫视?cors
+http://220.184.183.58:9999/卫视/江苏卫视?cors
 #EXTINF:-1 ,江西卫视
-http://180.105.201.172:9981/卫视/江西卫视?cors
+http://220.184.183.58:9999/卫视/江西卫视?cors
 #EXTINF:-1 ,辽宁卫视
-http://180.105.201.172:9981/卫视/辽宁卫视?cors
+http://220.184.183.58:9999/卫视/辽宁卫视?cors
 #EXTINF:-1 ,内蒙古卫视
-http://180.105.201.172:9981/卫视/内蒙古卫视?cors
+http://220.184.183.58:9999/卫视/内蒙古卫视?cors
 #EXTINF:-1 ,宁夏卫视
-http://180.105.201.172:9981/卫视/宁夏卫视?cors
+http://220.184.183.58:9999/卫视/宁夏卫视?cors
 #EXTINF:-1 ,青海卫视
-http://180.105.201.172:9981/卫视/青海卫视?cors
-#EXTINF:-1 ,三沙卫视
-http://180.105.201.172:9981/卫视/三沙卫视?cors
+http://220.184.183.58:9999/卫视/青海卫视?cors
 #EXTINF:-1 ,山东卫视
-http://180.105.201.172:9981/卫视/山东卫视?cors
+http://220.184.183.58:9999/卫视/山东卫视?cors
 #EXTINF:-1 ,山西卫视
-http://180.105.201.172:9981/卫视/山西卫视?cors
+http://220.184.183.58:9999/卫视/山西卫视?cors
 #EXTINF:-1 ,陕西卫视
-http://180.105.201.172:9981/卫视/陕西卫视?cors
+http://220.184.183.58:9999/卫视/陕西卫视?cors
 #EXTINF:-1 ,深圳卫视
-http://180.105.201.172:9981/卫视/深圳卫视?cors
+http://220.184.183.58:9999/卫视/深圳卫视?cors
 #EXTINF:-1 ,四川卫视
-http://180.105.201.172:9981/卫视/四川卫视?cors
+http://220.184.183.58:9999/卫视/四川卫视?cors
 #EXTINF:-1 ,天津卫视
-http://180.105.201.172:9981/卫视/天津卫视?cors
+http://220.184.183.58:9999/卫视/天津卫视?cors
 #EXTINF:-1 ,西藏卫视
-http://180.105.201.172:9981/卫视/西藏卫视?cors
+http://220.184.183.58:9999/卫视/西藏卫视?cors
 #EXTINF:-1 ,新疆卫视
-http://180.105.201.172:9981/卫视/新疆卫视?cors
+http://220.184.183.58:9999/卫视/新疆卫视?cors
 #EXTINF:-1 ,云南卫视
-http://180.105.201.172:9981/卫视/云南卫视?cors
+http://220.184.183.58:9999/卫视/云南卫视?cors
 #EXTINF:-1 ,浙江卫视
-http://180.105.201.172:9981/卫视/浙江卫视?cors
+http://220.184.183.58:9999/卫视/浙江卫视?cors
 
 
 #EXTINF:-1 ,CCTV1_上海联通的组播源
@@ -651,6 +647,236 @@ http://139.227.20.18:19999/rtp/233.18.204.106:5140
 http://139.227.20.18:19999/rtp/233.18.204.136:5140
 #EXTINF:-1 ,浙江卫视HD
 http://139.227.20.18:19999/rtp/233.18.204.84:5140
+
+
+#EXTINF:-1 ,CCTV1_上海电信新组播源
+http://180.165.8.71:19999/[051]CCTV-1?cors
+#EXTINF:-1 ,CCTV-1HD
+http://180.165.8.71:19999/[102]CCTV-1HD?cors
+#EXTINF:-1 ,CCTV-1HD
+http://180.165.8.71:19999/[124]CCTV-1HD?cors
+#EXTINF:-1 ,CCTV-2
+http://180.165.8.71:19999/[052]CCTV-2?cors
+#EXTINF:-1 ,CCTV-2HD
+http://180.165.8.71:19999/[125]CCTV-2HD?cors
+#EXTINF:-1 ,CCTV-3
+http://180.165.8.71:19999/[053]CCTV-3?cors
+#EXTINF:-1 ,CCTV-3HD
+http://180.165.8.71:19999/[126]CCTV-3HD?cors
+#EXTINF:-1 ,CCTV-4
+http://180.165.8.71:19999/[054]CCTV-4?cors
+#EXTINF:-1 ,CCTV-4HD
+http://180.165.8.71:19999/[127]CCTV-4HD?cors
+#EXTINF:-1 ,CCTV-5
+http://180.165.8.71:19999/[055]CCTV-5?cors
+#EXTINF:-1 ,CCTV-5HD
+http://180.165.8.71:19999/[128]CCTV-5HD?cors
+#EXTINF:-1 ,CCTV-6
+http://180.165.8.71:19999/[056]CCTV-6?cors
+#EXTINF:-1 ,CCTV-6HD
+http://180.165.8.71:19999/[129]CCTV-6HD?cors
+#EXTINF:-1 ,CCTV-7
+http://180.165.8.71:19999/[057]CCTV-7?cors
+#EXTINF:-1 ,CCTV-7HD
+http://180.165.8.71:19999/[130]CCTV-7HD?cors
+#EXTINF:-1 ,CCTV-8
+http://180.165.8.71:19999/[058]CCTV-8?cors
+#EXTINF:-1 ,CCTV-8HD
+http://180.165.8.71:19999/[131]CCTV-8HD?cors
+#EXTINF:-1 ,CCTV-9
+http://180.165.8.71:19999/[059]CCTV-9?cors
+#EXTINF:-1 ,CCTV-9HD
+http://180.165.8.71:19999/[132]CCTV-9HD?cors
+#EXTINF:-1 ,CCTV-10
+http://180.165.8.71:19999/[060]CCTV-10?cors
+#EXTINF:-1 ,CCTV-10HD
+http://180.165.8.71:19999/[133]CCTV-10HD?cors
+#EXTINF:-1 ,CCTV-11
+http://180.165.8.71:19999/[061]CCTV-11?cors
+#EXTINF:-1 ,CCTV-11HD
+http://180.165.8.71:19999/[134]CCTV-11HD?cors
+#EXTINF:-1 ,CCTV-12
+http://180.165.8.71:19999/[062]CCTV-12?cors
+#EXTINF:-1 ,CCTV-12HD
+http://180.165.8.71:19999/[135]CCTV-12HD?cors
+#EXTINF:-1 ,CCTV-13
+http://180.165.8.71:19999/[063]CCTV-13?cors
+#EXTINF:-1 ,CCTV-13HD
+http://180.165.8.71:19999/[136]CCTV-13HD?cors
+#EXTINF:-1 ,CCTV-14
+http://180.165.8.71:19999/[064]CCTV-14?cors
+#EXTINF:-1 ,CCTV-14HD
+http://180.165.8.71:19999/[137]CCTV-14HD?cors
+#EXTINF:-1 ,CCTV-15
+http://180.165.8.71:19999/[065]CCTV-15?cors
+#EXTINF:-1 ,CCTV-15HD
+http://180.165.8.71:19999/[138]CCTV-15HD?cors
+#EXTINF:-1 ,CCTV-16HD
+http://180.165.8.71:19999/[139]CCTV-16HD?cors
+#EXTINF:-1 ,CCTV-17
+http://180.165.8.71:19999/[066]CCTV-17?cors
+#EXTINF:-1 ,CCTV-17HD
+http://180.165.8.71:19999/[140]CCTV-17HD?cors
+#EXTINF:-1 ,安徽卫视
+http://180.165.8.71:19999/[211]安徽卫视?cors
+#EXTINF:-1 ,安徽卫视HD
+http://180.165.8.71:19999/[150]安徽卫视HD?cors
+#EXTINF:-1 ,北京卫视
+http://180.165.8.71:19999/[202]北京卫视?cors
+#EXTINF:-1 ,北京卫视HD
+http://180.165.8.71:19999/[144]北京卫视HD?cors
+#EXTINF:-1 ,兵团卫视
+http://180.165.8.71:19999/[233]兵团卫视?cors
+#EXTINF:-1 ,兵团卫视HD
+http://180.165.8.71:19999/[175]兵团卫视HD?cors
+#EXTINF:-1 ,重庆卫视
+http://180.165.8.71:19999/[228]重庆卫视?cors
+#EXTINF:-1 ,重庆卫视HD
+http://180.165.8.71:19999/[157]重庆卫视HD?cors
+#EXTINF:-1 ,东方卫视
+http://180.165.8.71:19999/[002]东方卫视?cors
+#EXTINF:-1 ,东方卫视HD
+http://180.165.8.71:19999/[101]东方卫视HD?cors
+#EXTINF:-1 ,东南卫视
+http://180.165.8.71:19999/[212]东南卫视?cors
+#EXTINF:-1 ,东南卫视HD
+http://180.165.8.71:19999/[151]东南卫视HD?cors
+#EXTINF:-1 ,甘肃卫视
+http://180.165.8.71:19999/[222]甘肃卫视?cors
+#EXTINF:-1 ,甘肃卫视HD
+http://180.165.8.71:19999/[168]甘肃卫视HD?cors
+#EXTINF:-1 ,广东卫视
+http://180.165.8.71:19999/[223]广东卫视?cors
+#EXTINF:-1 ,广东卫视HD
+http://180.165.8.71:19999/[145]广东卫视HD?cors
+#EXTINF:-1 ,广西卫视
+http://180.165.8.71:19999/[207]广西卫视?cors
+#EXTINF:-1 ,广西卫视HD
+http://180.165.8.71:19999/[165]广西卫视HD?cors
+#EXTINF:-1 ,贵州卫视
+http://180.165.8.71:19999/[229]贵州卫视?cors
+#EXTINF:-1 ,贵州卫视HD
+http://180.165.8.71:19999/[158]贵州卫视HD?cors
+#EXTINF:-1 ,海南卫视
+http://180.165.8.71:19999/[206]海南卫视?cors
+#EXTINF:-1 ,海南卫视HD
+http://180.165.8.71:19999/[159]海南卫视HD?cors
+#EXTINF:-1 ,河北卫视
+http://180.165.8.71:19999/[225]河北卫视?cors
+#EXTINF:-1 ,河北卫视HD
+http://180.165.8.71:19999/[160]河北卫视HD?cors
+#EXTINF:-1 ,河南卫视
+http://180.165.8.71:19999/[230]河南卫视?cors
+#EXTINF:-1 ,河南卫视HD
+http://180.165.8.71:19999/[163]河南卫视HD?cors
+#EXTINF:-1 ,黑龙江卫视
+http://180.165.8.71:19999/[224]黑龙江卫视?cors
+#EXTINF:-1 ,黑龙江卫视HD
+http://180.165.8.71:19999/[147]黑龙江卫视HD?cors
+#EXTINF:-1 ,湖北卫视
+http://180.165.8.71:19999/[227]湖北卫视?cors
+#EXTINF:-1 ,湖北卫视HD
+http://180.165.8.71:19999/[149]湖北卫视HD?cors
+#EXTINF:-1 ,湖南卫视
+http://180.165.8.71:19999/[203]湖南卫视?cors
+#EXTINF:-1 ,湖南卫视HD
+http://180.165.8.71:19999/[143]湖南卫视HD?cors
+#EXTINF:-1 ,吉林卫视
+http://180.165.8.71:19999/[216]吉林卫视?cors
+#EXTINF:-1 ,吉林卫视HD
+http://180.165.8.71:19999/[166]吉林卫视HD?cors
+#EXTINF:-1 ,江苏卫视
+http://180.165.8.71:19999/[204]江苏卫视?cors
+#EXTINF:-1 ,江苏卫视HD
+http://180.165.8.71:19999/[142]江苏卫视HD?cors
+#EXTINF:-1 ,江西卫视
+http://180.165.8.71:19999/[215]江西卫视?cors
+#EXTINF:-1 ,江西卫视HD
+http://180.165.8.71:19999/[152]江西卫视HD?cors
+#EXTINF:-1 ,辽宁卫视
+http://180.165.8.71:19999/[210]辽宁卫视?cors
+#EXTINF:-1 ,辽宁卫视HD
+http://180.165.8.71:19999/[153]辽宁卫视HD?cors
+#EXTINF:-1 ,内蒙古卫视
+http://180.165.8.71:19999/[226]内蒙古卫视?cors
+#EXTINF:-1 ,内蒙古卫视HD
+http://180.165.8.71:19999/[173]内蒙古卫视HD?cors
+#EXTINF:-1 ,宁夏卫视
+http://180.165.8.71:19999/[201]宁夏卫视?cors
+#EXTINF:-1 ,宁夏卫视HD
+http://180.165.8.71:19999/[178]宁夏卫视HD?cors
+#EXTINF:-1 ,青海卫视
+http://180.165.8.71:19999/[218]青海卫视?cors
+#EXTINF:-1 ,青海卫视HD
+http://180.165.8.71:19999/[170]青海卫视HD?cors
+#EXTINF:-1 ,三沙卫视
+http://180.165.8.71:19999/[234]三沙卫视?cors
+#EXTINF:-1 ,三沙卫视HD
+http://180.165.8.71:19999/[162]三沙卫视HD?cors
+#EXTINF:-1 ,山东卫视
+http://180.165.8.71:19999/[209]山东卫视?cors
+#EXTINF:-1 ,山东卫视HD
+http://180.165.8.71:19999/[148]山东卫视HD?cors
+#EXTINF:-1 ,山西卫视
+http://180.165.8.71:19999/[217]山西卫视?cors
+#EXTINF:-1 ,山西卫视HD
+http://180.165.8.71:19999/[172]山西卫视HD?cors
+#EXTINF:-1 ,陕西卫视
+http://180.165.8.71:19999/[220]陕西卫视?cors
+#EXTINF:-1 ,陕西卫视HD
+http://180.165.8.71:19999/[177]陕西卫视HD?cors
+#EXTINF:-1 ,深圳卫视
+http://180.165.8.71:19999/[231]深圳卫视?cors
+#EXTINF:-1 ,深圳卫视HD
+http://180.165.8.71:19999/[146]深圳卫视HD?cors
+#EXTINF:-1 ,四川卫视
+http://180.165.8.71:19999/[208]四川卫视?cors
+#EXTINF:-1 ,四川卫视HD
+http://180.165.8.71:19999/[156]四川卫视HD?cors
+#EXTINF:-1 ,天津卫视
+http://180.165.8.71:19999/[214]天津卫视?cors
+#EXTINF:-1 ,天津卫视HD
+http://180.165.8.71:19999/[154]天津卫视HD?cors
+#EXTINF:-1 ,西藏卫视
+http://180.165.8.71:19999/[219]西藏卫视?cors
+#EXTINF:-1 ,西藏卫视HD
+http://180.165.8.71:19999/[176]西藏卫视HD?cors
+#EXTINF:-1 ,新疆卫视
+http://180.165.8.71:19999/[232]新疆卫视?cors
+#EXTINF:-1 ,新疆卫视HD
+http://180.165.8.71:19999/[174]新疆卫视HD?cors
+#EXTINF:-1 ,延边卫视
+http://180.165.8.71:19999/[243]延边卫视?cors
+#EXTINF:-1 ,云南卫视
+http://180.165.8.71:19999/[221]云南卫视?cors
+#EXTINF:-1 ,云南卫视HD
+http://180.165.8.71:19999/[164]云南卫视HD?cors
+#EXTINF:-1 ,浙江卫视
+http://180.165.8.71:19999/[205]浙江卫视?cors
+#EXTINF:-1 ,浙江卫视HD
+http://180.165.8.71:19999/[141]浙江卫视HD?cors
+#EXTINF:-1 ,CCTV-文化精品HD
+http://180.165.8.71:19999/[091]CCTV-CCTV 文化精品HD?cors
+#EXTINF:-1 ,CCTV-兵器科技HD
+http://180.165.8.71:19999/[081]CCTV-兵器科技HD?cors
+#EXTINF:-1 ,CCTV-第一剧场HD
+http://180.165.8.71:19999/[089]CCTV-第一剧场HD?cors
+#EXTINF:-1 ,CCTV-风云剧场HD
+http://180.165.8.71:19999/[088]CCTV-风云剧场HD?cors
+#EXTINF:-1 ,CCTV-风云音乐HD
+http://180.165.8.71:19999/[090]CCTV-风云音乐HD?cors
+#EXTINF:-1 ,CCTV-风云足球HD
+http://180.165.8.71:19999/[079]CCTV-风云足球HD?cors
+#EXTINF:-1 ,CCTV-高尔夫网球HD
+http://180.165.8.71:19999/[086]CCTV-高尔夫网球HD?cors
+#EXTINF:-1 ,CCTV-怀旧剧场HD
+http://180.165.8.71:19999/[087]CCTV-怀旧剧场HD?cors
+#EXTINF:-1 ,CCTV-女性时尚HD
+http://180.165.8.71:19999/[085]CCTV-女性时尚HD?cors
+#EXTINF:-1 ,CCTV-世界地理HD
+http://180.165.8.71:19999/[082]CCTV-世界地理HD?cors
+#EXTINF:-1 ,CCTV-台球HD
+http://180.165.8.71:19999/[080]CCTV-台球HD?cors
 
 
 #EXTINF:-1 ,CCTV1_北京联通的组播源
@@ -1285,80 +1511,6 @@ http://111.4.82.49:8008/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.4.82.49:8008/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,浙江卫视
 http://111.4.82.49:8008/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-#EXTINF:-1 ,CCTV1_山东移动的酒店源
-http://223.78.65.165:9901/tsfile/live/0001_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV2
-http://223.78.65.165:9901/tsfile/live/0002_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV3
-http://223.78.65.165:9901/tsfile/live/0003_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV4
-http://223.78.65.165:9901/tsfile/live/0004_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV5
-http://223.78.65.165:9901/tsfile/live/0005_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV5+
-http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV6
-http://223.78.65.165:9901/tsfile/live/0007_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV7
-http://223.78.65.165:9901/tsfile/live/0008_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV8
-http://223.78.65.165:9901/tsfile/live/0009_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV9
-http://223.78.65.165:9901/tsfile/live/0010_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV10
-http://223.78.65.165:9901/tsfile/live/0011_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV11
-http://223.78.65.165:9901/tsfile/live/0012_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV12
-http://223.78.65.165:9901/tsfile/live/0013_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV13
-http://223.78.65.165:9901/tsfile/live/0014_1.m3u8?key=txiptv
-#EXTINF:-1 ,安徽卫视
-http://223.78.65.165:9901/tsfile/live/0130_1.m3u8?key=txiptv
-#EXTINF:-1 ,东方卫视
-http://223.78.65.165:9901/tsfile/live/1001_1.m3u8?key=txiptv
-#EXTINF:-1 ,东南卫视
-http://223.78.65.165:9901/tsfile/live/0137_1.m3u8?key=txiptv
-#EXTINF:-1 ,广东卫视
-http://223.78.65.165:9901/tsfile/live/0125_1.m3u8?key=txiptv
-#EXTINF:-1 ,广西卫视
-http://223.78.65.165:9901/tsfile/live/0113_1.m3u8?key=txiptv
-#EXTINF:-1 ,贵州卫视
-http://223.78.65.165:9901/tsfile/live/0120_1.m3u8?key=txiptv
-#EXTINF:-1 ,河北卫视
-http://223.78.65.165:9901/tsfile/live/0117_1.m3u8?key=txiptv
-#EXTINF:-1 ,河南卫视
-http://223.78.65.165:9901/tsfile/live/0139_1.m3u8?key=txiptv
-#EXTINF:-1 ,黑龙江卫视
-http://223.78.65.165:9901/tsfile/live/0143_1.m3u8?key=txiptv
-#EXTINF:-1 ,湖北卫视
-http://223.78.65.165:9901/tsfile/live/0132_1.m3u8?key=txiptv
-#EXTINF:-1 ,湖南卫视
-http://223.78.65.165:9901/tsfile/live/0016_1.m3u8?key=txiptv
-#EXTINF:-1 ,江苏卫视
-http://223.78.65.165:9901/tsfile/live/0017_1.m3u8?key=txiptv
-#EXTINF:-1 ,辽宁卫视
-http://223.78.65.165:9901/tsfile/live/0121_1.m3u8?key=txiptv
-#EXTINF:-1 ,内蒙古卫视
-http://223.78.65.165:9901/tsfile/live/0109_1.m3u8?key=txiptv
-#EXTINF:-1 ,宁夏卫视
-http://223.78.65.165:9901/tsfile/live/0112_1.m3u8?key=txiptv
-#EXTINF:-1 ,山东卫视
-http://223.78.65.165:9901/tsfile/live/0131_1.m3u8?key=txiptv
-#EXTINF:-1 ,山西卫视
-http://223.78.65.165:9901/tsfile/live/0118_1.m3u8?key=txiptv
-#EXTINF:-1 ,陕西卫视
-http://223.78.65.165:9901/tsfile/live/0136_1.m3u8?key=txiptv
-#EXTINF:-1 ,深圳卫视
-http://223.78.65.165:9901/tsfile/live/0019_1.m3u8?key=txiptv
-#EXTINF:-1 ,天津卫视
-http://223.78.65.165:9901/tsfile/live/0135_1.m3u8?key=txiptv
-#EXTINF:-1 ,云南卫视
-http://223.78.65.165:9901/tsfile/live/0119_1.m3u8?key=txiptv
-#EXTINF:-1 ,浙江卫视
-http://223.78.65.165:9901/tsfile/live/0018_1.m3u8?key=txiptv
 
 
 #EXTINF:-1 ,CCTV1_湖南移动的酒店源

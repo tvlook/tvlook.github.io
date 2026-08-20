@@ -968,101 +968,101 @@ http://www.taoli.website:23234/rtp/239.3.1.137:8036
 
 
 #EXTINF:-1 ,CCTV1_北京电信的组播源
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.1:8008
+http://miaogonho.myds.me:8899/udp/225.1.8.1:8008
 #EXTINF:-1 ,CCTV2
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.2:8084
+http://miaogonho.myds.me:8899/udp/225.1.8.2:8084
 #EXTINF:-1 ,CCTV3
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.88:8000
+http://miaogonho.myds.me:8899/udp/225.1.8.88:8000
 #EXTINF:-1 ,CCTV4
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.4:8092
+http://miaogonho.myds.me:8899/udp/225.1.8.4:8092
 #EXTINF:-1 ,CCTV5
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.89:8000
+http://miaogonho.myds.me:8899/udp/225.1.8.89:8000
 #EXTINF:-1 ,CCTV5+
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.20:8004
+http://miaogonho.myds.me:8899/udp/225.1.8.20:8004
 #EXTINF:-1 ,CCTV6
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.84:8000
+http://miaogonho.myds.me:8899/udp/225.1.8.84:8000
 #EXTINF:-1 ,CCTV7
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.7:8104
+http://miaogonho.myds.me:8899/udp/225.1.8.7:8104
 #EXTINF:-1 ,CCTV8
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.85:8000
+http://miaogonho.myds.me:8899/udp/225.1.8.85:8000
 #EXTINF:-1 ,CCTV9
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.9:8112
+http://miaogonho.myds.me:8899/udp/225.1.8.9:8112
 #EXTINF:-1 ,CCTV10
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.10:8116
+http://miaogonho.myds.me:8899/udp/225.1.8.10:8116
 #EXTINF:-1 ,CCTV11
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.73:8120
+http://miaogonho.myds.me:8899/udp/225.1.8.73:8120
 #EXTINF:-1 ,CCTV12
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.12:8124
+http://miaogonho.myds.me:8899/udp/225.1.8.12:8124
 #EXTINF:-1 ,CCTV13
-http://4px369674fn3.vicp.fun:7088/udp/225.1.1.10:8128
+http://miaogonho.myds.me:8899/udp/225.1.1.10:8128
 #EXTINF:-1 ,CCTV13
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.168:8130
+http://miaogonho.myds.me:8899/udp/225.1.8.168:8130
 #EXTINF:-1 ,CCTV14
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.14:8132
+http://miaogonho.myds.me:8899/udp/225.1.8.14:8132
 #EXTINF:-1 ,CCTV15
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.74:8136
+http://miaogonho.myds.me:8899/udp/225.1.8.74:8136
 #EXTINF:-1 ,CCTV16
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.189:8002
+http://miaogonho.myds.me:8899/udp/225.1.8.189:8002
 #EXTINF:-1 ,CCTV17
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.17:8144
+http://miaogonho.myds.me:8899/udp/225.1.8.17:8144
 #EXTINF:-1 ,安徽卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.52:8064
+http://miaogonho.myds.me:8899/udp/225.1.8.52:8064
 #EXTINF:-1 ,北京卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.21:8002
+http://miaogonho.myds.me:8899/udp/225.1.8.21:8002
 #EXTINF:-1 ,重庆卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.172:8162
+http://miaogonho.myds.me:8899/udp/225.1.8.172:8162
 #EXTINF:-1 ,东方卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.45:8032
+http://miaogonho.myds.me:8899/udp/225.1.8.45:8032
 #EXTINF:-1 ,东南卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.79:8148
+http://miaogonho.myds.me:8899/udp/225.1.8.79:8148
 #EXTINF:-1 ,广东卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.49:8048
+http://miaogonho.myds.me:8899/udp/225.1.8.49:8048
 #EXTINF:-1 ,广西卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.152:8300
+http://miaogonho.myds.me:8899/udp/225.1.8.152:8300
 #EXTINF:-1 ,贵州卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.77:8076
+http://miaogonho.myds.me:8899/udp/225.1.8.77:8076
 #EXTINF:-1 ,海南卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.158:8304
+http://miaogonho.myds.me:8899/udp/225.1.8.158:8304
 #EXTINF:-1 ,河南卫视
 http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 ,河北卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.76:8002
+http://miaogonho.myds.me:8899/udp/225.1.8.76:8002
 #EXTINF:-1 ,黑龙江卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.42:8016
+http://miaogonho.myds.me:8899/udp/225.1.8.42:8016
 #EXTINF:-1 ,湖北卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.47:8044
+http://miaogonho.myds.me:8899/udp/225.1.8.47:8044
 #EXTINF:-1 ,湖南卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.41:8012
+http://miaogonho.myds.me:8899/udp/225.1.8.41:8012
 #EXTINF:-1 ,江苏卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.44:8028
+http://miaogonho.myds.me:8899/udp/225.1.8.44:8028
 #EXTINF:-1 ,江西卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.171:8166
+http://miaogonho.myds.me:8899/udp/225.1.8.171:8166
 #EXTINF:-1 ,辽宁卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.51:8056
+http://miaogonho.myds.me:8899/udp/225.1.8.51:8056
 #EXTINF:-1 ,内蒙古卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.156:8176
+http://miaogonho.myds.me:8899/udp/225.1.8.156:8176
 #EXTINF:-1 ,青海卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.157:8184
+http://miaogonho.myds.me:8899/udp/225.1.8.157:8184
 #EXTINF:-1 ,三沙卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.78:4120
+http://miaogonho.myds.me:8899/udp/225.1.8.78:4120
 #EXTINF:-1 ,厦门卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.166:4120
+http://miaogonho.myds.me:8899/udp/225.1.8.166:4120
 #EXTINF:-1 ,山东卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.50:8052
+http://miaogonho.myds.me:8899/udp/225.1.8.50:8052
 #EXTINF:-1 ,山西卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.155:8172
+http://miaogonho.myds.me:8899/udp/225.1.8.155:8172
 #EXTINF:-1 ,陕西卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.154:8140
+http://miaogonho.myds.me:8899/udp/225.1.8.154:8140
 #EXTINF:-1 ,深圳卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.43:8020
+http://miaogonho.myds.me:8899/udp/225.1.8.43:8020
 #EXTINF:-1 ,四川卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.142:8288
+http://miaogonho.myds.me:8899/udp/225.1.8.142:8288
 #EXTINF:-1 ,天津卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.48:8044
+http://miaogonho.myds.me:8899/udp/225.1.8.48:8044
 #EXTINF:-1 ,云南卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.139:8108
+http://miaogonho.myds.me:8899/udp/225.1.8.139:8108
 #EXTINF:-1 ,浙江卫视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.46:8036
+http://miaogonho.myds.me:8899/udp/225.1.8.46:8036
 
 
 #EXTINF:-1 ,CCTV1_山东电信的组播源

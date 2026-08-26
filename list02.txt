@@ -239,6 +239,128 @@ http://101.wifi98.com:9001/rtp/232.0.0.97:1234
 http://101.wifi98.com:9009/rtp/232.0.0.97:1234
 
 
+#EXTINF:-1 ,CCTV1_辽宁联通的IPTV源
+http://dl.it-web.cn:8188/rtp/232.0.0.27:8808
+#EXTINF:-1 ,CCTV2
+http://dl.it-web.cn:8188/rtp/232.0.0.132:9144
+#EXTINF:-1 ,CCTV3
+http://dl.it-web.cn:8188/rtp/232.0.0.198:9214
+#EXTINF:-1 ,CCTV4
+http://dl.it-web.cn:8188/rtp/232.0.0.148:9142
+#EXTINF:-1 ,CCTV5
+http://dl.it-web.cn:8188/rtp/232.0.0.196:9210
+#EXTINF:-1 ,CCTV5+
+http://dl.it-web.cn:8188/rtp/232.0.0.93:8750
+#EXTINF:-1 ,CCTV6
+http://dl.it-web.cn:8188/rtp/232.0.0.194:9206
+#EXTINF:-1 ,CCTV7
+http://dl.it-web.cn:8188/rtp/232.0.0.133:9146
+#EXTINF:-1 ,CCTV8
+http://dl.it-web.cn:8188/rtp/232.0.0.28:8710
+#EXTINF:-1 ,CCTV9
+http://dl.it-web.cn:8188/rtp/232.0.0.134:9148
+#EXTINF:-1 ,CCTV10
+http://dl.it-web.cn:8188/rtp/232.0.0.135:9150
+#EXTINF:-1 ,CCTV12
+http://dl.it-web.cn:8188/rtp/232.0.0.136:9152
+#EXTINF:-1 ,CCTV13
+http://dl.it-web.cn:8188/rtp/232.0.0.146:9112
+#EXTINF:-1 ,CCTV17
+http://dl.it-web.cn:8188/rtp/232.0.0.63:8686
+#EXTINF:-1 ,安徽卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.138:9156
+#EXTINF:-1 ,北京卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.113:8602
+#EXTINF:-1 ,北京卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.117:8860
+#EXTINF:-1 ,兵团卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.67:8640
+#EXTINF:-1 ,重庆卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.209:9236
+#EXTINF:-1 ,东方卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.128:9100
+#EXTINF:-1 ,东南卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.74:8578
+#EXTINF:-1 ,甘肃卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.50:8642
+#EXTINF:-1 ,广东卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.160:9120
+#EXTINF:-1 ,广西卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.76:8582
+#EXTINF:-1 ,贵州卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.87:8584
+#EXTINF:-1 ,海南卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.195:9208
+#EXTINF:-1 ,河北卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.49:8500
+#EXTINF:-1 ,河南卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.80:8570
+#EXTINF:-1 ,黑龙江卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.95:8866
+#EXTINF:-1 ,湖北卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.130:9104
+#EXTINF:-1 ,湖南卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.115:8864
+#EXTINF:-1 ,吉林卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.84:8574
+#EXTINF:-1 ,江苏卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.116:8862
+#EXTINF:-1 ,江西卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.82:8564
+#EXTINF:-1 ,辽宁卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.144:9108
+#EXTINF:-1 ,内蒙古卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.111:8718
+#EXTINF:-1 ,宁夏卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.34:8644
+#EXTINF:-1 ,青海卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.101:8588
+#EXTINF:-1 ,厦门卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.183:9184
+#EXTINF:-1 ,山东卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.161:9122
+#EXTINF:-1 ,山西卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.86:8558
+#EXTINF:-1 ,陕西卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.35:8590
+#EXTINF:-1 ,深圳卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.110:8868
+#EXTINF:-1 ,四川卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.208:9234
+#EXTINF:-1 ,天津卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.131:9106
+#EXTINF:-1 ,西藏卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.114:8844
+#EXTINF:-1 ,新疆卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.18:8722
+#EXTINF:-1 ,云南卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.40:8598
+#EXTINF:-1 ,浙江卫视
+http://dl.it-web.cn:8188/rtp/232.0.0.129:9102
+#EXTINF:-1 ,CCTV风云音乐
+http://dl.it-web.cn:8188/rtp/232.0.0.108:9288
+#EXTINF:-1 ,CCTV世界地理
+http://dl.it-web.cn:8188/rtp/232.0.0.123:9292
+#EXTINF:-1 ,CCTV第一剧场
+http://dl.it-web.cn:8188/rtp/232.0.0.147:9132
+#EXTINF:-1 ,CHC家庭剧场
+http://dl.it-web.cn:8188/rtp/232.0.0.177:9172
+#EXTINF:-1 ,CCTV风云剧场
+http://dl.it-web.cn:8188/rtp/232.0.0.52:8610
+#EXTINF:-1 ,CCTV央视精品
+http://dl.it-web.cn:8188/rtp/232.0.0.107:8698
+#EXTINF:-1 ,CCTV兵器科技
+http://dl.it-web.cn:8188/rtp/232.0.0.121:8882
+#EXTINF:-1 ,CCTV风云足球
+http://dl.it-web.cn:8188/rtp/232.0.0.90:9286
+#EXTINF:-1 ,CCTV怀旧剧场
+http://dl.it-web.cn:8188/rtp/232.0.0.204:9226
+#EXTINF:-1 ,CCTV女性时尚
+http://dl.it-web.cn:8188/rtp/232.0.0.120:8858
+#EXTINF:-1 ,CCTV央视台球
+http://dl.it-web.cn:8188/rtp/232.0.0.122:9290
+
+
 #EXTINF:-1 ,CCTV1_辽宁联通的组播源
 http://101.wifi98.com:9005/rtp/232.0.0.27:1234
 #EXTINF:-1 ,CCTV1
@@ -669,6 +791,112 @@ http://58.217.52.46:9900/卫视/云南卫视?cors
 http://58.217.52.46:9900/卫视/浙江卫视?cors
 
 
+#EXTINF:-1 ,CCTV1_江苏电信新组播源3
+http://180.105.201.174:9981/央视/CCTV1?cors
+#EXTINF:-1 ,CCTV2
+http://180.105.201.174:9981/央视/CCTV2?cors
+#EXTINF:-1 ,CCTV3
+http://180.105.201.174:9981/央视/CCTV3?cors
+#EXTINF:-1 ,CCTV4
+http://180.105.201.174:9981/央视/CCTV4?cors
+#EXTINF:-1 ,CCTV5
+http://180.105.201.174:9981/央视/CCTV5?cors
+#EXTINF:-1 ,CCTV5+
+http://180.105.201.174:9981/央视/CCTV5+?cors
+#EXTINF:-1 ,CCTV6
+http://180.105.201.174:9981/央视/CCTV6?cors
+#EXTINF:-1 ,CCTV7
+http://180.105.201.174:9981/央视/CCTV7?cors
+#EXTINF:-1 ,CCTV8
+http://180.105.201.174:9981/央视/CCTV8?cors
+#EXTINF:-1 ,CCTV9
+http://180.105.201.174:9981/央视/CCTV9?cors
+#EXTINF:-1 ,CCTV10
+http://180.105.201.174:9981/央视/CCTV10?cors
+#EXTINF:-1 ,CCTV11
+http://180.105.201.174:9981/央视/CCTV11?cors
+#EXTINF:-1 ,CCTV12
+http://180.105.201.174:9981/央视/CCTV12?cors
+#EXTINF:-1 ,CCTV13
+http://180.105.201.174:9981/央视/CCTV13?cors
+#EXTINF:-1 ,CCTV14
+http://180.105.201.174:9981/央视/CCTV14?cors
+#EXTINF:-1 ,CCTV15
+http://180.105.201.174:9981/央视/CCTV15?cors
+#EXTINF:-1 ,CCTV16
+http://180.105.201.174:9981/央视/CCTV16?cors
+#EXTINF:-1 ,CCTV17
+http://180.105.201.174:9981/央视/CCTV17?cors
+#EXTINF:-1 ,安徽卫视
+http://180.105.201.174:9981/卫视/安徽卫视?cors
+#EXTINF:-1 ,北京卫视
+http://180.105.201.174:9981/卫视/北京卫视?cors
+#EXTINF:-1 ,兵团卫视
+http://180.105.201.174:9981/卫视/兵团卫视?cors
+#EXTINF:-1 ,重庆卫视
+http://180.105.201.174:9981/卫视/重庆卫视?cors
+#EXTINF:-1 ,东方卫视
+http://180.105.201.174:9981/卫视/东方卫视?cors
+#EXTINF:-1 ,东南卫视
+http://180.105.201.174:9981/卫视/东南卫视?cors
+#EXTINF:-1 ,甘肃卫视
+http://180.105.201.174:9981/卫视/甘肃卫视?cors
+#EXTINF:-1 ,广东卫视
+http://180.105.201.174:9981/卫视/广东卫视?cors
+#EXTINF:-1 ,广西卫视
+http://180.105.201.174:9981/卫视/广西卫视?cors
+#EXTINF:-1 ,贵州卫视
+http://180.105.201.174:9981/卫视/贵州卫视?cors
+#EXTINF:-1 ,海南卫视
+http://180.105.201.174:9981/卫视/海南卫视?cors
+#EXTINF:-1 ,河北卫视
+http://180.105.201.174:9981/卫视/河北卫视?cors
+#EXTINF:-1 ,河南卫视
+http://180.105.201.174:9981/卫视/河南卫视?cors
+#EXTINF:-1 ,黑龙江卫视
+http://180.105.201.174:9981/卫视/黑龙江卫视?cors
+#EXTINF:-1 ,湖北卫视
+http://180.105.201.174:9981/卫视/湖北卫视?cors
+#EXTINF:-1 ,湖南卫视
+http://180.105.201.174:9981/卫视/湖南卫视?cors
+#EXTINF:-1 ,吉林卫视
+http://180.105.201.174:9981/卫视/吉林卫视?cors
+#EXTINF:-1 ,江苏卫视
+http://180.105.201.174:9981/卫视/江苏卫视?cors
+#EXTINF:-1 ,江西卫视
+http://180.105.201.174:9981/卫视/江西卫视?cors
+#EXTINF:-1 ,辽宁卫视
+http://180.105.201.174:9981/卫视/辽宁卫视?cors
+#EXTINF:-1 ,内蒙古卫视
+http://180.105.201.174:9981/卫视/内蒙古卫视?cors
+#EXTINF:-1 ,宁夏卫视
+http://180.105.201.174:9981/卫视/宁夏卫视?cors
+#EXTINF:-1 ,青海卫视
+http://180.105.201.174:9981/卫视/青海卫视?cors
+#EXTINF:-1 ,三沙卫视
+http://180.105.201.174:9981/卫视/三沙卫视?cors
+#EXTINF:-1 ,山东卫视
+http://180.105.201.174:9981/卫视/山东卫视?cors
+#EXTINF:-1 ,山西卫视
+http://180.105.201.174:9981/卫视/山西卫视?cors
+#EXTINF:-1 ,陕西卫视
+http://180.105.201.174:9981/卫视/陕西卫视?cors
+#EXTINF:-1 ,深圳卫视
+http://180.105.201.174:9981/卫视/深圳卫视?cors
+#EXTINF:-1 ,四川卫视
+http://180.105.201.174:9981/卫视/四川卫视?cors
+#EXTINF:-1 ,天津卫视
+http://180.105.201.174:9981/卫视/天津卫视?cors
+#EXTINF:-1 ,西藏卫视
+http://180.105.201.174:9981/卫视/西藏卫视?cors
+#EXTINF:-1 ,新疆卫视
+http://180.105.201.174:9981/卫视/新疆卫视?cors
+#EXTINF:-1 ,云南卫视
+http://180.105.201.174:9981/卫视/云南卫视?cors
+#EXTINF:-1 ,浙江卫视
+http://180.105.201.174:9981/卫视/浙江卫视?cors
+
+
 #EXTINF:-1 ,CCTV1_上海联通新组播源
 http://139.227.106.130:19999/央视/CCTV-1HD?cors
 #EXTINF:-1 ,CCTV2
@@ -1093,112 +1321,6 @@ http://4px369674fn3.vicp.fun:7088/udp/225.1.8.139:8108
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.46:8036
 
 
-#EXTINF:-1 ,CCTV1_山东电信的组播源
-http://113.120.108.105:4000/rtp/239.21.1.120:5002
-#EXTINF:-1 ,CCTV2
-http://113.120.108.105:4000/rtp/239.21.1.151:5002
-#EXTINF:-1 ,CCTV3
-http://113.120.108.105:4000/rtp/239.21.2.45:5002
-#EXTINF:-1 ,CCTV4
-http://113.120.108.105:4000/rtp/239.21.1.154:5002
-#EXTINF:-1 ,CCTV4欧洲
-http://113.120.108.105:4000/rtp/239.21.2.28:5002
-#EXTINF:-1 ,CCTV4美洲
-http://113.120.108.105:4000/rtp/239.21.2.29:5002
-#EXTINF:-1 ,CCTV5
-http://113.120.108.105:4000/rtp/239.21.2.46:5002
-#EXTINF:-1 ,CCTV5+
-http://113.120.108.105:4000/rtp/239.21.1.142:5002
-#EXTINF:-1 ,CCTV6
-http://113.120.108.105:4000/rtp/239.21.2.47:5002
-#EXTINF:-1 ,CCTV7
-http://113.120.108.105:4000/rtp/239.21.1.152:5002
-#EXTINF:-1 ,CCTV8
-http://113.120.108.105:4000/rtp/239.21.2.48:5002
-#EXTINF:-1 ,CCTV9
-http://113.120.108.105:4000/rtp/239.21.1.153:5002
-#EXTINF:-1 ,CCTV10
-http://113.120.108.105:4000/rtp/239.21.1.155:5002
-#EXTINF:-1 ,CCTV11
-http://113.120.108.105:4000/rtp/239.21.2.2:5002
-#EXTINF:-1 ,CCTV12
-http://113.120.108.105:4000/rtp/239.21.1.156:5002
-#EXTINF:-1 ,CCTV13
-http://113.120.108.105:4000/rtp/239.21.2.3:5002
-#EXTINF:-1 ,CCTV14
-http://113.120.108.105:4000/rtp/239.21.1.157:5002
-#EXTINF:-1 ,CCTV17
-http://113.120.108.105:4000/rtp/239.21.1.186:5002
-#EXTINF:-1 ,安徽卫视
-http://113.120.108.105:4000/rtp/239.21.1.159:5002
-#EXTINF:-1 ,北京卫视
-http://113.120.108.105:4000/rtp/239.21.1.88:5002
-#EXTINF:-1 ,兵团卫视
-http://113.120.108.105:4000/rtp/239.21.1.234:5002
-#EXTINF:-1 ,重庆卫视
-http://113.120.108.105:4000/rtp/239.21.1.233:5002
-#EXTINF:-1 ,东方卫视
-http://113.120.108.105:4000/rtp/239.21.1.111:5002
-#EXTINF:-1 ,东南卫视
-http://113.120.108.105:4000/rtp/239.21.1.113:5002
-#EXTINF:-1 ,甘肃卫视
-http://113.120.108.105:4000/rtp/239.21.2.22:5002
-#EXTINF:-1 ,广东卫视
-http://113.120.108.105:4000/rtp/239.21.1.92:5002
-#EXTINF:-1 ,广西卫视
-http://113.120.108.105:4000/rtp/239.21.2.87:5002
-#EXTINF:-1 ,贵州卫视
-http://113.120.108.105:4000/rtp/239.21.1.166:5002
-#EXTINF:-1 ,河北卫视
-http://113.120.108.105:4000/rtp/239.21.1.168:5002
-#EXTINF:-1 ,河南卫视
-http://113.120.108.105:4000/rtp/239.21.2.37:5002
-#EXTINF:-1 ,黑龙江卫视
-http://113.120.108.105:4000/rtp/239.21.1.91:5002
-#EXTINF:-1 ,湖北卫视
-http://113.120.108.105:4000/rtp/239.21.1.163:5002
-#EXTINF:-1 ,湖南卫视
-http://113.120.108.105:4000/rtp/239.21.1.158:5002
-#EXTINF:-1 ,吉林卫视
-http://113.120.108.105:4000/rtp/239.21.2.49:5002
-#EXTINF:-1 ,江苏卫视
-http://113.120.108.105:4000/rtp/239.21.1.89:5002
-#EXTINF:-1 ,江西卫视
-http://113.120.108.105:4000/rtp/239.21.1.167:5002
-#EXTINF:-1 ,辽宁卫视
-http://113.120.108.105:4000/rtp/239.21.1.164:5002
-#EXTINF:-1 ,内蒙古卫视
-http://113.120.108.105:4000/rtp/239.21.1.41:5002
-#EXTINF:-1 ,宁夏卫视
-http://113.120.108.105:4000/rtp/239.21.1.44:5002
-#EXTINF:-1 ,青海卫视
-http://113.120.108.105:4000/rtp/239.21.2.51:5002
-#EXTINF:-1 ,三沙卫视
-http://113.120.108.105:4000/rtp/239.21.2.9:5002
-#EXTINF:-1 ,厦门卫视
-http://113.120.108.105:4000/rtp/239.21.2.6:5002
-#EXTINF:-1 ,山东卫视
-http://113.120.108.105:4000/rtp/239.21.1.87:5002
-#EXTINF:-1 ,山西卫视
-http://113.120.108.105:4000/rtp/239.21.1.33:5002
-#EXTINF:-1 ,陕西卫视
-http://113.120.108.105:4000/rtp/239.21.1.30:5002
-#EXTINF:-1 ,深圳卫视
-http://113.120.108.105:4000/rtp/239.21.1.93:5002
-#EXTINF:-1 ,四川卫视
-http://113.120.108.105:4000/rtp/239.21.2.15:5002
-#EXTINF:-1 ,天津卫视
-http://113.120.108.105:4000/rtp/239.21.1.165:5002
-#EXTINF:-1 ,西藏卫视
-http://113.120.108.105:4000/rtp/239.21.1.46:5002
-#EXTINF:-1 ,新疆卫视
-http://113.120.108.105:4000/rtp/239.21.1.45:5002
-#EXTINF:-1 ,云南卫视
-http://113.120.108.105:4000/rtp/239.21.2.86:5002
-#EXTINF:-1 ,浙江卫视
-http://113.120.108.105:4000/rtp/239.21.1.90:5002
-
-
 #EXTINF:-1 ,CCTV1_天津查找的电视源
 http://cc2022.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=007
 #EXTINF:-1 ,CCTV2
@@ -1373,128 +1495,6 @@ http://shuangyashan.coccc.online:65000/tsfile/live/0110_1.m3u8?key=txiptv&playli
 http://shuangyashan.coccc.online:65000/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,浙江卫视
 http://shuangyashan.coccc.online:65000/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-#EXTINF:-1 ,CCTV1_辽宁联通的IPTV源
-http://dl.it-web.cn:8188/rtp/232.0.0.27:8808
-#EXTINF:-1 ,CCTV2
-http://dl.it-web.cn:8188/rtp/232.0.0.132:9144
-#EXTINF:-1 ,CCTV3
-http://dl.it-web.cn:8188/rtp/232.0.0.198:9214
-#EXTINF:-1 ,CCTV4
-http://dl.it-web.cn:8188/rtp/232.0.0.148:9142
-#EXTINF:-1 ,CCTV5
-http://dl.it-web.cn:8188/rtp/232.0.0.196:9210
-#EXTINF:-1 ,CCTV5+
-http://dl.it-web.cn:8188/rtp/232.0.0.93:8750
-#EXTINF:-1 ,CCTV6
-http://dl.it-web.cn:8188/rtp/232.0.0.194:9206
-#EXTINF:-1 ,CCTV7
-http://dl.it-web.cn:8188/rtp/232.0.0.133:9146
-#EXTINF:-1 ,CCTV8
-http://dl.it-web.cn:8188/rtp/232.0.0.28:8710
-#EXTINF:-1 ,CCTV9
-http://dl.it-web.cn:8188/rtp/232.0.0.134:9148
-#EXTINF:-1 ,CCTV10
-http://dl.it-web.cn:8188/rtp/232.0.0.135:9150
-#EXTINF:-1 ,CCTV12
-http://dl.it-web.cn:8188/rtp/232.0.0.136:9152
-#EXTINF:-1 ,CCTV13
-http://dl.it-web.cn:8188/rtp/232.0.0.146:9112
-#EXTINF:-1 ,CCTV17
-http://dl.it-web.cn:8188/rtp/232.0.0.63:8686
-#EXTINF:-1 ,安徽卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.138:9156
-#EXTINF:-1 ,北京卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.113:8602
-#EXTINF:-1 ,北京卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.117:8860
-#EXTINF:-1 ,兵团卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.67:8640
-#EXTINF:-1 ,重庆卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.209:9236
-#EXTINF:-1 ,东方卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.128:9100
-#EXTINF:-1 ,东南卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.74:8578
-#EXTINF:-1 ,甘肃卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.50:8642
-#EXTINF:-1 ,广东卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.160:9120
-#EXTINF:-1 ,广西卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.76:8582
-#EXTINF:-1 ,贵州卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.87:8584
-#EXTINF:-1 ,海南卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.195:9208
-#EXTINF:-1 ,河北卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.49:8500
-#EXTINF:-1 ,河南卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.80:8570
-#EXTINF:-1 ,黑龙江卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.95:8866
-#EXTINF:-1 ,湖北卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.130:9104
-#EXTINF:-1 ,湖南卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.115:8864
-#EXTINF:-1 ,吉林卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.84:8574
-#EXTINF:-1 ,江苏卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.116:8862
-#EXTINF:-1 ,江西卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.82:8564
-#EXTINF:-1 ,辽宁卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.144:9108
-#EXTINF:-1 ,内蒙古卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.111:8718
-#EXTINF:-1 ,宁夏卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.34:8644
-#EXTINF:-1 ,青海卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.101:8588
-#EXTINF:-1 ,厦门卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.183:9184
-#EXTINF:-1 ,山东卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.161:9122
-#EXTINF:-1 ,山西卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.86:8558
-#EXTINF:-1 ,陕西卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.35:8590
-#EXTINF:-1 ,深圳卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.110:8868
-#EXTINF:-1 ,四川卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.208:9234
-#EXTINF:-1 ,天津卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.131:9106
-#EXTINF:-1 ,西藏卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.114:8844
-#EXTINF:-1 ,新疆卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.18:8722
-#EXTINF:-1 ,云南卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.40:8598
-#EXTINF:-1 ,浙江卫视
-http://dl.it-web.cn:8188/rtp/232.0.0.129:9102
-#EXTINF:-1 ,CCTV风云音乐
-http://dl.it-web.cn:8188/rtp/232.0.0.108:9288
-#EXTINF:-1 ,CCTV世界地理
-http://dl.it-web.cn:8188/rtp/232.0.0.123:9292
-#EXTINF:-1 ,CCTV第一剧场
-http://dl.it-web.cn:8188/rtp/232.0.0.147:9132
-#EXTINF:-1 ,CHC家庭剧场
-http://dl.it-web.cn:8188/rtp/232.0.0.177:9172
-#EXTINF:-1 ,CCTV风云剧场
-http://dl.it-web.cn:8188/rtp/232.0.0.52:8610
-#EXTINF:-1 ,CCTV央视精品
-http://dl.it-web.cn:8188/rtp/232.0.0.107:8698
-#EXTINF:-1 ,CCTV兵器科技
-http://dl.it-web.cn:8188/rtp/232.0.0.121:8882
-#EXTINF:-1 ,CCTV风云足球
-http://dl.it-web.cn:8188/rtp/232.0.0.90:9286
-#EXTINF:-1 ,CCTV怀旧剧场
-http://dl.it-web.cn:8188/rtp/232.0.0.204:9226
-#EXTINF:-1 ,CCTV女性时尚
-http://dl.it-web.cn:8188/rtp/232.0.0.120:8858
-#EXTINF:-1 ,CCTV央视台球
-http://dl.it-web.cn:8188/rtp/232.0.0.122:9290
 
 
 #EXTINF:-1 ,CCTV1_广西移动的酒店源

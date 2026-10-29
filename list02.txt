@@ -989,130 +989,328 @@ http://111.4.82.49:8008/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.4.82.49:8008/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-#EXTINF:-1 ,CCTV1_Aceville Pte ltd 源
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
+#EXTINF:-1 ,CCTV1_湖南电信新组播源
+http://223.159.80.19:12122/央视频道/CCTV1高清?cors
 #EXTINF:-1 ,CCTV2
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
+http://223.159.80.19:12122/央视频道/CCTV2高清?cors
 #EXTINF:-1 ,CCTV3
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
+http://223.159.80.19:12122/央视频道/CCTV3高清?cors
 #EXTINF:-1 ,CCTV4
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2029797103.m3u8
+http://223.159.80.19:12122/央视频道/CCTV4高清?cors
 #EXTINF:-1 ,CCTV5
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
+http://223.159.80.19:12122/央视频道/CCTV5高清?cors
 #EXTINF:-1 ,CCTV5+
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
+http://223.159.80.19:12122/央视频道/CCTV5+高清?cors
+#EXTINF:-1 ,CCTV6
+http://223.159.80.19:12122/央视频道/CCTV6高清?cors
 #EXTINF:-1 ,CCTV7
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
+http://223.159.80.19:12122/央视频道/CCTV7高清?cors
 #EXTINF:-1 ,CCTV8
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2029793003.m3u8
+http://223.159.80.19:12122/央视频道/CCTV8高清?cors
 #EXTINF:-1 ,CCTV9
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
+http://223.159.80.19:12122/央视频道/CCTV9高清?cors
 #EXTINF:-1 ,CCTV10
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078703.m3u8
+http://223.159.80.19:12122/央视频道/CCTV10高清?cors
 #EXTINF:-1 ,CCTV11
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2027248703_dlna.m3u8
+http://223.159.80.19:12122/央视频道/CCTV11高清?cors
 #EXTINF:-1 ,CCTV12
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2027248803_dlna.m3u8
+http://223.159.80.19:12122/央视频道/CCTV12高清?cors
 #EXTINF:-1 ,CCTV13
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2025896003.m3u8
+http://223.159.80.19:12122/央视频道/CCTV13高清?cors
 #EXTINF:-1 ,CCTV14
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2027248903_dlna.m3u8
+http://223.159.80.19:12122/央视频道/CCTV14高清?cors
 #EXTINF:-1 ,CCTV15
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2027249003_dlna.m3u8
+http://223.159.80.19:12122/央视频道/CCTV15高清?cors
 #EXTINF:-1 ,CCTV16
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2027249102_dlna.m3u8
+http://223.159.80.19:12122/央视频道/CCTV16高清?cors
 #EXTINF:-1 ,CCTV17
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2027249403_dlna.m3u8
+http://223.159.80.19:12122/央视频道/CCTV17高清?cors
 #EXTINF:-1 ,安徽卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171403.m3u8
+http://223.159.80.19:12122/卫视频道/安徽卫视高清?cors
 #EXTINF:-1 ,北京卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024052703.m3u8
+http://223.159.80.19:12122/卫视频道/北京卫视高清?cors
+#EXTINF:-1 ,兵团卫视
+http://223.159.80.19:12122/卫视频道/兵团卫视高清?cors
 #EXTINF:-1 ,重庆卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061103.m3u8
+http://223.159.80.19:12122/卫视频道/重庆卫视高清?cors
 #EXTINF:-1 ,东方卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024054503.m3u8
+http://223.159.80.19:12122/卫视频道/东方卫视高清?cors
 #EXTINF:-1 ,东南卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061503.m3u8
+http://223.159.80.19:12122/卫视频道/东南卫视高清?cors
 #EXTINF:-1 ,甘肃卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2025561703.m3u8
+http://223.159.80.19:12122/卫视频道/甘肃卫视高清?cors
 #EXTINF:-1 ,广东卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024060903.m3u8
+http://223.159.80.19:12122/卫视频道/广东卫视高清?cors
 #EXTINF:-1 ,广西卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024060703.m3u8
+http://223.159.80.19:12122/卫视频道/广西卫视高清?cors
 #EXTINF:-1 ,贵州卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061603.m3u8
+http://223.159.80.19:12122/卫视频道/贵州卫视高清?cors
 #EXTINF:-1 ,海南卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024055603.m3u8
+http://223.159.80.19:12122/卫视频道/海南卫视高清?cors
 #EXTINF:-1 ,河北卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171503.m3u8
+http://223.159.80.19:12122/卫视频道/河北卫视高清?cors
 #EXTINF:-1 ,河南卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2029797303.m3u8
+http://223.159.80.19:12122/卫视频道/河南卫视高清?cors
 #EXTINF:-1 ,黑龙江卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2029797003.m3u8
+http://223.159.80.19:12122/卫视频道/黑龙江卫视高清?cors
 #EXTINF:-1 ,湖北卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171203.m3u8
+http://223.159.80.19:12122/卫视频道/湖北卫视高清?cors
 #EXTINF:-1 ,湖南卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024054803.m3u8
+http://223.159.80.19:12122/卫视频道/湖南卫视高清?cors
 #EXTINF:-1 ,吉林卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2025561503.m3u8
+http://223.159.80.19:12122/卫视频道/吉林卫视高清?cors
 #EXTINF:-1 ,江苏卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171103.m3u8
+http://223.159.80.19:12122/卫视频道/江苏卫视高清?cors
 #EXTINF:-1 ,江西卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061703.m3u8
+http://223.159.80.19:12122/卫视频道/江西卫视高清?cors
 #EXTINF:-1 ,辽宁卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171303.m3u8
+http://223.159.80.19:12122/卫视频道/辽宁卫视高清?cors
 #EXTINF:-1 ,内蒙古卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2025561203.m3u8
+http://223.159.80.19:12122/卫视频道/内蒙古卫视高清?cors
 #EXTINF:-1 ,宁夏卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2025608503.m3u8
+http://223.159.80.19:12122/卫视频道/宁夏卫视高清?cors
 #EXTINF:-1 ,青海卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2025559103.m3u8
+http://223.159.80.19:12122/卫视频道/青海卫视高清?cors
+#EXTINF:-1 ,三沙卫视
+http://223.159.80.19:12122/卫视频道/三沙卫视高清?cors
 #EXTINF:-1 ,山东卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2029787903.m3u8
+http://223.159.80.19:12122/卫视频道/山东卫视高清?cors
 #EXTINF:-1 ,山西卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2025560803.m3u8
+http://223.159.80.19:12122/卫视频道/山西卫视高清?cors
 #EXTINF:-1 ,陕西卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2029795103.m3u8
+http://223.159.80.19:12122/卫视频道/陕西卫视高清?cors
 #EXTINF:-1 ,深圳卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061303.m3u8
+http://223.159.80.19:12122/卫视频道/深圳卫视高清?cors
 #EXTINF:-1 ,四川卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061403.m3u8
+http://223.159.80.19:12122/卫视频道/四川卫视高清?cors
 #EXTINF:-1 ,天津卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2019927003.m3u8
+http://223.159.80.19:12122/卫视频道/天津卫视高清?cors
 #EXTINF:-1 ,西藏卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2025558003.m3u8
+http://223.159.80.19:12122/卫视频道/西藏卫视高清?cors
 #EXTINF:-1 ,新疆卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
+http://223.159.80.19:12122/卫视频道/新疆卫视高清?cors
 #EXTINF:-1 ,云南卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2025561303.m3u8
+http://223.159.80.19:12122/卫视频道/云南卫视高清?cors
 #EXTINF:-1 ,浙江卫视
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024054703.m3u8
-#EXTINF:-1 ,CCTV兵器科技
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2026874603_dlna.m3u8
-#EXTINF:-1 ,CCTV第一剧场
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2026874203_dlna.m3u8
-#EXTINF:-1 ,CCTV电视指南
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2026875103_dlna.m3u8
-#EXTINF:-1 ,CCTV风云剧场
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2025637103_dlna.m3u8
-#EXTINF:-1 ,CCTV风云音乐
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2026874503_dlna.m3u8
-#EXTINF:-1 ,CCTV风云足球
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2026966203_dlna.m3u8
-#EXTINF:-1 ,CCTV高尔夫网球
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2026874703_dlna.m3u8
-#EXTINF:-1 ,CCTV怀旧剧场
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2026874303_dlna.m3u8
-#EXTINF:-1 ,CCTV女性时尚
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2026874803_dlna.m3u8
-#EXTINF:-1 ,CCTV世界地理
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2026874403_dlna.m3u8
-#EXTINF:-1 ,CCTV卫生健康
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2025637003_dlna.m3u8
-#EXTINF:-1 ,CCTV央视台球
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2026875003_dlna.m3u8
-#EXTINF:-1 ,CCTV央视文化精品
-http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2026874903_dlna.m3u8
+http://223.159.80.19:12122/卫视频道/浙江卫视高清?cors
+
+
+#EXTINF:-1 ,CCTV1_重庆电信新组播源
+http://113.248.167.241:4022/标清频道/CCTV1综合?cors
+#EXTINF:-1 ,CCTV1综合高清
+http://113.248.167.241:4022/央视频道/CCTV1综合高清?cors
+#EXTINF:-1 ,CCTV2
+http://113.248.167.241:4022/标清频道/CCTV2财经?cors
+#EXTINF:-1 ,CCTV2财经高清
+http://113.248.167.241:4022/央视频道/CCTV2财经高清?cors
+#EXTINF:-1 ,CCTV3
+http://113.248.167.241:4022/标清频道/CCTV3综艺?cors
+#EXTINF:-1 ,CCTV3综艺高清
+http://113.248.167.241:4022/央视频道/CCTV3综艺高清?cors
+#EXTINF:-1 ,CCTV4
+http://113.248.167.241:4022/标清频道/CCTV4中文国际?cors
+#EXTINF:-1 ,CCTV4中文国际高清
+http://113.248.167.241:4022/央视频道/CCTV4中文国际高清?cors
+#EXTINF:-1 ,CCTV5
+http://113.248.167.241:4022/标清频道/CCTV5体育?cors
+#EXTINF:-1 ,CCTV5体育高清
+http://113.248.167.241:4022/央视频道/CCTV5体育高清?cors
+#EXTINF:-1 ,CCTV5+
+http://113.248.167.241:4022/央视频道/CCTV5体育赛事高清?cors
+#EXTINF:-1 ,CCTV6
+http://113.248.167.241:4022/标清频道/CCTV6电影?cors
+#EXTINF:-1 ,CCTV6电影高清
+http://113.248.167.241:4022/央视频道/CCTV6电影高清?cors
+#EXTINF:-1 ,CCTV7
+http://113.248.167.241:4022/标清频道/CCTV7国防军事?cors
+#EXTINF:-1 ,CCTV7国防军事高清
+http://113.248.167.241:4022/央视频道/CCTV7国防军事高清?cors
+#EXTINF:-1 ,CCTV8
+http://113.248.167.241:4022/标清频道/CCTV8电视剧?cors
+#EXTINF:-1 ,CCTV8电视剧高清
+http://113.248.167.241:4022/央视频道/CCTV8电视剧高清?cors
+#EXTINF:-1 ,CCTV9
+http://113.248.167.241:4022/标清频道/CCTV9纪录?cors
+#EXTINF:-1 ,CCTV9纪录高清
+http://113.248.167.241:4022/央视频道/CCTV9纪录高清?cors
+#EXTINF:-1 ,CCTV10
+http://113.248.167.241:4022/标清频道/CCTV10科教?cors
+#EXTINF:-1 ,CCTV10科教高清
+http://113.248.167.241:4022/央视频道/CCTV10科教高清?cors
+#EXTINF:-1 ,CCTV11
+http://113.248.167.241:4022/标清频道/CCTV11戏曲?cors
+#EXTINF:-1 ,CCTV11戏曲高清
+http://113.248.167.241:4022/央视频道/CCTV11戏曲高清?cors
+#EXTINF:-1 ,CCTV12
+http://113.248.167.241:4022/标清频道/CCTV12社会与法?cors
+#EXTINF:-1 ,CCTV12社会与法高清
+http://113.248.167.241:4022/央视频道/CCTV12社会与法高清?cors
+#EXTINF:-1 ,CCTV13
+http://113.248.167.241:4022/标清频道/CCTV13新闻?cors
+#EXTINF:-1 ,CCTV13新闻高清
+http://113.248.167.241:4022/央视频道/CCTV13新闻高清?cors
+#EXTINF:-1 ,CCTV14
+http://113.248.167.241:4022/标清频道/CCTV少儿?cors
+#EXTINF:-1 ,CCTV14少儿高清
+http://113.248.167.241:4022/央视频道/CCTV少儿高清?cors
+#EXTINF:-1 ,CCTV15
+http://113.248.167.241:4022/标清频道/CCTV15音乐?cors
+#EXTINF:-1 ,CCTV15音乐高清
+http://113.248.167.241:4022/央视频道/CCTV15音乐高清?cors
+#EXTINF:-1 ,CCTV16
+http://113.248.167.241:4022/央视频道/CCTV16奥林匹克超高清?cors
+#EXTINF:-1 ,CCTV17
+http://113.248.167.241:4022/标清频道/CCTV17农业农村?cors
+#EXTINF:-1 ,CCTV17农业农村高清
+http://113.248.167.241:4022/央视频道/CCTV17农业农村高清?cors
+#EXTINF:-1 ,安徽卫视
+http://113.248.167.241:4022/标清频道/安徽卫视?cors
+#EXTINF:-1 ,安徽卫视高清
+http://113.248.167.241:4022/卫视频道/安徽卫视高清?cors
+#EXTINF:-1 ,北京卫视
+http://113.248.167.241:4022/标清频道/北京卫视?cors
+#EXTINF:-1 ,北京卫视高清
+http://113.248.167.241:4022/卫视频道/北京卫视高清?cors
+#EXTINF:-1 ,兵团卫视
+http://113.248.167.241:4022/卫视频道/新疆兵团卫视高清?cors
+#EXTINF:-1 ,重庆卫视
+http://113.248.167.241:4022/标清频道/重庆卫视频道?cors
+#EXTINF:-1 ,重庆卫视高清
+http://113.248.167.241:4022/重庆高清/重庆卫视高清?cors
+#EXTINF:-1 ,东方卫视
+http://113.248.167.241:4022/标清频道/东方卫视?cors
+#EXTINF:-1 ,东方卫视高清
+http://113.248.167.241:4022/卫视频道/东方卫视高清?cors
+#EXTINF:-1 ,东南卫视
+http://113.248.167.241:4022/标清频道/东南卫视?cors
+#EXTINF:-1 ,东南卫视高清
+http://113.248.167.241:4022/卫视频道/东南卫视高清?cors
+#EXTINF:-1 ,甘肃卫视
+http://113.248.167.241:4022/标清频道/甘肃卫视?cors
+#EXTINF:-1 ,甘肃卫视高清
+http://113.248.167.241:4022/卫视频道/甘肃卫视高清?cors
+#EXTINF:-1 ,广东卫视
+http://113.248.167.241:4022/标清频道/广东卫视?cors
+#EXTINF:-1 ,广东卫视高清
+http://113.248.167.241:4022/卫视频道/广东卫视高清?cors
+#EXTINF:-1 ,广西卫视
+http://113.248.167.241:4022/标清频道/广西卫视?cors
+#EXTINF:-1 ,贵州卫视
+http://113.248.167.241:4022/标清频道/贵州卫视?cors
+#EXTINF:-1 ,贵州卫视高清
+http://113.248.167.241:4022/卫视频道/贵州卫视高清?cors
+#EXTINF:-1 ,海南卫视
+http://113.248.167.241:4022/卫视频道/海南卫视HD?cors
+#EXTINF:-1 ,河北卫视
+http://113.248.167.241:4022/标清频道/河北卫视?cors
+#EXTINF:-1 ,河北卫视高清
+http://113.248.167.241:4022/卫视频道/河北卫视高清?cors
+#EXTINF:-1 ,河南卫视
+http://113.248.167.241:4022/标清频道/河南卫视?cors
+#EXTINF:-1 ,河南卫视高清
+http://113.248.167.241:4022/卫视频道/河南卫视高清?cors
+#EXTINF:-1 ,黑龙江卫视
+http://113.248.167.241:4022/标清频道/黑龙江卫视?cors
+#EXTINF:-1 ,黑龙江卫视高清
+http://113.248.167.241:4022/卫视频道/黑龙江卫视高清?cors
+#EXTINF:-1 ,湖北卫视
+http://113.248.167.241:4022/标清频道/湖北卫视?cors
+#EXTINF:-1 ,湖北卫视高清
+http://113.248.167.241:4022/卫视频道/湖北卫视高清?cors
+#EXTINF:-1 ,湖南卫视
+http://113.248.167.241:4022/标清频道/湖南卫视?cors
+#EXTINF:-1 ,湖南卫视高清
+http://113.248.167.241:4022/卫视频道/湖南卫视高清?cors
+#EXTINF:-1 ,吉林卫视
+http://113.248.167.241:4022/标清频道/吉林卫视?cors
+#EXTINF:-1 ,江苏卫视
+http://113.248.167.241:4022/标清频道/江苏卫视?cors
+#EXTINF:-1 ,江苏卫视高清
+http://113.248.167.241:4022/卫视频道/江苏卫视高清?cors
+#EXTINF:-1 ,江西卫视
+http://113.248.167.241:4022/卫视频道/江西卫视高清?cors
+#EXTINF:-1 ,辽宁卫视
+http://113.248.167.241:4022/标清频道/辽宁卫视?cors
+#EXTINF:-1 ,辽宁卫视高清
+http://113.248.167.241:4022/卫视频道/辽宁卫视高清?cors
+#EXTINF:-1 ,内蒙古卫视
+http://113.248.167.241:4022/标清频道/内蒙古卫视?cors
+#EXTINF:-1 ,内蒙古卫视高清
+http://113.248.167.241:4022/卫视频道/内蒙古卫视高清?cors
+#EXTINF:-1 ,宁夏卫视
+http://113.248.167.241:4022/标清频道/宁夏卫视?cors
+#EXTINF:-1 ,宁夏卫视高清
+http://113.248.167.241:4022/卫视频道/宁夏卫视高清?cors
+#EXTINF:-1 ,青海卫视
+http://113.248.167.241:4022/标清频道/青海卫视?cors
+#EXTINF:-1 ,山东卫视
+http://113.248.167.241:4022/标清频道/山东卫视?cors
+#EXTINF:-1 ,山东卫视高清
+http://113.248.167.241:4022/卫视频道/山东卫视高清?cors
+#EXTINF:-1 ,山西卫视
+http://113.248.167.241:4022/标清频道/山西卫视?cors
+#EXTINF:-1 ,陕西卫视
+http://113.248.167.241:4022/标清频道/陕西卫视?cors
+#EXTINF:-1 ,陕西卫视高清
+http://113.248.167.241:4022/卫视频道/陕西卫视高清?cors
+#EXTINF:-1 ,深圳卫视
+http://113.248.167.241:4022/标清频道/深圳卫视?cors
+#EXTINF:-1 ,深圳卫视高清
+http://113.248.167.241:4022/卫视频道/深圳卫视高清?cors
+#EXTINF:-1 ,四川卫视
+http://113.248.167.241:4022/标清频道/四川卫视?cors
+#EXTINF:-1 ,四川卫视高清
+http://113.248.167.241:4022/卫视频道/四川卫视高清?cors
+#EXTINF:-1 ,天津卫视
+http://113.248.167.241:4022/标清频道/天津卫视?cors
+#EXTINF:-1 ,天津卫视高清
+http://113.248.167.241:4022/卫视频道/天津卫视高清?cors
+#EXTINF:-1 ,西藏卫视
+http://113.248.167.241:4022/标清频道/西藏卫视?cors
+#EXTINF:-1 ,西藏卫视高清
+http://113.248.167.241:4022/卫视频道/西藏卫视高清?cors
+#EXTINF:-1 ,新疆卫视
+http://113.248.167.241:4022/标清频道/新疆卫视?cors
+#EXTINF:-1 ,新疆卫视高清
+http://113.248.167.241:4022/卫视频道/新疆卫视高清?cors
+#EXTINF:-1 ,云南卫视
+http://113.248.167.241:4022/标清频道/云南卫视?cors
+#EXTINF:-1 ,云南卫视高清
+http://113.248.167.241:4022/卫视频道/云南卫视高清?cors
+#EXTINF:-1 ,浙江卫视
+http://113.248.167.241:4022/标清频道/浙江卫视?cors
+#EXTINF:-1 ,浙江卫视高清
+http://113.248.167.241:4022/卫视频道/浙江卫视高清?cors
+#EXTINF:-1 ,东方财经HD
+http://113.248.167.241:4022/专业频道/东方财经HD?cors
+#EXTINF:-1 ,生活时尚HD
+http://113.248.167.241:4022/专业频道/生活时尚HD?cors
+#EXTINF:-1 ,风云音乐HD
+http://113.248.167.241:4022/专业频道/风云音乐HD?cors
+#EXTINF:-1 ,第一剧场HD
+http://113.248.167.241:4022/专业频道/第一剧场HD?cors
+#EXTINF:-1 ,世界地理HD
+http://113.248.167.241:4022/专业频道/世界地理HD?cors
+#EXTINF:-1 ,女性时尚HD
+http://113.248.167.241:4022/专业频道/女性时尚HD?cors
+#EXTINF:-1 ,风云剧场HD
+http://113.248.167.241:4022/专业频道/风云剧场HD?cors
+#EXTINF:-1 ,风云足球HD
+http://113.248.167.241:4022/专业频道/风云足球HD?cors
+#EXTINF:-1 ,怀旧剧场HD
+http://113.248.167.241:4022/专业频道/怀旧剧场HD?cors
+#EXTINF:-1 ,兵器科技HD
+http://113.248.167.241:4022/专业频道/兵器科技HD?cors
+#EXTINF:-1 ,央视台球HD
+http://113.248.167.241:4022/专业频道/央视台球HD?cors
+#EXTINF:-1 ,电视指南HD
+http://113.248.167.241:4022/专业频道/电视指南HD?cors
+#EXTINF:-1 ,高尔夫网球HD
+http://113.248.167.241:4022/专业频道/高尔夫网球HD?cors
+#EXTINF:-1 ,央视文化精品HD
+http://113.248.167.241:4022/专业频道/央视文化精品HD?cors
+#EXTINF:-1 ,卫生健康HD
+http://113.248.167.241:4022/专业频道/卫生健康HD?cors
 
 
 #EXTINF:-1 ,CCTV1_辽宁联通的组播源
